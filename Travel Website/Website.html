@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <script src="https://kit.fontawesome.com/82b47effe3.js" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.bundle.js" async></script>
+    <title >Trawell</title>
+    <style type="text/css">
+        .defing{
+          align-self: auto;
+        }
+        .bg-teal{
+            background-color: teal;
+        }
+        .text-white{
+            color:white;
+        }
+        .padding{
+            padding-left: 100px;
+            padding-right:100px;
+            margin-top: 30px ;
+        }
+        .allign{
+          align-items: center;
+          text-align: center;
+          align-content: center;
+        }
+        .icon{
+          height:50px; 
+          width: 50px;
+        }
+        .gallery{
+          height: 180px;
+          width: 280px;
+          padding-top: 30px;
+        }
+        .navbar {
+          display:flex;
+          overflow: hidden;
+          position: sticky; 
+          top: 0;
+          width: 100%;
+          float: top;
+          z-index: index 100;
+        }
+        #home{
+          text-decoration:none;
+        }
+        #search{
+          text-decoration: none;
+          position: relative;
+          z-index: 2;
+        }
+        #gallery{
+          text-decoration: none;
+        }
+        #contact{
+          text-decoration: none;
+        }
+
+    </style>
+    <script type="text/javascript">
+      function submit(){
+        prompt("Thank you for registering in Trawell!, Our executives will contact you in no time. Please enter your 10 digit mobile number and click OK")
+      }
+    </script>
+</head>
+<body class="bg-teal" style="padding: top 60px;">
+<!--------Navigator------->
+  <nav class="navbar navbar-expand-lg bg-teal padding navbar">
+    <div class="container-fluid">
+      <span class="fas fa-2x fa-bus" style="color:red;"></span><a class="navbar-brand text-white" href="#">TraWell</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active text-white" aria-current="page" href="#home">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white" href="#search">Search</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white" href="#slider">Visiting Spots</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white" href="#gallery">Gallery</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-white" href="#contact">Contact</a>
+              </li>
+            </ul>
+        </div>
+  </nav>
+    <!------Slider------>
+    <div class="container-fluid">
+      <div id="carouselExampleCaptions" class="carousel slide bg-teal size padding main" id="slider" style="position:relative" data-bs-ride="false">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner allign bg-teal">
+        <div class="carousel-item active">
+          <img src="Image-01.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Nature View</h5>
+            <p>Buckle up to experience the beauty of nature in a whole new level</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="Image-04.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Eyefeast views</h5>
+            <p>Trips which you regret later for missing!</p>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="Image-02.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Lavish Ambience</h5>
+            <p>Cozy provisions for accomidation with unbeleiveable price range.</p>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+      </div>
+    </div>
+<!----Search------------------>
+   <div class="container-fluid">
+    <div class="card bg-teal text-white main padding" id="search">
+      <div class="card-body padding">
+          <p class="display-4">Search Your Destination Here</p>
+          <p>Search for ya dream location and we will get you there within reasonable budget</p>
+          <div class="row">
+            <div class="col-sm-6">
+              <form>
+                <input type="text" class="form-control" placeholder="Search a Place"/>
+              </form>
+            </div>
+          </div>   
+      </div>
+    </div>
+    </div>
+<!------9-Pics-Gallery----->
+  <div class="container-fluid padding bg-teal" id="gallery">
+    <div class="row">
+      <div class="col-sm-3 allign">
+        <img onmouseover="bigImg(this)" src="Image-01.jpg" alt="Image-01" class="gallery"/>
+      </div>
+      <div class="col-sm-3 allign">
+        <img src="Image-02.jpg" class="gallery"/>
+      </div>
+      <div class="col-sm-3 allign">
+        <img src="Image-04.jpg" class="gallery"/>
+      </div>
+      <div class="col-sm-3 allign">
+        <img src="Image-05.jpg" class="gallery"/>
+      </div>
+      <div class="col-sm-3 allign">
+        <img src="Image-01.jpg" class="gallery"/>
+      </div>
+      <div class="col-sm-3 allign">
+        <img src="Image-04.jpg" class="gallery"/>
+      </div>
+      <div class="col-sm-3 allign">
+        <img src="Image-02.jpg" class="gallery"/>
+      </div>
+      <div class="col-sm-3 allign">
+        <img src="Image-05.jpg" class="gallery"/>
+      </div>
+    </div>
+  </div>  
+    
+<!---------3-Card Description-->
+  <div class="container-fluid padding" style="padding-top:30px; padding-bottom:30px;">
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card allign" onmouseover="card.hover">
+          <div class="card-body">
+            <i class="fas fa-4x fa-paper-plane" style='color:teal;'></i>
+            <h2>Pick Places</h2>
+            <p>Select the location(s) you wanted to visit, We will get you there with outmost comfort preference</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card allign">
+          <div class="card-body allign">
+            <i class="fas fa-4x fa-building" style='color:teal;'></i>
+            <h2>Shop & Travel</h2>
+            <p>Shopping is surely fun in the tourist places. Shop your heart out while travelling without any hesitation</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-4">
+        <div class="card allign">
+          <div class="card-body" >
+            <i class="fas fa-4x fa-bus" style='color:teal;'></i>
+            <h2>Travel Cheap</h2>
+            <p>We ensure that our clients travel in the cheap and best way possible while maintaining saftey and comfort.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-------Contact and register form-->
+  <div class="container bg-teal" id="contact">
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="card">
+          <div class="card-header bg-teal allign">
+             <h2>Contact Us</h2>
+          </div>
+          <div class="card-body">
+            <p>Email: makeatrip@trawell.com</p>
+            <p>Insta: @trawellwithus</p>
+            <p>Phone: 040-6480 9861</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <div class="card">
+          <div class="card-header bg-teal allign">
+             <h2>Register Here!</h2>
+          </div>
+          <div class="card-body">
+            <form>
+              <label>Name      :</label> <input class="text" placeholder="Your Name" size="20" maxlength="6" type='mandatory '/><br><br>
+              <label>Contact no:</label> <input class="text" placeholder="+91 your mobile number" size="20" maxlength="15"/><br><br>
+              <label>Email     :</label> <input class="email" placeholder="Your Email" size="20" maxlength="30"/>
+              <button style='color:white; background:teal; border-radius: 2px;' type="button" onclick="alert('Thank You!, Our executives will contact soon')">Register Me!</button>"
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!---Footer-->
+  <div class="container-fluid bg-teal allign">
+    <p>By HarshaXD</p>
+  </div>
+</body>
+</html>
