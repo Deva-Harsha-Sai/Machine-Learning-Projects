@@ -1,0 +1,152 @@
+body {
+    background-color: #f7f9fc;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+}
+
+.dark-mode {
+    background-color: #2e2e2e;
+}
+
+.theme-toggle {
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: #333;
+    transition: color 0.3s ease; /* Smooth transition for text color */
+}
+
+.theme-toggle:hover {
+    color: #ddd; /* Adjust hover color for dark mode */
+}
+
+.form-container {
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    transition: color 0.3s ease; /* Smooth transition for text color */
+}
+
+.form {
+    display: inline-block;
+    text-align: left;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    width: 300px;
+    transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease; /* Smooth transitions for background, border, and box-shadow */
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #555;
+    transition: color 0.3s ease; /* Smooth transition for text color */
+}
+
+.form-group input,
+.form-group select {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease; /* Smooth transitions for background, border, and text color */
+}
+
+.form-group input[type="range"] {
+    width: calc(100% - 40px);
+    margin-right: 5px;
+}
+
+.form-group span {
+    font-weight: bold;
+    margin-left: 10px;
+    color: #333;
+    transition: color 0.3s ease; /* Smooth transition for text color */
+}
+
+.submit-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+}
+
+.submit-button:hover {
+    background-color: #45a049;
+}
+
+h1, h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+    transition: color 0.3s ease; /* Smooth transition for text color */
+}
+
+/* Dark Mode Styles */
+
+.dark-mode .form-container {
+    color: #ddd;
+}
+
+.dark-mode .form {
+    background-color: #444;
+    border: 1px solid #555;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.dark-mode h1,
+.dark-mode h2,
+.dark-mode label,
+.dark-mode .theme-toggle {
+    color: #ddd;
+}
+
+.dark-mode .form-group input,
+.dark-mode .form-group select {
+    background-color: #555;
+    border: 1px solid #666;
+    color: #ddd;
+}
+
+.dark-mode .form-group input[type="range"] {
+    background-color: #666;
+    color: #ddd;
+}
+
+.dark-mode .form-group span {
+    color: #ffffff;
+}
+
+.dark-mode .submit-button {
+    background-color: #008CBA;
+    color: white;
+}
+
+.dark-mode .submit-button:hover {
+    background-color: #005f6b;
+}
