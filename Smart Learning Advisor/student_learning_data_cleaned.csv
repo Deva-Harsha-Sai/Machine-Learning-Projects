@@ -1,0 +1,4001 @@
+Student ID,Subject,Previous Score,Time Left,Subject Importance,Preferred Learning Style
+1.0,Economics,70.0,26.0,1.0,Lectures
+1.0,History,71.0,31.0,5.0,Practice-Reading
+1.0,Chemistry,84.0,28.0,5.0,Practical-Visual
+1.0,Science,77.0,51.0,5.0,Visual-Practical
+1.0,Science,68.0,29.0,5.0,Practice-Lectures
+1.0,Computer Science,83.0,17.0,5.0,Reading-Practice
+1.0,Chemistry,68.0,12.0,4.0,Visual-Lectures
+1.0,History,69.0,40.0,1.0,Practical
+1.0,Economics,66.0,34.0,1.0,Lectures
+1.0,Science,86.0,22.0,4.0,Practical-Visual
+1.0,Science,73.0,14.0,5.0,Practice
+1.0,Chemistry,77.0,15.0,5.0,Practical
+1.0,Economics,78.0,41.0,2.0,Practice
+1.0,Mathematics,63.0,39.0,5.0,Practical
+1.0,Physics,79.0,28.0,5.0,Visual
+1.0,Economics,62.0,27.0,1.0,Lectures
+1.0,Chemistry,74.0,34.0,5.0,Visual
+1.0,English,77.0,41.0,3.0,Lectures-Practice
+1.0,Science,79.0,17.0,5.0,Practice-Visual
+1.0,Science,72.0,33.0,4.0,Practical
+2.0,Chemistry,70.0,35.0,5.0,Lectures-Visual
+2.0,English,59.0,38.0,3.0,Reading
+2.0,Mathematics,80.0,39.0,4.0,Practical
+2.0,Physics,70.0,33.0,5.0,Visual
+2.0,Science,87.0,14.0,5.0,Practice-Practical
+2.0,Biology,81.0,20.0,3.0,Practice-Practical
+2.0,Computer Science,86.0,37.0,5.0,Practical-Reading
+2.0,Biology,81.0,40.0,2.0,Visual-Reading
+2.0,Chemistry,67.0,25.0,5.0,Practical-Lectures
+2.0,Biology,79.0,44.0,3.0,Visual-Practical
+2.0,History,68.0,19.0,5.0,Lectures-Visual
+2.0,Mathematics,92.0,27.0,5.0,Lectures
+2.0,Chemistry,70.0,51.0,5.0,Practical-Practice
+2.0,Geography,55.0,28.0,3.0,Reading-Lectures
+2.0,Science,69.0,31.0,4.0,Lectures-Practice
+2.0,English,77.0,28.0,1.0,Reading-Practical
+2.0,History,52.0,32.0,3.0,Practice-Practical
+2.0,Economics,78.0,26.0,4.0,Practice-Reading
+2.0,Mathematics,82.0,16.0,5.0,Practice
+2.0,Geography,70.0,27.0,3.0,Practice-Reading
+3.0,Chemistry,81.0,46.0,5.0,Reading-Practice
+3.0,Computer Science,75.0,37.0,5.0,Practical-Visual
+3.0,English,74.0,46.0,5.0,Practice-Reading
+3.0,Computer Science,74.0,23.0,4.0,Reading-Practical
+3.0,Biology,62.0,28.0,3.0,Lectures-Practice
+3.0,Geography,61.0,13.0,5.0,Practical-Lectures
+3.0,Economics,74.0,26.0,3.0,Reading
+3.0,Chemistry,62.0,25.0,4.0,Practical
+3.0,Computer Science,81.0,35.0,5.0,Visual
+3.0,Chemistry,65.0,24.0,4.0,Reading
+3.0,Chemistry,76.0,28.0,4.0,Visual-Lectures
+3.0,Mathematics,74.0,11.0,4.0,Practical-Lectures
+3.0,Computer Science,62.0,36.0,5.0,Lectures-Reading
+3.0,Economics,73.0,36.0,3.0,Lectures-Practical
+3.0,Biology,83.0,18.0,4.0,Practical-Practice
+3.0,History,67.0,29.0,1.0,Lectures
+3.0,Economics,63.0,46.0,1.0,Reading
+3.0,History,82.0,43.0,5.0,Reading
+3.0,Physics,75.0,32.0,5.0,Lectures-Visual
+3.0,Economics,78.0,11.0,4.0,Practice
+4.0,Physics,72.0,26.0,5.0,Lectures
+4.0,Physics,70.0,19.0,5.0,Visual
+4.0,Science,67.0,24.0,5.0,Reading
+4.0,History,74.0,31.0,2.0,Practice-Visual
+4.0,Mathematics,79.0,35.0,5.0,Reading-Practical
+4.0,English,83.0,22.0,3.0,Lectures
+4.0,Physics,66.0,39.0,5.0,Lectures-Practice
+4.0,Science,82.0,35.0,5.0,Practice-Lectures
+4.0,Mathematics,61.0,35.0,5.0,Visual-Lectures
+4.0,Physics,68.0,22.0,5.0,Reading-Visual
+4.0,Economics,60.0,34.0,3.0,Visual-Practical
+4.0,Chemistry,52.0,36.0,5.0,Lectures
+4.0,Chemistry,85.0,27.0,5.0,Visual-Lectures
+4.0,Science,90.0,22.0,5.0,Practice-Lectures
+4.0,Physics,77.0,29.0,5.0,Visual
+4.0,Geography,63.0,35.0,2.0,Visual-Practice
+4.0,Physics,82.0,21.0,4.0,Practical
+4.0,Science,69.0,15.0,4.0,Visual-Practical
+4.0,Geography,73.0,25.0,5.0,Lectures-Reading
+4.0,English,56.0,23.0,4.0,Practice
+5.0,English,74.0,23.0,1.0,Visual
+5.0,Mathematics,90.0,35.0,5.0,Visual
+5.0,Economics,84.0,32.0,1.0,Lectures
+5.0,Computer Science,72.0,33.0,4.0,Visual-Lectures
+5.0,Computer Science,75.0,26.0,4.0,Practice-Visual
+5.0,Physics,91.0,35.0,5.0,Lectures
+5.0,Geography,72.0,21.0,2.0,Reading
+5.0,History,70.0,42.0,3.0,Practice-Practical
+5.0,Computer Science,83.0,19.0,4.0,Lectures
+5.0,Physics,82.0,17.0,5.0,Practice-Visual
+5.0,History,71.0,30.0,5.0,Practical
+5.0,Chemistry,64.0,52.0,4.0,Lectures
+5.0,History,78.0,34.0,2.0,Practice-Lectures
+5.0,Biology,76.0,20.0,5.0,Lectures
+5.0,Mathematics,76.0,28.0,5.0,Reading
+5.0,History,77.0,33.0,2.0,Practice
+5.0,Mathematics,65.0,19.0,4.0,Practice
+5.0,Economics,73.0,32.0,3.0,Visual
+5.0,Physics,73.0,36.0,5.0,Visual
+5.0,Mathematics,61.0,22.0,4.0,Practice
+6.0,Physics,87.0,13.0,5.0,Practical
+6.0,Mathematics,76.0,20.0,5.0,Visual-Practical
+6.0,Chemistry,72.0,30.0,4.0,Lectures
+6.0,Computer Science,81.0,27.0,5.0,Visual-Practice
+6.0,Geography,72.0,34.0,4.0,Practice-Reading
+6.0,Geography,79.0,34.0,1.0,Reading
+6.0,Economics,81.0,32.0,2.0,Reading
+6.0,English,68.0,33.0,5.0,Reading
+6.0,Mathematics,82.0,18.0,4.0,Practical
+6.0,English,78.0,26.0,3.0,Reading-Practice
+6.0,Geography,76.0,43.0,1.0,Lectures
+6.0,Computer Science,78.0,32.0,5.0,Lectures
+6.0,Mathematics,93.0,20.0,5.0,Practice-Reading
+6.0,Biology,90.0,44.0,4.0,Lectures
+6.0,Mathematics,82.0,38.0,5.0,Lectures-Reading
+6.0,Economics,69.0,30.0,1.0,Practice
+6.0,Science,83.0,22.0,4.0,Practical
+6.0,Mathematics,76.0,38.0,5.0,Practice-Visual
+6.0,Computer Science,73.0,20.0,5.0,Visual
+6.0,History,90.0,17.0,3.0,Practical-Reading
+7.0,Science,87.0,47.0,5.0,Practical-Lectures
+7.0,English,73.0,26.0,5.0,Lectures-Reading
+7.0,Physics,64.0,21.0,5.0,Lectures-Visual
+7.0,History,72.0,38.0,3.0,Visual-Practical
+7.0,Geography,53.0,29.0,2.0,Practice-Reading
+7.0,Economics,75.0,56.0,2.0,Reading-Lectures
+7.0,Physics,74.0,14.0,5.0,Visual-Reading
+7.0,Science,70.0,32.0,5.0,Practice-Lectures
+7.0,Mathematics,75.0,27.0,5.0,Practice-Visual
+7.0,Geography,71.0,15.0,2.0,Practice
+7.0,English,71.0,44.0,2.0,Visual
+7.0,Science,78.0,29.0,5.0,Practice
+7.0,Physics,81.0,34.0,5.0,Reading-Practice
+7.0,Mathematics,78.0,40.0,5.0,Lectures
+7.0,English,71.0,19.0,2.0,Lectures
+7.0,Biology,69.0,18.0,4.0,Practice-Reading
+7.0,Economics,81.0,37.0,4.0,Practice-Visual
+7.0,Chemistry,70.0,32.0,5.0,Visual
+7.0,Science,73.0,46.0,5.0,Practice
+7.0,Physics,59.0,44.0,4.0,Practice
+8.0,History,66.0,32.0,5.0,Practical-Reading
+8.0,English,63.0,28.0,1.0,Practice-Visual
+8.0,Mathematics,76.0,30.0,4.0,Practical-Reading
+8.0,Geography,73.0,43.0,5.0,Visual-Reading
+8.0,Economics,99.0,38.0,2.0,Lectures-Reading
+8.0,Physics,76.0,28.0,5.0,Practical-Lectures
+8.0,Physics,68.0,44.0,5.0,Practice-Visual
+8.0,Computer Science,77.0,25.0,5.0,Lectures
+8.0,Economics,68.0,27.0,3.0,Visual
+8.0,Biology,88.0,16.0,3.0,Reading
+8.0,Science,95.0,32.0,5.0,Visual
+8.0,Biology,89.0,34.0,4.0,Reading-Visual
+8.0,Science,68.0,48.0,5.0,Practical-Visual
+8.0,Physics,87.0,29.0,5.0,Visual-Reading
+8.0,Computer Science,70.0,30.0,4.0,Practical
+8.0,History,64.0,18.0,1.0,Practice-Practical
+8.0,Mathematics,70.0,26.0,5.0,Lectures-Visual
+8.0,Computer Science,83.0,13.0,5.0,Visual-Practical
+8.0,Science,69.0,18.0,5.0,Visual-Practical
+8.0,Geography,90.0,31.0,3.0,Visual
+9.0,Biology,55.0,17.0,3.0,Visual
+9.0,Geography,73.0,19.0,4.0,Reading
+9.0,Chemistry,73.0,32.0,5.0,Practice-Reading
+9.0,Chemistry,66.0,38.0,4.0,Practice-Reading
+9.0,Geography,60.0,31.0,3.0,Practice
+9.0,Chemistry,63.0,39.0,5.0,Visual-Practical
+9.0,Economics,67.0,56.0,4.0,Lectures
+9.0,Mathematics,78.0,33.0,5.0,Lectures
+9.0,Chemistry,81.0,37.0,4.0,Practice-Reading
+9.0,Chemistry,70.0,42.0,5.0,Visual
+9.0,Mathematics,87.0,30.0,5.0,Lectures-Visual
+9.0,Science,72.0,7.0,5.0,Lectures-Visual
+9.0,Biology,65.0,20.0,5.0,Visual-Practice
+9.0,Geography,69.0,15.0,2.0,Reading-Lectures
+9.0,Science,66.0,18.0,4.0,Lectures
+9.0,Science,87.0,27.0,5.0,Lectures-Practice
+9.0,History,66.0,28.0,1.0,Lectures-Practical
+9.0,Physics,72.0,31.0,4.0,Reading
+9.0,Physics,86.0,34.0,4.0,Visual
+9.0,Biology,71.0,37.0,1.0,Visual
+10.0,Science,68.0,31.0,4.0,Reading-Visual
+10.0,Chemistry,81.0,31.0,5.0,Lectures
+10.0,Chemistry,76.0,21.0,5.0,Reading
+10.0,Chemistry,84.0,28.0,5.0,Lectures
+10.0,Biology,95.0,20.0,1.0,Practical-Visual
+10.0,Economics,74.0,50.0,5.0,Reading
+10.0,History,68.0,40.0,4.0,Lectures
+10.0,Science,69.0,39.0,5.0,Lectures-Visual
+10.0,Economics,66.0,18.0,3.0,Lectures-Practice
+10.0,Mathematics,75.0,28.0,4.0,Reading
+10.0,Science,87.0,38.0,5.0,Reading
+10.0,Physics,64.0,26.0,5.0,Practice
+10.0,English,52.0,18.0,2.0,Practice
+10.0,History,73.0,36.0,3.0,Practice-Visual
+10.0,English,82.0,29.0,5.0,Reading-Visual
+10.0,Economics,103.0,28.0,3.0,Lectures
+10.0,Science,77.0,37.0,5.0,Practice
+10.0,History,81.0,13.0,4.0,Practice
+10.0,Geography,66.0,37.0,2.0,Practical
+10.0,Biology,89.0,32.0,3.0,Lectures-Practical
+11.0,History,66.0,47.0,5.0,Practical-Reading
+11.0,History,79.0,8.0,4.0,Lectures-Practical
+11.0,Science,63.0,22.0,5.0,Visual-Practice
+11.0,Geography,84.0,40.0,1.0,Practical
+11.0,Biology,73.0,30.0,2.0,Reading
+11.0,Computer Science,86.0,26.0,4.0,Practice-Visual
+11.0,Computer Science,59.0,52.0,4.0,Practical
+11.0,Computer Science,83.0,33.0,4.0,Practical
+11.0,Biology,67.0,26.0,2.0,Reading
+11.0,Chemistry,63.0,36.0,4.0,Practical
+11.0,Mathematics,87.0,31.0,5.0,Practical-Practice
+11.0,Physics,76.0,29.0,5.0,Visual
+11.0,Science,73.0,20.0,5.0,Practice
+11.0,Mathematics,77.0,38.0,5.0,Lectures
+11.0,Computer Science,70.0,48.0,4.0,Practice
+11.0,Geography,69.0,27.0,2.0,Lectures
+11.0,Computer Science,82.0,26.0,5.0,Lectures
+11.0,Science,81.0,31.0,5.0,Reading
+11.0,Biology,71.0,38.0,4.0,Practical
+11.0,Mathematics,83.0,23.0,5.0,Practice
+12.0,Science,64.0,29.0,4.0,Visual-Lectures
+12.0,English,84.0,27.0,3.8680190333082893,Lectures
+12.0,Geography,81.0,36.0,3.0,Reading-Lectures
+12.0,Computer Science,83.0,35.0,4.0,Lectures
+12.0,Economics,76.0,30.0,5.0,Lectures
+12.0,Physics,84.0,20.0,5.0,Practice
+12.0,Science,84.0,14.0,5.0,Practice-Visual
+12.0,Computer Science,72.0,40.0,4.0,Lectures
+12.0,History,83.0,13.0,4.0,Lectures-Practice
+12.0,Biology,77.0,32.0,3.0,Visual
+12.0,Geography,99.0,35.0,5.0,Visual
+12.0,History,85.0,20.0,5.0,Practical-Visual
+12.0,Biology,87.0,45.0,2.0,Lectures-Practical
+12.0,English,89.0,26.0,2.0,Reading
+12.0,Science,85.0,17.0,4.0,Practical-Practice
+12.0,Science,69.0,29.0,5.0,Lectures-Reading
+12.0,Chemistry,110.0,21.0,4.0,Reading
+12.0,Geography,61.0,30.0,5.0,Lectures
+12.0,Economics,65.0,17.0,2.0,Reading-Lectures
+12.0,Physics,82.0,38.0,5.0,Reading-Practice
+13.0,Physics,73.0,16.0,5.0,Reading-Lectures
+13.0,Geography,60.0,21.0,2.0,Practice-Visual
+13.0,Physics,77.0,40.0,4.0,Practice-Practical
+13.0,Biology,96.0,33.0,2.0,Lectures
+13.0,Biology,68.0,4.0,4.0,Practice-Reading
+13.0,Geography,59.0,46.0,4.0,Reading
+13.0,Science,57.0,11.0,5.0,Practical
+13.0,Geography,72.0,22.0,5.0,Reading-Lectures
+13.0,Geography,63.0,41.0,2.0,Practice
+13.0,Science,70.0,16.0,5.0,Lectures-Reading
+13.0,Computer Science,63.0,31.0,5.0,Visual-Lectures
+13.0,Geography,61.0,24.0,5.0,Lectures
+13.0,Physics,80.0,38.0,5.0,Visual-Practice
+13.0,Science,92.0,33.0,5.0,Practice
+13.0,Economics,85.0,37.0,3.0,Visual
+13.0,English,79.0,50.0,3.0,Lectures
+13.0,History,59.0,27.0,1.0,Practical-Practice
+13.0,Computer Science,63.0,39.0,4.0,Lectures-Practice
+13.0,Biology,65.0,25.0,4.0,Practical
+13.0,Chemistry,74.0,37.0,5.0,Practical-Reading
+14.0,Computer Science,73.0,37.0,4.0,Lectures-Practical
+14.0,Science,69.0,36.0,5.0,Lectures-Reading
+14.0,Physics,68.0,41.0,4.0,Practical
+14.0,Economics,95.0,40.0,4.0,Reading
+14.0,Science,74.0,21.0,5.0,Reading-Lectures
+14.0,Economics,66.0,31.0,5.0,Reading-Visual
+14.0,English,80.0,28.0,1.0,Reading-Lectures
+14.0,Science,90.0,39.0,5.0,Practice-Lectures
+14.0,Mathematics,85.0,36.0,5.0,Lectures
+14.0,History,56.0,25.0,3.0,Visual-Practice
+14.0,English,96.0,15.0,5.0,Reading
+14.0,Computer Science,64.0,31.0,5.0,Practical-Practice
+14.0,English,84.0,13.0,5.0,Lectures-Practical
+14.0,Geography,75.0,39.0,3.0,Practice-Practical
+14.0,Economics,85.0,28.0,5.0,Practical
+14.0,Chemistry,81.0,24.0,5.0,Reading
+14.0,History,78.0,40.0,5.0,Practice-Visual
+14.0,Science,98.0,33.0,5.0,Lectures-Visual
+14.0,Mathematics,67.0,15.0,4.0,Reading
+14.0,Mathematics,87.0,27.0,5.0,Visual-Lectures
+15.0,Geography,83.0,50.0,5.0,Visual-Reading
+15.0,Geography,57.0,23.0,1.0,Visual-Lectures
+15.0,Physics,64.0,27.0,4.0,Reading
+15.0,History,65.0,34.0,2.0,Practice-Visual
+15.0,English,81.0,26.0,1.0,Reading
+15.0,Geography,73.0,28.0,3.8680190333082893,Practical-Visual
+15.0,Economics,73.0,20.0,5.0,Lectures
+15.0,Physics,75.0,32.0,4.0,Visual-Lectures
+15.0,Physics,94.0,26.0,4.0,Reading-Practical
+15.0,Science,87.0,32.0,4.0,Visual-Practical
+15.0,Science,81.0,29.0,4.0,Practice
+15.0,Physics,91.0,28.0,4.0,Practical-Lectures
+15.0,Physics,92.0,18.0,4.0,Reading-Visual
+15.0,Chemistry,81.0,27.0,5.0,Lectures-Practice
+15.0,English,79.0,37.0,4.0,Practice
+15.0,Mathematics,82.0,23.0,5.0,Lectures
+15.0,Geography,82.0,26.0,2.0,Lectures-Practice
+15.0,Science,59.0,19.0,4.0,Reading-Visual
+15.0,Mathematics,87.0,34.0,5.0,Lectures
+15.0,Mathematics,63.0,13.0,5.0,Visual-Lectures
+16.0,Geography,80.0,31.0,5.0,Visual-Reading
+16.0,History,76.0,20.0,5.0,Lectures-Practical
+16.0,Physics,60.0,18.0,5.0,Reading
+16.0,Geography,73.0,7.0,3.0,Lectures-Practical
+16.0,Computer Science,67.0,19.0,5.0,Practical
+16.0,Geography,70.0,36.0,4.0,Practice
+16.0,Biology,87.0,21.0,2.0,Lectures-Reading
+16.0,Biology,79.0,1.0,3.0,Practice
+16.0,History,69.0,19.0,3.0,Lectures
+16.0,Economics,82.0,28.0,4.0,Visual
+16.0,Computer Science,76.0,12.0,4.0,Practice-Lectures
+16.0,Computer Science,73.0,30.0,4.0,Practical
+16.0,Biology,79.0,33.0,5.0,Practical
+16.0,Chemistry,79.0,20.0,4.0,Lectures
+16.0,History,73.0,18.0,5.0,Lectures-Practice
+16.0,Biology,69.0,32.0,1.0,Practice
+16.0,Biology,76.0,35.0,5.0,Practice-Practical
+16.0,Economics,83.0,36.0,3.0,Practice-Visual
+16.0,Biology,74.0,21.0,1.0,Practice-Visual
+16.0,Physics,78.0,48.0,4.0,Lectures-Reading
+17.0,Geography,74.0,26.0,4.0,Visual-Reading
+17.0,Chemistry,58.0,48.0,5.0,Reading-Lectures
+17.0,Biology,60.0,41.0,3.0,Visual-Reading
+17.0,Biology,77.0,25.0,4.0,Reading
+17.0,Physics,80.0,24.0,4.0,Lectures
+17.0,Chemistry,73.0,23.0,5.0,Visual
+17.0,Biology,97.0,28.0,1.0,Reading-Visual
+17.0,Science,95.0,18.0,5.0,Visual-Lectures
+17.0,History,75.0,22.0,4.0,Reading-Visual
+17.0,Mathematics,84.0,25.0,5.0,Visual
+17.0,Geography,71.0,26.0,2.0,Visual
+17.0,English,66.0,28.0,3.0,Practice
+17.0,Mathematics,54.0,32.0,4.0,Reading
+17.0,Physics,69.0,23.0,5.0,Lectures-Reading
+17.0,Science,61.0,30.0,4.0,Practice-Reading
+17.0,Mathematics,74.0,35.0,4.0,Reading
+17.0,Mathematics,84.0,17.0,5.0,Lectures
+17.0,English,80.0,43.0,5.0,Reading
+17.0,History,73.0,37.0,4.0,Visual-Lectures
+17.0,Biology,69.0,27.0,5.0,Practice-Practical
+18.0,History,93.0,27.0,4.0,Visual
+18.0,English,72.0,36.0,2.0,Visual
+18.0,Geography,76.0,37.0,3.0,Practical
+18.0,Economics,89.0,19.0,3.0,Lectures
+18.0,Geography,66.0,21.0,1.0,Lectures-Reading
+18.0,Mathematics,81.0,28.0,4.0,Practical-Reading
+18.0,Physics,70.0,33.0,5.0,Visual-Reading
+18.0,Geography,83.0,49.0,3.0,Practical
+18.0,Geography,82.0,36.0,4.0,Reading-Practical
+18.0,Mathematics,87.0,26.0,4.0,Practical
+18.0,Economics,71.0,39.0,3.0,Visual
+18.0,Physics,73.0,32.0,4.0,Reading-Lectures
+18.0,Economics,71.0,40.0,4.0,Lectures-Visual
+18.0,Physics,71.0,31.0,5.0,Lectures
+18.0,Science,92.0,18.0,4.0,Visual-Practical
+18.0,History,89.0,31.0,1.0,Practical
+18.0,Science,83.0,12.0,4.0,Lectures-Reading
+18.0,Economics,63.0,28.0,3.0,Practice-Lectures
+18.0,Economics,101.0,31.0,4.0,Practical
+18.0,English,82.0,32.0,2.0,Visual
+19.0,English,61.0,31.0,5.0,Practical-Lectures
+19.0,History,91.0,36.0,1.0,Visual
+19.0,Science,85.0,26.0,5.0,Lectures
+19.0,Geography,73.0,25.0,5.0,Lectures-Reading
+19.0,Mathematics,75.0,39.0,5.0,Lectures
+19.0,History,74.0,16.0,3.0,Reading
+19.0,English,74.0,45.0,2.0,Practice-Visual
+19.0,Science,81.0,37.0,5.0,Lectures-Practice
+19.0,Chemistry,71.0,33.0,5.0,Practice
+19.0,Physics,71.0,24.0,5.0,Reading
+19.0,Economics,91.0,41.0,3.0,Lectures
+19.0,Chemistry,91.0,29.0,5.0,Practice-Reading
+19.0,English,72.0,25.0,5.0,Reading
+19.0,History,78.0,35.0,1.0,Visual
+19.0,Mathematics,90.0,35.0,5.0,Practice
+19.0,Chemistry,67.0,36.0,5.0,Lectures
+19.0,Computer Science,84.0,52.0,5.0,Visual
+19.0,History,64.0,15.0,1.0,Lectures
+19.0,Physics,70.0,19.0,5.0,Practice
+19.0,Geography,75.0,34.0,5.0,Practice
+20.0,Chemistry,83.0,31.0,4.0,Lectures
+20.0,English,66.0,48.0,5.0,Practice
+20.0,Mathematics,70.0,33.0,4.0,Lectures
+20.0,Physics,77.0,62.0,5.0,Reading-Visual
+20.0,Mathematics,66.0,17.0,5.0,Visual
+20.0,Chemistry,89.0,30.0,5.0,Lectures
+20.0,Biology,70.0,28.0,5.0,Reading-Practice
+20.0,Mathematics,63.0,19.0,5.0,Lectures-Practice
+20.0,Geography,72.0,21.0,4.0,Lectures
+20.0,Computer Science,87.0,41.0,5.0,Reading-Visual
+20.0,Physics,79.0,19.0,5.0,Practical
+20.0,Computer Science,56.0,25.0,5.0,Lectures
+20.0,Science,63.0,35.0,5.0,Lectures-Practical
+20.0,History,65.0,36.0,4.0,Lectures
+20.0,Physics,62.0,38.0,5.0,Practical-Reading
+20.0,Science,84.0,31.0,5.0,Lectures-Practical
+20.0,Mathematics,64.0,36.0,5.0,Lectures
+20.0,Science,90.0,35.0,5.0,Lectures
+20.0,Mathematics,86.0,39.0,4.0,Reading-Practical
+20.0,Economics,86.0,31.0,5.0,Reading
+21.0,Chemistry,76.0,15.0,4.0,Practice
+21.0,Computer Science,60.0,23.0,5.0,Lectures
+21.0,Computer Science,68.0,29.0,5.0,Visual-Reading
+21.0,Economics,64.0,37.0,2.0,Lectures
+21.0,History,90.0,21.0,1.0,Practice
+21.0,Physics,83.0,33.0,5.0,Visual
+21.0,Physics,86.0,31.0,5.0,Practical-Reading
+21.0,Biology,75.0,28.0,5.0,Visual-Practice
+21.0,Computer Science,69.0,26.0,5.0,Practical
+21.0,Economics,80.0,31.0,5.0,Practice-Lectures
+21.0,Computer Science,69.0,31.0,5.0,Visual
+21.0,Mathematics,71.0,32.0,5.0,Practical-Lectures
+21.0,English,69.0,20.0,4.0,Visual
+21.0,Mathematics,81.0,24.0,4.0,Practical-Lectures
+21.0,History,54.0,48.0,5.0,Reading-Lectures
+21.0,Mathematics,69.0,34.0,4.0,Practice-Visual
+21.0,Chemistry,70.0,37.0,5.0,Reading-Lectures
+21.0,Computer Science,93.0,26.0,5.0,Practice-Practical
+21.0,English,82.0,46.0,1.0,Practice
+21.0,English,57.0,29.0,1.0,Practice-Visual
+22.0,Computer Science,92.0,35.0,4.0,Reading
+22.0,Chemistry,83.0,26.0,5.0,Visual-Lectures
+22.0,English,75.08080301129235,39.0,3.0,Lectures
+22.0,History,76.0,51.0,1.0,Visual-Reading
+22.0,Science,79.0,33.0,5.0,Practical
+22.0,English,69.0,34.0,2.0,Visual-Practical
+22.0,English,74.0,28.0,1.0,Practical
+22.0,Geography,73.0,38.0,2.0,Practical-Lectures
+22.0,Computer Science,89.0,27.0,5.0,Lectures-Reading
+22.0,Physics,74.0,29.0,5.0,Practical-Visual
+22.0,Science,61.0,31.0,4.0,Practical
+22.0,Mathematics,66.0,29.0,5.0,Practical
+22.0,Chemistry,75.0,44.0,5.0,Practice-Lectures
+22.0,Science,52.0,31.0,5.0,Reading-Visual
+22.0,Geography,62.0,20.0,1.0,Reading
+22.0,Biology,75.0,34.0,5.0,Lectures-Practical
+22.0,Chemistry,86.0,22.0,5.0,Reading
+22.0,Economics,82.0,21.0,1.0,Practice-Lectures
+22.0,Computer Science,61.0,28.0,5.0,Lectures-Visual
+22.0,Mathematics,66.0,47.0,5.0,Practice-Lectures
+23.0,History,70.0,28.0,4.0,Reading-Practice
+23.0,Physics,72.0,20.0,5.0,Visual-Practice
+23.0,Geography,60.0,29.0,5.0,Lectures-Practical
+23.0,Computer Science,72.0,39.0,4.0,Practical
+23.0,Computer Science,83.0,36.0,5.0,Practical
+23.0,Geography,82.0,23.0,2.0,Practical-Visual
+23.0,Physics,61.0,27.0,5.0,Visual
+23.0,Chemistry,66.0,13.0,4.0,Visual-Practical
+23.0,Science,53.0,36.0,5.0,Practice-Lectures
+23.0,Biology,69.0,17.0,2.0,Lectures
+23.0,Biology,74.0,35.0,3.0,Practical
+23.0,English,101.0,21.0,5.0,Practice-Visual
+23.0,Biology,71.0,6.0,2.0,Lectures-Practical
+23.0,Geography,67.0,25.0,3.0,Reading-Lectures
+23.0,Geography,66.0,18.0,1.0,Lectures-Visual
+23.0,History,61.0,19.0,5.0,Lectures-Visual
+23.0,Chemistry,86.0,61.0,5.0,Visual
+23.0,History,92.0,14.0,4.0,Practice
+23.0,Geography,79.0,31.0,3.0,Practice-Practical
+23.0,English,79.0,26.0,1.0,Visual-Practice
+24.0,Biology,70.0,28.0,4.0,Practice-Visual
+24.0,Physics,84.0,26.0,5.0,Visual-Practical
+24.0,History,81.0,44.0,4.0,Practical-Reading
+24.0,Economics,72.0,31.0,5.0,Practical
+24.0,Chemistry,75.0,29.0,5.0,Practical
+24.0,History,102.0,25.0,1.0,Practical
+24.0,English,71.0,28.0,2.0,Practice-Reading
+24.0,Geography,81.0,17.0,2.0,Practical-Practice
+24.0,Geography,63.0,46.0,2.0,Reading-Visual
+24.0,Economics,83.0,33.0,1.0,Reading
+24.0,Computer Science,76.0,28.0,5.0,Visual
+24.0,Computer Science,59.0,33.0,5.0,Reading-Practice
+24.0,Biology,73.0,24.0,4.0,Lectures-Reading
+24.0,English,81.0,35.0,3.0,Practical-Visual
+24.0,English,70.0,30.0,4.0,Lectures
+24.0,Biology,91.0,28.0,5.0,Practice
+24.0,Economics,94.0,32.0,3.0,Practical-Lectures
+24.0,Science,94.0,38.0,5.0,Practical-Visual
+24.0,Physics,73.0,35.0,5.0,Reading-Visual
+24.0,History,71.0,42.0,5.0,Lectures
+25.0,History,62.0,21.0,2.0,Practical
+25.0,Science,74.0,33.0,5.0,Lectures
+25.0,Mathematics,82.0,22.0,4.0,Practical-Lectures
+25.0,Biology,82.0,31.0,2.0,Practical
+25.0,Chemistry,81.0,32.0,5.0,Practice-Lectures
+25.0,Geography,93.0,21.0,5.0,Practice-Practical
+25.0,Physics,67.0,21.0,5.0,Visual-Reading
+25.0,Chemistry,72.0,34.0,5.0,Practice
+25.0,Mathematics,70.0,51.0,5.0,Practice
+25.0,Chemistry,73.0,21.0,5.0,Practical
+25.0,Economics,76.0,21.0,1.0,Practice
+25.0,Computer Science,69.0,47.0,5.0,Lectures-Practical
+25.0,Chemistry,78.0,39.0,5.0,Lectures-Visual
+25.0,Biology,86.0,45.0,3.0,Lectures-Visual
+25.0,Biology,69.0,14.0,2.0,Lectures
+25.0,Chemistry,86.0,38.0,4.0,Reading-Visual
+25.0,Economics,72.0,14.0,3.0,Visual
+25.0,English,81.0,25.0,5.0,Visual-Practical
+25.0,Economics,78.0,37.0,5.0,Visual-Practical
+25.0,History,86.0,33.0,1.0,Visual-Lectures
+26.0,Economics,69.0,10.0,2.0,Lectures
+26.0,Geography,79.0,11.0,5.0,Practical-Lectures
+26.0,Economics,82.0,47.0,1.0,Reading
+26.0,Science,84.0,34.0,4.0,Lectures-Reading
+26.0,Chemistry,69.0,42.0,4.0,Reading
+26.0,Science,75.0,23.0,5.0,Practice-Practical
+26.0,Biology,85.0,24.0,4.0,Practical-Practice
+26.0,Biology,69.0,23.0,1.0,Practical-Practice
+26.0,Science,65.0,28.0,5.0,Practical-Visual
+26.0,Mathematics,62.0,32.0,5.0,Visual-Reading
+26.0,Chemistry,81.0,29.0,4.0,Visual-Reading
+26.0,Chemistry,62.0,23.0,5.0,Lectures-Practical
+26.0,Biology,60.0,6.0,1.0,Practice-Practical
+26.0,Science,71.0,45.0,5.0,Reading-Practice
+26.0,Physics,62.0,33.0,5.0,Lectures
+26.0,Computer Science,81.0,26.0,5.0,Visual
+26.0,Computer Science,78.0,20.0,5.0,Reading
+26.0,Economics,74.0,24.0,5.0,Practical-Lectures
+26.0,Chemistry,64.0,35.0,5.0,Practice-Practical
+26.0,Economics,91.0,37.0,4.0,Visual-Lectures
+27.0,Biology,74.0,40.0,5.0,Visual-Practical
+27.0,English,49.0,36.0,3.0,Practical
+27.0,Physics,93.0,19.0,5.0,Lectures-Practical
+27.0,Mathematics,77.0,30.0,5.0,Visual-Practice
+27.0,Mathematics,77.0,45.0,4.0,Practice-Visual
+27.0,Chemistry,73.0,34.0,4.0,Reading
+27.0,Computer Science,89.0,31.0,4.0,Practical-Reading
+27.0,Economics,72.0,31.0,3.0,Reading
+27.0,English,61.0,20.0,5.0,Reading
+27.0,Economics,82.0,55.0,4.0,Lectures-Practice
+27.0,History,90.0,30.0,2.0,Practice
+27.0,History,61.0,28.0,3.0,Reading
+27.0,History,79.0,40.0,4.0,Visual
+27.0,Chemistry,90.0,26.0,4.0,Practice
+27.0,Computer Science,77.0,30.0,5.0,Lectures-Practical
+27.0,Economics,78.0,11.0,3.0,Lectures
+27.0,Chemistry,78.0,20.0,5.0,Practice
+27.0,Science,79.0,42.0,5.0,Reading-Practice
+27.0,Mathematics,95.0,27.0,4.0,Practice-Practical
+27.0,Mathematics,63.0,16.0,4.0,Practical
+28.0,Chemistry,95.0,36.0,5.0,Practice
+28.0,Chemistry,72.0,21.0,5.0,Visual-Practical
+28.0,History,75.0,18.0,5.0,Practical-Visual
+28.0,Geography,65.0,28.0,4.0,Visual
+28.0,Mathematics,81.0,35.0,5.0,Visual-Lectures
+28.0,Chemistry,84.0,23.0,5.0,Practical
+28.0,Science,69.0,26.0,5.0,Practical
+28.0,Economics,87.0,34.0,3.0,Lectures-Practical
+28.0,History,77.0,31.0,3.0,Reading-Lectures
+28.0,Biology,78.0,34.0,3.0,Practice-Visual
+28.0,English,68.0,40.0,5.0,Practical
+28.0,Geography,87.0,30.0,4.0,Practice
+28.0,Mathematics,78.0,15.0,5.0,Lectures
+28.0,Physics,71.0,26.0,4.0,Practical-Reading
+28.0,Physics,65.0,47.0,4.0,Practice-Visual
+28.0,Economics,74.0,25.0,3.0,Practice-Lectures
+28.0,English,93.0,30.0,4.0,Visual
+28.0,English,68.0,14.0,1.0,Reading
+28.0,Geography,77.0,12.0,1.0,Reading
+28.0,Science,78.0,22.0,5.0,Reading
+29.0,English,71.0,20.0,3.0,Reading-Lectures
+29.0,Biology,71.0,41.0,3.0,Lectures-Practical
+29.0,Computer Science,71.0,39.0,4.0,Lectures
+29.0,English,64.0,28.0,4.0,Visual-Reading
+29.0,Economics,88.0,25.0,1.0,Visual-Reading
+29.0,Biology,75.0,44.0,5.0,Practice
+29.0,Economics,72.0,36.0,3.0,Lectures
+29.0,Science,70.0,40.0,5.0,Reading-Practice
+29.0,Mathematics,80.0,28.0,5.0,Practical
+29.0,Science,79.0,18.0,4.0,Lectures
+29.0,Mathematics,78.0,30.0,5.0,Visual
+29.0,Chemistry,64.0,32.0,5.0,Lectures-Practice
+29.0,English,73.0,13.0,3.0,Visual-Practice
+29.0,Chemistry,89.0,40.0,5.0,Lectures-Visual
+29.0,Biology,77.0,38.0,1.0,Reading-Visual
+29.0,Mathematics,78.0,10.0,5.0,Reading
+29.0,Mathematics,83.0,27.0,5.0,Reading-Practical
+29.0,Computer Science,77.0,28.0,5.0,Practice
+29.0,Biology,64.0,30.0,4.0,Practice
+29.0,Geography,80.0,1.0,2.0,Practice
+30.0,Biology,73.0,15.0,1.0,Practice-Reading
+30.0,Science,66.0,46.0,5.0,Lectures-Visual
+30.0,Mathematics,65.0,44.0,4.0,Practice
+30.0,History,75.0,43.0,3.0,Visual
+30.0,History,65.0,47.0,5.0,Visual
+30.0,Physics,60.0,18.0,5.0,Reading-Practical
+30.0,Chemistry,101.0,26.0,5.0,Practice-Visual
+30.0,Geography,82.0,31.0,3.0,Practical
+30.0,English,70.0,21.0,4.0,Practical
+30.0,Chemistry,76.0,37.0,5.0,Practical-Reading
+30.0,Geography,71.0,36.0,4.0,Reading-Practical
+30.0,Economics,81.0,14.0,1.0,Reading-Practical
+30.0,Geography,85.0,31.0,2.0,Practice-Practical
+30.0,Mathematics,79.0,33.0,5.0,Practice-Visual
+30.0,Geography,75.0,20.0,3.0,Lectures-Visual
+30.0,Computer Science,87.0,11.0,5.0,Reading-Visual
+30.0,English,79.0,30.0,1.0,Reading
+30.0,Science,97.0,44.0,5.0,Lectures
+30.0,Economics,71.0,41.0,1.0,Practical
+30.0,Economics,87.0,13.0,5.0,Lectures-Practical
+31.0,Geography,70.0,45.0,3.0,Practical-Reading
+,Physics,81.0,25.0,5.0,Practice-Lectures
+31.0,Mathematics,76.0,60.0,5.0,Practical-Visual
+31.0,Geography,80.0,39.0,3.0,Reading
+31.0,Biology,67.0,21.0,5.0,Lectures
+31.0,English,58.0,32.0,4.0,Practical-Practice
+31.0,Biology,78.0,9.0,4.0,Visual-Practice
+31.0,Biology,71.0,12.0,3.0,Lectures
+31.0,Geography,79.0,32.0,4.0,Practical
+31.0,Chemistry,64.0,25.0,4.0,Lectures
+31.0,Science,78.0,32.0,4.0,Practice-Practical
+31.0,Chemistry,93.0,37.0,5.0,Lectures
+31.0,Economics,77.0,44.0,3.0,Practical-Visual
+31.0,Chemistry,77.0,24.0,5.0,Practical-Practice
+31.0,Biology,81.0,46.0,3.0,Practice
+31.0,Science,61.0,31.0,5.0,Practice-Visual
+31.0,Mathematics,67.0,19.0,5.0,Visual
+31.0,Mathematics,64.0,34.0,5.0,Visual-Reading
+31.0,Computer Science,84.0,36.0,5.0,Visual-Practical
+31.0,Geography,63.0,22.0,3.0,Lectures-Practice
+32.0,Physics,110.0,27.0,5.0,Visual
+32.0,Science,46.0,26.0,5.0,Practical
+32.0,Physics,91.0,31.0,5.0,Reading-Lectures
+32.0,Computer Science,95.0,20.0,5.0,Visual-Practical
+32.0,Geography,75.08080301129235,24.0,5.0,Visual
+32.0,Mathematics,87.0,46.0,4.0,Practical-Practice
+32.0,Geography,76.0,9.0,3.0,Visual
+32.0,Biology,78.0,19.0,1.0,Lectures-Visual
+32.0,English,73.0,37.0,4.0,Practical-Lectures
+32.0,Mathematics,64.0,35.0,5.0,Visual-Practical
+32.0,History,73.0,3.0,2.0,Visual
+32.0,Science,81.0,39.0,4.0,Practical-Practice
+32.0,Geography,77.0,26.0,2.0,Reading-Practice
+32.0,Science,83.0,27.0,4.0,Visual-Lectures
+32.0,Physics,94.0,9.0,5.0,Reading-Visual
+32.0,Computer Science,71.0,18.0,5.0,Reading
+32.0,Chemistry,84.0,12.0,5.0,Reading
+32.0,Physics,81.0,28.0,5.0,Lectures-Reading
+32.0,Physics,89.0,38.0,5.0,Visual-Reading
+32.0,English,68.0,30.0,2.0,Reading-Lectures
+33.0,History,68.0,22.0,3.0,Reading-Practice
+33.0,History,72.0,30.0,4.0,Lectures
+33.0,Mathematics,77.0,26.0,5.0,Visual-Practice
+33.0,English,75.0,49.0,3.0,Visual
+33.0,Computer Science,80.0,35.0,5.0,Lectures
+33.0,Geography,75.08080301129235,24.0,4.0,Practical-Visual
+33.0,Economics,65.0,31.0,5.0,Lectures
+33.0,Biology,64.0,24.0,2.0,Reading
+33.0,Biology,74.0,43.0,4.0,Lectures
+33.0,Computer Science,74.0,20.0,4.0,Reading-Visual
+33.0,Economics,79.0,20.0,5.0,Visual-Lectures
+33.0,Science,74.0,32.0,5.0,Lectures-Reading
+33.0,Economics,82.0,26.0,2.0,Visual
+33.0,Mathematics,87.0,21.0,5.0,Lectures
+33.0,Geography,70.0,22.0,5.0,Practice
+33.0,Science,72.0,16.0,4.0,Lectures
+33.0,Biology,87.0,31.0,5.0,Practical-Visual
+33.0,Economics,94.0,30.0,5.0,Practice
+33.0,Computer Science,76.0,29.0,5.0,Practice
+33.0,Physics,85.0,19.0,5.0,Reading
+34.0,English,78.0,24.0,3.0,Practical
+34.0,Biology,84.0,40.0,2.0,Practical-Practice
+34.0,History,77.0,37.0,4.0,Visual
+34.0,Geography,72.0,15.0,5.0,Reading
+34.0,Biology,63.0,23.0,4.0,Practical-Practice
+34.0,Chemistry,75.0,31.0,4.0,Visual-Practice
+34.0,Chemistry,78.0,51.0,4.0,Lectures-Practice
+34.0,Biology,69.0,21.0,3.0,Practice
+34.0,History,84.0,49.0,3.0,Practical
+34.0,History,98.0,36.0,4.0,Lectures-Visual
+34.0,Economics,74.0,26.0,2.0,Visual-Lectures
+34.0,Chemistry,91.0,18.0,5.0,Lectures-Visual
+34.0,Physics,77.0,20.0,5.0,Practice-Reading
+34.0,Geography,81.0,43.0,3.0,Lectures-Practice
+34.0,Science,87.0,40.0,5.0,Lectures
+34.0,Computer Science,84.0,19.0,5.0,Reading-Practical
+34.0,Computer Science,67.0,16.0,5.0,Visual
+34.0,Science,75.0,32.0,5.0,Practice-Lectures
+34.0,Mathematics,73.0,33.0,5.0,Lectures
+34.0,Science,70.0,33.0,5.0,Practice
+35.0,Economics,72.0,29.0,5.0,Practical
+35.0,Chemistry,70.0,41.0,5.0,Visual
+35.0,Geography,66.0,38.0,2.0,Lectures-Visual
+35.0,Physics,93.0,30.0,5.0,Visual-Practice
+35.0,Physics,82.0,33.0,5.0,Practice-Practical
+35.0,Physics,62.0,40.0,5.0,Lectures
+35.0,Physics,53.0,37.0,5.0,Lectures
+35.0,Chemistry,78.0,23.0,5.0,Practice
+35.0,Chemistry,67.0,22.0,5.0,Reading
+35.0,Biology,83.0,25.0,2.0,Practice-Visual
+35.0,Biology,69.0,38.0,1.0,Practical
+35.0,History,75.0,36.0,2.0,Practical
+35.0,History,88.0,32.0,3.0,Visual-Practice
+35.0,Computer Science,72.0,35.0,5.0,Lectures-Practical
+35.0,Geography,58.0,20.0,1.0,Reading-Practice
+35.0,Science,68.0,18.0,5.0,Reading-Practice
+35.0,Science,72.0,25.0,5.0,Lectures
+35.0,Science,71.0,49.0,5.0,Practice-Reading
+35.0,Computer Science,59.0,40.0,5.0,Reading-Lectures
+35.0,Computer Science,74.0,16.0,5.0,Reading-Visual
+36.0,Science,80.0,32.0,5.0,Reading
+36.0,Chemistry,64.0,41.0,5.0,Reading
+36.0,Computer Science,66.0,24.0,5.0,Reading
+36.0,Economics,79.0,35.0,2.0,Reading-Lectures
+36.0,Mathematics,67.0,24.0,5.0,Lectures
+36.0,History,76.0,44.0,5.0,Reading-Practice
+36.0,Economics,74.0,35.0,4.0,Practice
+36.0,English,75.0,31.0,4.0,Practice
+36.0,Chemistry,82.0,16.0,5.0,Practice
+36.0,Economics,74.0,40.0,1.0,Visual
+36.0,Chemistry,86.0,17.0,5.0,Visual-Practical
+36.0,Science,79.0,30.0,5.0,Visual-Lectures
+36.0,Science,93.0,32.0,5.0,Practical-Lectures
+36.0,Physics,74.0,29.0,5.0,Practical-Reading
+36.0,Physics,67.0,26.0,5.0,Visual-Practical
+36.0,Geography,87.0,30.0,2.0,Visual
+36.0,Physics,79.0,11.0,5.0,Practical-Visual
+36.0,Mathematics,78.0,32.0,5.0,Lectures-Visual
+36.0,Physics,75.0,17.0,5.0,Reading
+36.0,Geography,76.0,28.0,1.0,Reading
+37.0,Physics,83.0,20.0,4.0,Practice-Lectures
+37.0,Science,75.0,50.0,4.0,Visual
+37.0,History,73.0,41.0,5.0,Practice
+37.0,Computer Science,82.0,42.0,4.0,Visual
+37.0,Biology,72.0,50.0,4.0,Practical
+37.0,Economics,75.0,19.0,2.0,Practice-Reading
+37.0,Computer Science,69.0,26.0,5.0,Visual-Lectures
+37.0,Science,68.0,21.0,4.0,Visual-Lectures
+37.0,English,67.0,16.0,2.0,Reading-Practical
+37.0,Computer Science,78.0,34.0,5.0,Practical
+,Economics,65.0,35.0,2.0,Lectures
+37.0,Biology,76.0,30.0,3.0,Practice-Practical
+37.0,Chemistry,61.0,36.0,5.0,Practice-Reading
+37.0,Economics,84.0,56.0,1.0,Reading
+37.0,Mathematics,89.0,16.0,5.0,Practice
+37.0,English,69.0,31.0,3.0,Lectures
+37.0,Mathematics,68.0,23.0,5.0,Reading
+37.0,Computer Science,86.0,40.0,4.0,Reading-Visual
+37.0,History,90.0,38.0,4.0,Practice
+37.0,Mathematics,56.0,32.0,5.0,Reading-Lectures
+38.0,Physics,70.0,34.0,5.0,Practice
+38.0,Computer Science,91.0,37.0,5.0,Visual
+38.0,History,66.0,43.0,1.0,Lectures-Reading
+38.0,Geography,74.0,21.0,2.0,Reading-Visual
+38.0,Chemistry,76.0,39.0,4.0,Visual-Practical
+38.0,History,80.0,43.0,5.0,Visual
+38.0,Mathematics,77.0,14.0,5.0,Practical-Visual
+38.0,Biology,78.0,28.0,1.0,Reading-Lectures
+38.0,Biology,86.0,25.0,5.0,Lectures
+38.0,Physics,71.0,26.0,5.0,Lectures-Reading
+38.0,Computer Science,74.0,28.0,4.0,Visual
+38.0,Chemistry,80.0,27.0,5.0,Practical-Lectures
+38.0,History,77.0,24.0,3.0,Practical-Visual
+38.0,Economics,68.0,35.0,1.0,Practical
+38.0,English,53.0,31.0,2.0,Reading
+38.0,Mathematics,70.0,29.909250438706444,4.0,Reading
+38.0,Computer Science,83.0,37.0,5.0,Visual
+38.0,Mathematics,70.0,31.0,5.0,Visual
+38.0,Science,60.0,25.0,5.0,Lectures
+38.0,Computer Science,56.0,40.0,5.0,Lectures-Visual
+39.0,Chemistry,61.0,43.0,5.0,Practical
+39.0,English,73.0,17.0,4.0,Reading
+39.0,Economics,74.0,29.0,3.0,Visual-Practice
+39.0,Economics,76.0,27.0,1.0,Practice-Practical
+39.0,Science,76.0,23.0,4.0,Lectures
+39.0,Biology,57.0,40.0,5.0,Lectures-Visual
+39.0,Physics,74.0,33.0,5.0,Lectures
+39.0,Economics,78.0,22.0,2.0,Visual
+39.0,Computer Science,77.0,41.0,5.0,Reading
+39.0,Computer Science,80.0,40.0,5.0,Practical-Lectures
+39.0,History,85.0,34.0,3.0,Visual-Practice
+39.0,History,77.0,23.0,2.0,Practical
+39.0,Biology,71.0,18.0,4.0,Practice-Practical
+39.0,Physics,80.0,24.0,4.0,Visual
+39.0,Biology,72.0,37.0,2.0,Lectures
+39.0,Science,65.0,1.0,5.0,Lectures
+39.0,Chemistry,88.0,26.0,5.0,Practical
+39.0,Physics,75.0,21.0,4.0,Practical-Visual
+39.0,Chemistry,55.0,39.0,5.0,Visual-Practical
+39.0,History,91.0,33.0,4.0,Lectures-Reading
+40.0,Biology,83.0,16.0,3.0,Practice-Reading
+40.0,Geography,75.0,38.0,1.0,Lectures
+40.0,Computer Science,63.0,32.0,5.0,Reading
+40.0,History,77.0,26.0,5.0,Visual
+40.0,Chemistry,65.0,27.0,4.0,Practice-Practical
+40.0,Physics,68.0,43.0,4.0,Lectures-Practice
+40.0,Geography,92.0,17.0,4.0,Lectures-Practical
+40.0,Science,81.0,30.0,4.0,Practical-Visual
+40.0,English,74.0,31.0,2.0,Lectures-Visual
+40.0,Mathematics,74.0,38.0,5.0,Practice-Lectures
+40.0,Chemistry,64.0,33.0,5.0,Practice-Reading
+40.0,Physics,71.0,36.0,5.0,Reading-Practical
+40.0,Biology,69.0,46.0,2.0,Visual
+40.0,Physics,82.0,30.0,5.0,Lectures-Reading
+40.0,English,93.0,27.0,3.0,Practical
+40.0,Geography,75.0,16.0,3.0,Visual
+40.0,Biology,85.0,40.0,4.0,Visual
+40.0,Mathematics,58.0,27.0,5.0,Practical
+40.0,Mathematics,70.0,26.0,4.0,Lectures
+40.0,Computer Science,60.0,29.0,5.0,Visual
+41.0,Geography,75.0,23.0,2.0,Reading-Lectures
+41.0,Economics,64.0,28.0,1.0,Visual-Reading
+41.0,Biology,77.0,46.0,5.0,Practical
+41.0,Mathematics,72.0,48.0,5.0,Practice-Visual
+41.0,Biology,68.0,34.0,5.0,Visual-Lectures
+41.0,Computer Science,77.0,24.0,5.0,Reading
+41.0,Science,73.0,48.0,5.0,Practice-Visual
+41.0,English,79.0,40.0,1.0,Practical-Reading
+41.0,Physics,58.0,31.0,5.0,Visual-Reading
+41.0,Chemistry,71.0,48.0,4.0,Reading-Visual
+41.0,Science,72.0,28.0,5.0,Reading
+41.0,English,61.0,12.0,5.0,Reading-Visual
+41.0,Economics,68.0,32.0,1.0,Reading
+41.0,Computer Science,79.0,38.0,5.0,Lectures-Reading
+41.0,English,72.0,26.0,3.0,Practice
+41.0,Chemistry,84.0,31.0,5.0,Practical
+41.0,Chemistry,76.0,50.0,5.0,Practice-Visual
+41.0,Biology,90.0,37.0,3.0,Visual
+41.0,Economics,65.0,19.0,1.0,Practice
+41.0,Mathematics,67.0,27.0,5.0,Reading-Practical
+42.0,Physics,74.0,27.0,5.0,Visual-Reading
+42.0,Economics,84.0,28.0,1.0,Practical-Visual
+42.0,Computer Science,63.0,15.0,5.0,Practical-Visual
+42.0,English,89.0,24.0,2.0,Visual-Lectures
+42.0,Biology,70.0,29.0,1.0,Visual
+42.0,Biology,87.0,31.0,4.0,Reading-Practical
+42.0,English,74.0,26.0,2.0,Practical
+42.0,Biology,89.0,32.0,1.0,Lectures-Practice
+42.0,Computer Science,62.0,33.0,5.0,Practical-Lectures
+42.0,Biology,86.0,35.0,4.0,Practice
+42.0,Biology,56.0,16.0,1.0,Practical
+42.0,Chemistry,72.0,31.0,5.0,Practical
+42.0,English,79.0,18.0,5.0,Reading-Practice
+42.0,Science,101.0,30.0,5.0,Practice-Practical
+42.0,Computer Science,106.0,37.0,5.0,Visual-Practical
+42.0,Mathematics,72.0,27.0,5.0,Practical-Reading
+42.0,Computer Science,75.08080301129235,34.0,5.0,Reading-Lectures
+42.0,Science,80.0,30.0,5.0,Visual
+42.0,Mathematics,62.0,33.0,5.0,Reading-Practical
+42.0,English,86.0,27.0,4.0,Reading-Lectures
+43.0,Biology,79.0,36.0,2.0,Reading-Practice
+43.0,Physics,72.0,40.0,5.0,Visual
+43.0,Economics,64.0,40.0,3.0,Lectures
+43.0,Science,80.0,31.0,5.0,Visual
+43.0,English,72.0,38.0,4.0,Visual-Reading
+43.0,Chemistry,73.0,37.0,5.0,Reading-Practice
+43.0,Geography,80.0,31.0,1.0,Visual
+43.0,Economics,63.0,33.0,5.0,Visual-Practice
+43.0,Economics,64.0,44.0,3.0,Practice-Visual
+43.0,English,77.0,28.0,3.0,Lectures-Practice
+43.0,History,71.0,24.0,5.0,Practical-Lectures
+43.0,History,57.0,30.0,2.0,Practice-Lectures
+43.0,Computer Science,74.0,21.0,5.0,Lectures-Visual
+43.0,Chemistry,83.0,44.0,4.0,Lectures
+43.0,Economics,86.0,42.0,5.0,Practical-Lectures
+43.0,Science,73.0,31.0,5.0,Visual-Lectures
+43.0,Biology,78.0,35.0,3.0,Lectures-Practice
+43.0,Computer Science,73.0,16.0,4.0,Practical-Lectures
+43.0,Chemistry,93.0,35.0,4.0,Practice
+43.0,Physics,103.0,20.0,5.0,Reading-Visual
+44.0,Physics,90.0,52.0,5.0,Practice
+44.0,Mathematics,79.0,45.0,5.0,Practical
+44.0,Chemistry,76.0,48.0,4.0,Visual-Practical
+44.0,Computer Science,75.0,27.0,5.0,Reading-Practical
+44.0,Chemistry,70.0,52.0,4.0,Practice-Visual
+44.0,Geography,63.0,20.0,3.0,Visual-Lectures
+44.0,History,77.0,10.0,3.0,Practical-Lectures
+44.0,Mathematics,67.0,28.0,5.0,Practice
+44.0,Physics,65.0,31.0,5.0,Practice-Visual
+44.0,Science,82.0,29.0,5.0,Lectures-Reading
+44.0,Biology,67.0,22.0,4.0,Reading-Visual
+44.0,History,69.0,31.0,4.0,Lectures
+44.0,Computer Science,60.0,27.0,5.0,Visual-Lectures
+44.0,Science,59.0,32.0,5.0,Practical
+44.0,Computer Science,68.0,11.0,4.0,Reading-Lectures
+44.0,Economics,79.0,28.0,2.0,Practical
+44.0,Mathematics,79.0,21.0,4.0,Practical-Practice
+44.0,Computer Science,68.0,26.0,5.0,Visual-Reading
+44.0,Mathematics,59.0,12.0,5.0,Visual
+44.0,Physics,67.0,9.0,5.0,Practical-Lectures
+45.0,Physics,85.0,24.0,5.0,Lectures
+45.0,Biology,82.0,32.0,3.0,Lectures
+45.0,Physics,71.0,34.0,5.0,Reading-Visual
+45.0,Chemistry,71.0,30.0,5.0,Lectures
+45.0,Economics,64.0,49.0,1.0,Lectures
+45.0,Geography,75.0,14.0,5.0,Practice
+45.0,Chemistry,75.0,30.0,5.0,Lectures
+45.0,Science,76.0,33.0,4.0,Practice
+45.0,Science,50.0,21.0,5.0,Practice
+45.0,Science,93.0,30.0,4.0,Reading
+45.0,Mathematics,91.0,14.0,5.0,Practical
+45.0,Economics,77.0,42.0,1.0,Reading
+45.0,Chemistry,68.0,23.0,5.0,Visual-Reading
+45.0,English,74.0,44.0,1.0,Reading
+45.0,Economics,80.0,27.0,5.0,Practical
+45.0,Mathematics,75.0,46.0,5.0,Reading-Visual
+45.0,Computer Science,78.0,24.0,5.0,Practical-Visual
+45.0,History,65.0,41.0,2.0,Lectures-Reading
+45.0,Chemistry,65.0,35.0,5.0,Reading-Practice
+45.0,Geography,75.0,15.0,4.0,Lectures-Practical
+46.0,History,77.0,55.0,3.0,Practice
+46.0,Geography,85.0,15.0,5.0,Visual-Practice
+46.0,English,82.0,29.0,1.0,Practical-Reading
+46.0,Economics,91.0,28.0,1.0,Lectures
+46.0,Computer Science,89.0,42.0,5.0,Practice-Practical
+46.0,Science,80.0,35.0,4.0,Practical
+46.0,Physics,75.08080301129235,31.0,4.0,Visual-Reading
+46.0,History,69.0,30.0,4.0,Visual-Reading
+46.0,Biology,67.0,30.0,2.0,Reading-Lectures
+46.0,History,70.0,29.0,3.0,Reading
+46.0,Science,88.0,17.0,5.0,Lectures-Practical
+46.0,Physics,78.0,29.0,5.0,Practice-Visual
+46.0,Computer Science,62.0,22.0,5.0,Visual
+46.0,Chemistry,65.0,32.0,5.0,Practice-Practical
+46.0,History,55.0,22.0,4.0,Visual-Practice
+46.0,English,68.0,27.0,4.0,Reading-Practical
+46.0,Chemistry,71.0,29.0,5.0,Practical
+46.0,English,80.0,28.0,4.0,Lectures-Practical
+46.0,Science,79.0,21.0,4.0,Reading
+46.0,Biology,82.0,13.0,1.0,Lectures-Visual
+47.0,Geography,74.0,41.0,1.0,Lectures
+47.0,Economics,63.0,10.0,5.0,Practical
+47.0,Computer Science,85.0,26.0,5.0,Practical
+47.0,Economics,87.0,14.0,5.0,Practical-Visual
+47.0,Geography,79.0,27.0,1.0,Visual-Practice
+47.0,Economics,57.0,38.0,5.0,Reading-Practical
+47.0,English,66.0,48.0,3.0,Lectures
+47.0,English,76.0,23.0,1.0,Practical-Visual
+47.0,Science,83.0,39.0,4.0,Practical-Visual
+47.0,Physics,75.0,30.0,2.0,Reading
+47.0,Computer Science,70.0,31.0,4.0,Reading
+47.0,Chemistry,82.0,20.0,5.0,Practical
+47.0,History,80.0,37.0,1.0,Visual-Practice
+47.0,Biology,87.0,31.0,4.0,Lectures-Practice
+47.0,Geography,61.0,47.0,4.0,Reading-Practical
+47.0,Geography,68.0,9.0,5.0,Visual
+47.0,Biology,77.0,42.0,4.0,Lectures-Practical
+47.0,Mathematics,71.0,36.0,4.0,Lectures
+47.0,English,75.0,31.0,1.0,Visual-Practical
+47.0,Mathematics,72.0,25.0,4.0,Visual-Lectures
+48.0,Mathematics,85.0,32.0,5.0,Visual-Reading
+48.0,English,76.0,37.0,3.0,Reading
+48.0,Mathematics,87.0,25.0,5.0,Practice
+48.0,Computer Science,83.0,29.0,5.0,Practice
+48.0,English,74.0,47.0,1.0,Lectures
+48.0,Science,93.0,47.0,5.0,Practice-Practical
+48.0,Economics,59.0,27.0,2.0,Reading-Practice
+48.0,History,76.0,54.0,5.0,Lectures-Practice
+48.0,Science,65.0,22.0,4.0,Reading
+48.0,Computer Science,75.0,36.0,5.0,Practical
+48.0,Biology,55.0,34.0,1.0,Lectures
+48.0,Biology,77.0,49.0,1.0,Lectures-Practice
+48.0,Computer Science,77.0,35.0,5.0,Practice-Reading
+48.0,Economics,84.0,17.0,2.0,Lectures-Practice
+48.0,History,79.0,33.0,3.0,Lectures-Practical
+48.0,Computer Science,75.0,11.0,5.0,Practical
+48.0,History,66.0,42.0,2.0,Practical-Visual
+48.0,Biology,85.0,15.0,2.0,Visual
+48.0,Geography,74.0,18.0,1.0,Practice
+48.0,Biology,71.0,35.0,1.0,Practical-Lectures
+49.0,History,61.0,25.0,5.0,Practice-Reading
+49.0,Physics,83.0,40.0,5.0,Practical-Lectures
+49.0,Chemistry,71.0,26.0,4.0,Lectures-Practical
+49.0,History,67.0,29.0,3.0,Practical-Visual
+49.0,Mathematics,98.0,21.0,5.0,Lectures-Practice
+49.0,Mathematics,62.0,25.0,5.0,Lectures-Practical
+49.0,Physics,90.0,53.0,4.0,Reading-Practical
+49.0,Mathematics,83.0,32.0,4.0,Lectures
+49.0,Economics,81.0,46.0,2.0,Lectures-Practice
+49.0,Computer Science,94.0,35.0,4.0,Practical-Lectures
+49.0,Science,73.0,25.0,4.0,Practical-Reading
+49.0,Mathematics,82.0,31.0,5.0,Reading-Visual
+49.0,Physics,75.0,43.0,5.0,Reading
+49.0,Physics,86.0,8.0,5.0,Practical
+49.0,Computer Science,69.0,21.0,5.0,Lectures-Visual
+49.0,Biology,92.0,1.0,2.0,Practice-Practical
+49.0,Geography,73.0,29.0,1.0,Reading
+49.0,English,79.0,34.0,4.0,Practice-Reading
+49.0,Science,79.0,48.0,4.0,Reading-Practical
+49.0,Economics,90.0,43.0,4.0,Visual
+50.0,Geography,68.0,40.0,2.0,Reading
+50.0,Physics,62.0,43.0,5.0,Practical
+50.0,History,83.0,38.0,3.0,Practice-Practical
+50.0,Computer Science,84.0,24.0,5.0,Practical
+50.0,Mathematics,60.0,26.0,5.0,Lectures-Visual
+50.0,Biology,69.0,37.0,5.0,Practice-Practical
+50.0,Biology,77.0,32.0,5.0,Reading
+50.0,Biology,73.0,31.0,2.0,Lectures-Practical
+50.0,Geography,62.0,29.0,3.0,Practice
+50.0,Physics,79.0,24.0,5.0,Reading-Practice
+50.0,Geography,70.0,21.0,5.0,Visual
+50.0,English,66.0,22.0,3.0,Visual
+50.0,Computer Science,86.0,26.0,5.0,Visual-Practical
+50.0,Computer Science,78.0,11.0,4.0,Practical
+50.0,Science,69.0,14.0,5.0,Lectures
+50.0,Geography,87.0,19.0,2.0,Reading-Practice
+50.0,Biology,85.0,41.0,2.0,Practical
+50.0,Computer Science,71.0,38.0,5.0,Visual-Practice
+50.0,Chemistry,74.0,21.0,5.0,Lectures
+50.0,Mathematics,52.0,35.0,5.0,Visual-Practice
+51.0,Computer Science,83.0,21.0,5.0,Visual
+51.0,Physics,67.0,26.0,5.0,Lectures
+51.0,Geography,55.0,39.0,3.0,Lectures
+51.0,Science,82.0,5.0,5.0,Practice
+51.0,History,79.0,17.0,2.0,Visual
+51.0,Science,63.0,41.0,5.0,Reading-Practice
+51.0,Mathematics,82.0,18.0,5.0,Lectures
+51.0,Chemistry,55.0,38.0,5.0,Visual
+51.0,Economics,67.0,36.0,4.0,Practical-Visual
+51.0,Computer Science,67.0,20.0,4.0,Practical
+51.0,Mathematics,58.0,28.0,4.0,Practical-Reading
+51.0,Computer Science,63.0,25.0,5.0,Lectures-Visual
+51.0,Geography,96.0,33.0,3.0,Reading
+51.0,Chemistry,71.0,26.0,5.0,Reading-Practical
+51.0,Economics,65.0,27.0,5.0,Practical
+51.0,Chemistry,78.0,31.0,4.0,Visual
+51.0,Geography,69.0,47.0,3.0,Reading
+51.0,Biology,70.0,22.0,2.0,Lectures
+51.0,Mathematics,88.0,38.0,4.0,Practice-Visual
+51.0,History,76.0,17.0,4.0,Reading-Lectures
+52.0,Geography,70.0,32.0,5.0,Practical
+52.0,Mathematics,73.0,37.0,5.0,Lectures
+52.0,Biology,85.0,50.0,3.0,Practice-Practical
+52.0,Computer Science,77.0,30.0,4.0,Visual-Reading
+52.0,Physics,79.0,29.0,4.0,Lectures
+52.0,Physics,70.0,23.0,5.0,Reading
+52.0,Chemistry,66.0,22.0,5.0,Practical
+52.0,Biology,70.0,15.0,4.0,Visual-Practical
+52.0,Biology,79.0,37.0,5.0,Practice-Practical
+52.0,Biology,66.0,14.0,2.0,Practice
+52.0,Economics,93.0,32.0,1.0,Reading
+52.0,History,87.0,25.0,4.0,Visual
+52.0,Science,73.0,41.0,5.0,Lectures
+52.0,Biology,77.0,41.0,2.0,Reading-Practice
+52.0,Science,54.0,18.0,5.0,Practical-Practice
+52.0,History,58.0,34.0,2.0,Practice-Practical
+52.0,English,88.0,29.0,1.0,Practice
+52.0,Computer Science,75.0,35.0,4.0,Visual
+52.0,Geography,80.0,31.0,1.0,Reading
+52.0,Mathematics,67.0,31.0,4.0,Lectures
+53.0,Geography,61.0,30.0,2.0,Practical-Practice
+53.0,English,65.0,34.0,2.0,Reading
+53.0,History,92.0,49.0,5.0,Visual-Practical
+53.0,Computer Science,69.0,21.0,5.0,Practical
+53.0,Mathematics,54.0,28.0,5.0,Practical-Practice
+53.0,English,85.0,35.0,1.0,Reading
+53.0,Computer Science,71.0,25.0,4.0,Reading-Practical
+53.0,Computer Science,57.0,36.0,4.0,Practice
+53.0,Physics,70.0,52.0,5.0,Lectures
+53.0,Biology,78.0,38.0,4.0,Lectures
+53.0,Physics,67.0,33.0,4.0,Lectures
+53.0,Science,86.0,30.0,5.0,Lectures-Visual
+53.0,Biology,68.0,26.0,1.0,Lectures-Reading
+53.0,Physics,84.0,27.0,5.0,Visual
+53.0,History,78.0,22.0,1.0,Lectures-Practical
+53.0,Computer Science,72.0,36.0,4.0,Visual
+53.0,Mathematics,80.0,34.0,5.0,Reading-Lectures
+53.0,Computer Science,77.0,24.0,5.0,Practice
+53.0,Physics,76.0,34.0,5.0,Practical
+53.0,English,82.0,36.0,5.0,Lectures
+54.0,Physics,76.0,49.0,4.0,Practice-Reading
+54.0,English,65.0,43.0,5.0,Practice-Practical
+54.0,Economics,78.0,30.0,3.0,Reading
+54.0,English,74.0,19.0,1.0,Visual-Reading
+54.0,Computer Science,71.0,37.0,5.0,Lectures-Reading
+54.0,Biology,68.0,26.0,4.0,Practice-Lectures
+54.0,English,72.0,43.0,5.0,Practice-Practical
+54.0,Computer Science,79.0,53.0,5.0,Practice-Reading
+54.0,Geography,69.0,11.0,1.0,Practice
+54.0,Computer Science,83.0,21.0,5.0,Practical
+54.0,Geography,76.0,25.0,2.0,Practice
+54.0,Computer Science,97.0,34.0,4.0,Practical-Visual
+54.0,Physics,67.0,32.0,5.0,Practical
+54.0,Computer Science,88.0,33.0,5.0,Practice-Practical
+54.0,Mathematics,72.0,38.0,5.0,Practical-Practice
+54.0,Science,84.0,28.0,5.0,Lectures-Reading
+54.0,Computer Science,69.0,46.0,5.0,Practical
+54.0,Economics,80.0,49.0,1.0,Practice-Visual
+54.0,Computer Science,67.0,31.0,5.0,Practice
+54.0,Computer Science,82.0,17.0,5.0,Lectures-Visual
+55.0,Biology,84.0,43.0,4.0,Practice-Lectures
+55.0,History,78.0,11.0,1.0,Practice-Visual
+55.0,Economics,78.0,34.0,2.0,Reading
+55.0,Mathematics,92.0,35.0,4.0,Lectures
+55.0,Science,81.0,43.0,5.0,Reading-Lectures
+55.0,Chemistry,62.0,29.0,5.0,Practice
+55.0,Mathematics,88.0,51.0,5.0,Lectures-Visual
+55.0,Computer Science,70.0,23.0,5.0,Practical-Lectures
+55.0,Economics,68.0,9.0,5.0,Practical
+55.0,Computer Science,76.0,30.0,5.0,Lectures
+55.0,Economics,60.0,36.0,3.0,Lectures
+55.0,Science,69.0,21.0,4.0,Practical
+55.0,English,83.0,37.0,4.0,Visual-Reading
+55.0,Geography,69.0,41.0,3.0,Visual
+55.0,English,81.0,40.0,2.0,Practice-Reading
+55.0,Science,67.0,45.0,5.0,Reading-Visual
+55.0,Biology,65.0,19.0,4.0,Practice
+55.0,English,100.0,36.0,4.0,Visual-Reading
+55.0,Physics,76.0,29.0,5.0,Practice-Lectures
+55.0,Economics,65.0,33.0,4.0,Practice-Reading
+56.0,Science,83.0,7.0,5.0,Practice
+56.0,Science,77.0,34.0,5.0,Reading
+56.0,Mathematics,70.0,29.0,5.0,Practical-Visual
+56.0,English,56.0,35.0,5.0,Lectures
+56.0,Geography,77.0,31.0,4.0,Visual-Practical
+56.0,Economics,89.0,32.0,1.0,Practice
+56.0,Biology,72.0,34.0,3.0,Practical-Practice
+56.0,Chemistry,70.0,46.0,4.0,Visual-Reading
+56.0,Science,69.0,42.0,4.0,Reading-Practice
+56.0,Computer Science,82.0,39.0,4.0,Practice
+56.0,Science,83.0,36.0,4.0,Visual
+56.0,Chemistry,74.0,35.0,5.0,Reading-Practice
+56.0,Chemistry,76.0,29.0,4.0,Lectures-Reading
+56.0,Geography,76.0,34.0,1.0,Practice-Reading
+56.0,History,54.0,36.0,3.0,Practice
+56.0,Economics,55.0,30.0,3.0,Lectures
+56.0,Physics,81.0,14.0,5.0,Practice
+56.0,Mathematics,68.0,34.0,5.0,Lectures-Visual
+56.0,Computer Science,79.0,26.0,4.0,Practice-Visual
+56.0,Physics,76.0,17.0,4.0,Lectures
+57.0,Mathematics,79.0,37.0,4.0,Reading
+57.0,English,80.0,36.0,5.0,Practice
+57.0,Science,54.0,31.0,5.0,Visual
+57.0,Economics,77.0,29.0,2.0,Lectures
+57.0,Science,71.0,26.0,4.0,Practice
+57.0,Science,54.0,25.0,4.0,Lectures
+57.0,Economics,76.0,22.0,3.0,Visual
+57.0,Physics,77.0,34.0,5.0,Practice
+57.0,Computer Science,58.0,24.0,4.0,Practical
+57.0,Chemistry,89.0,20.0,5.0,Lectures-Practice
+57.0,Physics,75.0,16.0,5.0,Practical-Lectures
+57.0,Chemistry,79.0,30.0,4.0,Visual
+57.0,Biology,75.0,28.0,2.0,Practical-Lectures
+57.0,Economics,76.0,27.0,3.0,Practice-Visual
+57.0,Physics,80.0,27.0,5.0,Reading
+57.0,Science,93.0,9.0,5.0,Reading
+57.0,Biology,77.0,37.0,4.0,Reading
+57.0,History,85.0,29.0,2.0,Reading
+57.0,Chemistry,85.0,29.0,4.0,Visual
+57.0,History,76.0,35.0,5.0,Lectures
+58.0,English,75.0,12.0,4.0,Lectures-Practical
+58.0,Geography,91.0,39.0,3.0,Reading
+58.0,History,90.0,29.0,3.0,Practical
+58.0,Geography,77.0,14.0,5.0,Lectures-Reading
+58.0,Mathematics,67.0,22.0,5.0,Practice
+58.0,History,66.0,29.0,2.0,Practical
+58.0,Science,68.0,23.0,4.0,Practice
+58.0,Science,78.0,20.0,5.0,Practical
+58.0,Computer Science,74.0,22.0,5.0,Lectures
+58.0,Mathematics,63.0,21.0,5.0,Lectures-Practice
+58.0,Computer Science,68.0,22.0,5.0,Lectures-Practice
+58.0,History,62.0,34.0,5.0,Practice
+58.0,Physics,86.0,37.0,5.0,Practice
+58.0,Biology,75.0,21.0,3.0,Lectures-Practical
+58.0,Mathematics,67.0,20.0,4.0,Lectures-Visual
+58.0,Chemistry,78.0,43.0,4.0,Visual-Practice
+58.0,Geography,83.0,18.0,3.0,Lectures
+58.0,Economics,86.0,45.0,4.0,Reading-Practical
+58.0,Geography,73.0,42.0,4.0,Lectures-Reading
+58.0,Chemistry,82.0,18.0,4.0,Reading
+59.0,Geography,62.0,47.0,2.0,Practical
+59.0,Economics,67.0,35.0,2.0,Practical
+59.0,Biology,73.0,41.0,4.0,Visual-Practice
+59.0,Physics,102.0,28.0,5.0,Visual-Practice
+59.0,Science,82.0,24.0,5.0,Practice-Reading
+59.0,Biology,74.0,29.0,3.0,Reading-Practice
+59.0,Economics,72.0,26.0,1.0,Practice-Practical
+59.0,Science,79.0,25.0,4.0,Visual
+59.0,Biology,80.0,35.0,4.0,Practical
+59.0,Chemistry,76.0,10.0,5.0,Lectures
+59.0,Science,88.0,29.0,5.0,Reading-Visual
+59.0,Chemistry,93.0,35.0,5.0,Practical-Reading
+59.0,Mathematics,65.0,39.0,5.0,Reading-Lectures
+59.0,Mathematics,79.0,32.0,5.0,Reading-Practice
+59.0,Computer Science,72.0,26.0,4.0,Visual
+59.0,Physics,75.0,39.0,4.0,Visual
+59.0,Biology,82.0,30.0,5.0,Reading-Lectures
+59.0,Physics,73.0,26.0,4.0,Practice
+59.0,English,68.0,28.0,2.0,Practical
+59.0,Physics,71.0,21.0,5.0,Practical-Reading
+60.0,Physics,74.0,29.0,5.0,Lectures-Reading
+60.0,Computer Science,72.0,23.0,4.0,Practice-Practical
+60.0,Mathematics,78.0,38.0,4.0,Visual-Lectures
+60.0,Physics,64.0,21.0,5.0,Practical
+60.0,Economics,85.0,5.0,1.0,Practical
+60.0,Chemistry,60.0,24.0,4.0,Practice
+60.0,History,83.0,24.0,5.0,Practice
+60.0,English,76.0,34.0,1.0,Lectures-Reading
+60.0,Geography,73.0,43.0,3.0,Lectures-Practice
+60.0,English,76.0,17.0,3.0,Reading-Visual
+60.0,Biology,76.0,37.0,2.0,Reading
+60.0,Science,79.0,57.0,5.0,Reading
+60.0,Mathematics,55.0,29.0,5.0,Reading-Lectures
+60.0,English,59.0,39.0,3.0,Reading-Lectures
+60.0,History,87.0,31.0,3.0,Practical-Practice
+60.0,Geography,69.0,27.0,2.0,Visual
+60.0,Chemistry,83.0,21.0,4.0,Practice
+60.0,English,78.0,15.0,2.0,Practical-Reading
+60.0,Computer Science,94.0,28.0,4.0,Practice
+60.0,Mathematics,71.0,22.0,5.0,Reading-Lectures
+61.0,History,80.0,17.0,3.0,Practice
+61.0,Chemistry,81.0,23.0,4.0,Lectures-Practical
+61.0,History,73.0,55.0,1.0,Practical-Visual
+61.0,Physics,90.0,34.0,4.0,Reading
+61.0,Science,77.0,31.0,4.0,Practical
+61.0,Biology,80.0,27.0,4.0,Practice-Lectures
+61.0,Biology,96.0,24.0,5.0,Practical-Practice
+61.0,Physics,109.0,40.0,5.0,Practice-Practical
+61.0,English,60.0,26.0,5.0,Practice-Visual
+61.0,Science,69.0,22.0,5.0,Practice
+61.0,Chemistry,58.0,29.0,5.0,Visual
+61.0,Mathematics,91.0,38.0,4.0,Practical
+61.0,Mathematics,77.0,36.0,5.0,Practical
+61.0,English,83.0,18.0,1.0,Practical-Practice
+61.0,Economics,70.0,49.0,1.0,Lectures-Visual
+61.0,History,75.08080301129235,23.0,5.0,Practical-Reading
+61.0,History,84.0,18.0,2.0,Practice-Lectures
+61.0,Geography,93.0,22.0,2.0,Reading
+61.0,History,69.0,35.0,3.0,Visual
+61.0,Computer Science,102.0,17.0,5.0,Reading-Practice
+62.0,Mathematics,54.0,26.0,4.0,Practice-Visual
+62.0,Economics,95.0,47.0,4.0,Reading-Practice
+62.0,English,86.0,33.0,5.0,Lectures-Practice
+62.0,Chemistry,71.0,32.0,5.0,Lectures
+62.0,English,79.0,22.0,5.0,Lectures
+62.0,Economics,83.0,33.0,1.0,Practical-Lectures
+62.0,Computer Science,88.0,39.0,5.0,Reading-Practical
+62.0,Computer Science,84.0,30.0,5.0,Lectures
+62.0,History,89.0,25.0,3.0,Visual-Practice
+62.0,Biology,61.0,36.0,1.0,Practice-Practical
+62.0,Chemistry,84.0,30.0,5.0,Practice-Lectures
+62.0,English,83.0,37.0,2.0,Practice
+62.0,Chemistry,55.0,33.0,4.0,Reading-Visual
+62.0,Biology,78.0,19.0,2.0,Practical-Visual
+62.0,Economics,54.0,32.0,2.0,Visual
+62.0,Physics,73.0,35.0,5.0,Visual
+62.0,History,84.0,34.0,2.0,Practice
+62.0,Geography,64.0,28.0,1.0,Practical-Visual
+62.0,Science,75.0,40.0,4.0,Visual-Practice
+62.0,Chemistry,92.0,33.0,5.0,Visual-Lectures
+63.0,Mathematics,86.0,41.0,5.0,Lectures-Reading
+63.0,Chemistry,79.0,31.0,5.0,Reading
+63.0,Science,77.0,37.0,4.0,Practice
+63.0,Biology,76.0,46.0,2.0,Practical
+63.0,Biology,85.0,36.0,2.0,Practice
+63.0,Biology,70.0,24.0,5.0,Practical-Practice
+63.0,Physics,73.0,24.0,4.0,Practical
+63.0,Computer Science,69.0,11.0,5.0,Reading-Practice
+63.0,Chemistry,62.0,27.0,5.0,Practical
+63.0,Biology,77.0,39.0,1.0,Practice
+63.0,Science,85.0,44.0,4.0,Practice-Reading
+63.0,Science,67.0,29.0,5.0,Practical-Lectures
+63.0,Economics,76.0,11.0,4.0,Lectures
+63.0,Physics,82.0,43.0,5.0,Practice
+63.0,Chemistry,78.0,29.0,4.0,Lectures-Reading
+63.0,Economics,54.0,26.0,4.0,Lectures-Visual
+63.0,Mathematics,65.0,26.0,5.0,Reading
+63.0,Mathematics,86.0,36.0,5.0,Practical
+63.0,History,80.0,28.0,4.0,Reading-Practice
+63.0,Biology,80.0,27.0,5.0,Practical
+64.0,History,66.0,44.0,2.0,Practical-Reading
+64.0,Chemistry,79.0,36.0,4.0,Visual
+64.0,Mathematics,70.0,31.0,5.0,Reading-Lectures
+64.0,English,89.0,37.0,4.0,Lectures-Reading
+64.0,Chemistry,65.0,45.0,4.0,Lectures
+64.0,Science,72.0,45.0,5.0,Visual
+64.0,Computer Science,83.0,30.0,5.0,Practice-Lectures
+64.0,Economics,66.0,22.0,4.0,Lectures
+64.0,Computer Science,73.0,34.0,4.0,Practical-Practice
+64.0,Chemistry,71.0,35.0,5.0,Practical
+64.0,English,76.0,30.0,4.0,Practical
+64.0,History,76.0,21.0,2.0,Practical
+64.0,Physics,75.0,35.0,4.0,Reading
+64.0,Chemistry,80.0,36.0,5.0,Practice-Practical
+64.0,Computer Science,56.0,36.0,4.0,Reading
+64.0,Biology,61.0,20.0,4.0,Practice-Reading
+64.0,History,63.0,43.0,1.0,Reading
+64.0,Computer Science,54.0,49.0,5.0,Reading-Visual
+64.0,Chemistry,66.0,16.0,5.0,Lectures
+64.0,Economics,64.0,25.0,2.0,Lectures
+65.0,Computer Science,73.0,33.0,5.0,Practical-Lectures
+65.0,Science,84.0,45.0,5.0,Reading-Lectures
+65.0,Geography,58.0,41.0,5.0,Visual-Lectures
+65.0,Science,58.0,23.0,4.0,Lectures-Practice
+65.0,Computer Science,87.0,26.0,4.0,Lectures
+65.0,English,110.0,23.0,2.0,Reading
+65.0,Science,65.0,19.0,4.0,Visual
+65.0,Biology,75.0,18.0,2.0,Practice-Reading
+65.0,Biology,56.0,28.0,3.0,Practice
+65.0,History,80.0,32.0,5.0,Visual-Practical
+65.0,English,96.0,37.0,5.0,Lectures
+65.0,Chemistry,84.0,54.0,5.0,Practical
+65.0,Biology,80.0,37.0,3.0,Practical-Practice
+65.0,Mathematics,86.0,56.0,5.0,Reading
+65.0,Geography,76.0,39.0,2.0,Practical
+65.0,Economics,75.0,21.0,5.0,Practical
+65.0,Computer Science,87.0,4.0,5.0,Visual
+65.0,English,70.0,42.0,4.0,Reading
+65.0,Computer Science,75.0,36.0,5.0,Reading
+65.0,Geography,82.0,7.0,5.0,Visual-Reading
+66.0,Mathematics,64.0,24.0,5.0,Practice-Practical
+66.0,Chemistry,67.0,28.0,5.0,Practical-Reading
+66.0,Computer Science,82.0,45.0,4.0,Lectures-Reading
+66.0,Economics,63.0,42.0,3.0,Reading-Visual
+66.0,Chemistry,76.0,31.0,5.0,Visual-Practice
+66.0,Economics,85.0,45.0,5.0,Practical
+66.0,Economics,70.0,37.0,4.0,Practical
+66.0,Economics,84.0,29.0,3.8680190333082893,Lectures
+66.0,Economics,62.0,23.0,4.0,Lectures
+66.0,English,76.0,24.0,5.0,Practical
+66.0,English,81.0,38.0,4.0,Practice
+66.0,English,82.0,31.0,1.0,Visual
+66.0,Physics,92.0,45.0,5.0,Visual-Practical
+66.0,Physics,71.0,20.0,4.0,Reading
+66.0,History,66.0,19.0,4.0,Visual
+66.0,Science,75.0,20.0,5.0,Practical
+66.0,Mathematics,68.0,21.0,5.0,Lectures
+66.0,Chemistry,77.0,16.0,5.0,Visual
+66.0,Biology,59.0,33.0,2.0,Practice
+66.0,Chemistry,93.0,39.0,4.0,Reading
+67.0,Mathematics,78.0,44.0,5.0,Practical
+67.0,Computer Science,81.0,30.0,5.0,Reading
+67.0,Science,72.0,41.0,5.0,Practice-Visual
+67.0,Computer Science,71.0,46.0,5.0,Practice-Lectures
+67.0,Mathematics,64.0,25.0,5.0,Practice
+67.0,Science,92.0,14.0,5.0,Practical-Practice
+67.0,History,65.0,7.0,1.0,Practice-Visual
+67.0,History,83.0,17.0,5.0,Reading-Lectures
+67.0,Physics,89.0,24.0,5.0,Visual-Practice
+67.0,History,75.0,30.0,5.0,Practical-Practice
+67.0,Economics,75.0,12.0,3.0,Visual-Practical
+67.0,Economics,78.0,47.0,1.0,Lectures-Reading
+67.0,History,77.0,32.0,3.0,Visual-Lectures
+67.0,Geography,59.0,33.0,1.0,Visual-Lectures
+67.0,History,84.0,31.0,3.0,Lectures-Practical
+67.0,Economics,76.0,35.0,5.0,Reading
+67.0,English,75.0,28.0,4.0,Practical
+67.0,Physics,83.0,36.0,5.0,Practice-Practical
+67.0,Mathematics,77.0,28.0,5.0,Visual-Practice
+67.0,Geography,85.0,35.0,3.0,Reading-Practice
+68.0,History,73.0,29.0,1.0,Practical
+68.0,Chemistry,75.0,30.0,5.0,Practice
+68.0,Chemistry,61.0,41.0,5.0,Practical
+68.0,Computer Science,80.0,40.0,4.0,Practical
+68.0,Chemistry,57.0,25.0,4.0,Visual
+68.0,Computer Science,75.0,52.0,4.0,Reading-Visual
+68.0,Computer Science,76.0,25.0,5.0,Lectures
+68.0,History,68.0,36.0,2.0,Reading
+68.0,Mathematics,90.0,27.0,5.0,Visual-Practical
+68.0,Mathematics,65.0,14.0,4.0,Practical
+68.0,Mathematics,56.0,19.0,4.0,Visual
+68.0,Economics,65.0,9.0,1.0,Practice-Visual
+68.0,Geography,63.0,35.0,4.0,Visual-Lectures
+68.0,Science,86.0,41.0,5.0,Practice-Practical
+68.0,Physics,84.0,25.0,5.0,Practical
+68.0,History,82.0,31.0,1.0,Visual-Reading
+68.0,English,63.0,35.0,5.0,Visual-Reading
+68.0,Science,55.0,33.0,4.0,Reading-Visual
+68.0,Physics,71.0,48.0,4.0,Reading
+68.0,Science,87.0,21.0,4.0,Practical-Lectures
+69.0,Economics,68.0,37.0,2.0,Practical-Lectures
+69.0,Economics,85.0,13.0,3.0,Lectures
+69.0,Biology,77.0,42.0,1.0,Practice
+69.0,Biology,78.0,39.0,3.0,Practical
+69.0,Mathematics,87.0,39.0,5.0,Visual
+69.0,Science,85.0,27.0,5.0,Reading
+69.0,Geography,66.0,23.0,3.0,Reading
+69.0,Computer Science,86.0,33.0,4.0,Reading-Practical
+69.0,History,78.0,28.0,1.0,Lectures
+69.0,Computer Science,77.0,32.0,5.0,Practice
+69.0,Economics,78.0,42.0,5.0,Practical
+69.0,English,52.0,27.0,4.0,Lectures-Visual
+69.0,Physics,79.0,24.0,5.0,Lectures
+69.0,Biology,74.0,25.0,5.0,Lectures-Visual
+69.0,Biology,72.0,25.0,4.0,Lectures
+69.0,Biology,83.0,31.0,2.0,Visual-Lectures
+69.0,History,53.0,29.0,1.0,Practical
+69.0,English,69.0,45.0,3.0,Visual
+69.0,Mathematics,76.0,15.0,5.0,Practice
+69.0,Chemistry,87.0,31.0,5.0,Practical-Lectures
+70.0,English,74.0,37.0,3.0,Practical
+70.0,Chemistry,84.0,5.0,5.0,Lectures-Reading
+70.0,Mathematics,76.0,19.0,5.0,Visual-Reading
+70.0,Mathematics,78.0,29.909250438706444,5.0,Visual
+70.0,Geography,96.0,9.0,1.0,Lectures-Visual
+70.0,Science,89.0,22.0,5.0,Reading-Practical
+70.0,English,77.0,49.0,1.0,Practice-Practical
+70.0,English,80.0,16.0,1.0,Practice
+70.0,Geography,90.0,20.0,4.0,Practice-Visual
+70.0,Computer Science,76.0,32.0,5.0,Reading-Visual
+70.0,Mathematics,68.0,16.0,5.0,Visual
+70.0,Computer Science,64.0,32.0,5.0,Lectures-Practical
+70.0,Mathematics,76.0,48.0,5.0,Reading
+70.0,Geography,76.0,24.0,3.0,Practical
+70.0,History,73.0,39.0,4.0,Lectures
+70.0,Chemistry,74.0,29.0,4.0,Visual
+70.0,Physics,77.0,27.0,2.0,Practical
+70.0,Physics,59.0,34.0,5.0,Lectures-Practical
+70.0,History,86.0,35.0,1.0,Practice-Visual
+70.0,Geography,71.0,34.0,5.0,Reading
+71.0,English,76.0,29.0,4.0,Lectures
+71.0,Mathematics,69.0,27.0,5.0,Practice-Reading
+71.0,History,66.0,35.0,1.0,Practical-Practice
+71.0,Economics,76.0,22.0,1.0,Visual
+71.0,Science,76.0,40.0,4.0,Visual
+71.0,Geography,66.0,20.0,2.0,Visual
+71.0,Mathematics,83.0,57.0,4.0,Practice
+71.0,Physics,70.0,20.0,4.0,Lectures-Reading
+71.0,Physics,87.0,38.0,4.0,Lectures-Practical
+71.0,Biology,84.0,26.0,2.0,Reading
+71.0,History,65.0,45.0,4.0,Practice-Visual
+71.0,Science,78.0,43.0,5.0,Visual-Reading
+71.0,Economics,78.0,37.0,2.0,Lectures
+71.0,Chemistry,84.0,29.0,5.0,Practical
+71.0,Mathematics,83.0,23.0,4.0,Practical-Practice
+71.0,Science,75.0,28.0,4.0,Practical
+71.0,Computer Science,72.0,22.0,5.0,Practice
+71.0,Science,63.0,39.0,5.0,Visual-Lectures
+71.0,Chemistry,76.0,38.0,5.0,Practice-Reading
+71.0,History,61.0,37.0,4.0,Visual-Lectures
+72.0,Economics,69.0,37.0,2.0,Practical-Practice
+72.0,Science,75.0,22.0,5.0,Reading
+72.0,Economics,80.0,40.0,4.0,Practice
+72.0,Mathematics,74.0,24.0,5.0,Reading
+72.0,Chemistry,92.0,38.0,5.0,Visual-Reading
+72.0,Geography,76.0,36.0,5.0,Reading
+72.0,Physics,81.0,8.0,5.0,Visual-Reading
+72.0,English,57.0,32.0,1.0,Practical-Visual
+72.0,History,83.0,30.0,3.0,Practice-Practical
+72.0,Geography,63.0,18.0,4.0,Reading-Visual
+72.0,Mathematics,72.0,27.0,5.0,Reading
+72.0,History,70.0,34.0,1.0,Practice
+72.0,English,77.0,40.0,2.0,Visual-Reading
+72.0,Economics,53.0,36.0,1.0,Practical
+72.0,Computer Science,79.0,22.0,5.0,Visual-Practical
+72.0,Mathematics,76.0,14.0,4.0,Reading
+72.0,Economics,71.0,38.0,1.0,Visual
+72.0,Chemistry,69.0,31.0,5.0,Visual-Lectures
+72.0,Geography,82.0,20.0,2.0,Reading
+72.0,Chemistry,85.0,40.0,5.0,Visual-Practice
+73.0,Computer Science,62.0,17.0,5.0,Visual-Practice
+73.0,English,79.0,34.0,3.0,Practice-Practical
+73.0,Biology,84.0,39.0,4.0,Visual-Practice
+73.0,Chemistry,64.0,30.0,5.0,Reading
+73.0,Physics,54.0,31.0,5.0,Practice
+73.0,Physics,71.0,41.0,4.0,Reading
+73.0,Physics,67.0,21.0,5.0,Lectures
+73.0,Computer Science,79.0,22.0,5.0,Visual
+73.0,English,77.0,33.0,3.0,Visual-Lectures
+73.0,Physics,77.0,22.0,4.0,Visual
+73.0,History,65.0,18.0,4.0,Practical-Lectures
+73.0,Mathematics,83.0,22.0,5.0,Visual-Reading
+73.0,Chemistry,79.0,34.0,4.0,Lectures
+73.0,Mathematics,83.0,26.0,5.0,Lectures
+73.0,English,80.0,31.0,5.0,Lectures
+73.0,Physics,74.0,24.0,4.0,Visual
+73.0,Economics,80.0,31.0,5.0,Reading
+73.0,Physics,74.0,29.0,5.0,Practical
+73.0,Biology,74.0,18.0,4.0,Reading-Visual
+73.0,History,77.0,46.0,1.0,Visual-Practical
+74.0,Physics,90.0,26.0,5.0,Practical-Lectures
+74.0,Physics,78.0,32.0,4.0,Visual
+74.0,Chemistry,79.0,33.0,5.0,Reading
+74.0,Mathematics,90.0,40.0,5.0,Visual
+74.0,Science,81.0,33.0,4.0,Practice-Visual
+74.0,Physics,75.0,40.0,5.0,Practical
+74.0,Physics,80.0,29.0,1.0,Reading
+74.0,Computer Science,94.0,48.0,5.0,Reading-Lectures
+74.0,Economics,92.0,48.0,5.0,Lectures
+74.0,Biology,80.0,24.0,1.0,Visual-Reading
+74.0,Mathematics,83.0,29.0,5.0,Practice
+74.0,Computer Science,73.0,19.0,5.0,Practice
+74.0,English,68.0,37.0,3.0,Lectures-Reading
+74.0,Mathematics,71.0,22.0,4.0,Practice-Visual
+74.0,Geography,67.0,31.0,5.0,Reading-Lectures
+74.0,Chemistry,54.0,25.0,4.0,Reading-Visual
+74.0,Economics,81.0,22.0,5.0,Lectures-Visual
+74.0,Chemistry,76.0,25.0,4.0,Lectures
+74.0,Biology,63.0,25.0,1.0,Lectures
+74.0,English,60.0,10.0,1.0,Reading-Practical
+75.0,Mathematics,91.0,31.0,5.0,Lectures
+75.0,Biology,65.0,18.0,1.0,Practical
+75.0,Economics,81.0,24.0,4.0,Practical
+75.0,Chemistry,78.0,25.0,5.0,Lectures
+75.0,Geography,72.0,22.0,3.0,Reading-Practice
+75.0,Chemistry,59.0,17.0,5.0,Practical
+75.0,Computer Science,76.0,17.0,5.0,Lectures-Practice
+75.0,English,57.0,6.0,3.0,Reading-Practical
+75.0,History,78.0,40.0,3.0,Visual
+75.0,Computer Science,58.0,40.0,5.0,Visual-Practice
+75.0,Biology,70.0,38.0,3.0,Practical-Reading
+75.0,Economics,77.0,14.0,3.0,Reading
+75.0,History,74.0,28.0,1.0,Visual
+75.0,English,63.0,28.0,4.0,Visual
+75.0,Biology,74.0,30.0,2.0,Reading
+75.0,Chemistry,60.0,19.0,5.0,Visual
+75.0,Science,65.0,27.0,5.0,Lectures-Visual
+75.0,Science,69.0,18.0,5.0,Visual-Reading
+75.0,History,87.0,40.0,4.0,Practice
+75.0,Computer Science,79.0,38.0,4.0,Visual-Reading
+76.0,Mathematics,77.0,39.0,5.0,Practical-Practice
+76.0,Physics,86.0,22.0,5.0,Reading-Practice
+76.0,English,67.0,16.0,4.0,Reading
+76.0,English,81.0,38.0,2.0,Visual
+76.0,Science,82.0,27.0,5.0,Practice
+76.0,Chemistry,88.0,27.0,4.0,Practical
+76.0,Physics,82.0,33.0,5.0,Reading-Lectures
+76.0,History,75.0,23.0,4.0,Visual
+76.0,Mathematics,71.0,41.0,5.0,Visual
+76.0,Chemistry,66.0,31.0,5.0,Practice-Reading
+76.0,Biology,53.0,39.0,2.0,Reading-Practical
+76.0,English,76.0,38.0,3.0,Reading
+76.0,History,78.0,24.0,5.0,Practice-Lectures
+76.0,Chemistry,91.0,48.0,4.0,Lectures-Practice
+76.0,Computer Science,62.0,37.0,4.0,Practical-Lectures
+76.0,Geography,70.0,37.0,3.0,Practice
+76.0,Mathematics,78.0,24.0,4.0,Practice
+76.0,Science,87.0,21.0,5.0,Practice-Lectures
+76.0,Chemistry,67.0,46.0,5.0,Lectures
+76.0,Biology,79.0,28.0,5.0,Reading-Practical
+77.0,Geography,59.0,20.0,1.0,Reading
+77.0,Mathematics,78.0,26.0,4.0,Reading
+77.0,Chemistry,70.0,18.0,5.0,Lectures
+77.0,Physics,79.0,14.0,5.0,Reading
+77.0,English,74.0,23.0,4.0,Lectures-Practice
+77.0,Science,83.0,35.0,4.0,Practice-Lectures
+77.0,Mathematics,66.0,36.0,5.0,Practice
+77.0,Economics,67.0,25.0,2.0,Practical-Visual
+77.0,Mathematics,69.0,16.0,4.0,Visual
+77.0,Chemistry,85.0,60.0,5.0,Visual-Practical
+77.0,English,59.0,26.0,4.0,Reading-Practice
+77.0,History,71.0,23.0,1.0,Practice
+77.0,History,80.0,30.0,3.0,Lectures
+77.0,Economics,60.0,35.0,4.0,Lectures-Visual
+77.0,Physics,73.0,25.0,5.0,Visual-Practical
+77.0,Mathematics,87.0,33.0,5.0,Lectures
+77.0,Physics,54.0,27.0,5.0,Practice-Visual
+77.0,Physics,68.0,22.0,5.0,Visual-Practice
+77.0,Chemistry,81.0,24.0,5.0,Practice
+77.0,Biology,90.0,24.0,1.0,Practical-Reading
+78.0,Science,84.0,29.0,5.0,Lectures-Visual
+78.0,Physics,63.0,19.0,4.0,Practice
+78.0,Chemistry,66.0,21.0,5.0,Practical
+78.0,Chemistry,85.0,34.0,5.0,Reading-Lectures
+78.0,Computer Science,88.0,31.0,5.0,Reading-Practical
+78.0,Chemistry,61.0,40.0,5.0,Reading-Practice
+78.0,Science,80.0,9.0,5.0,Reading-Visual
+78.0,Biology,57.0,41.0,1.0,Practice-Lectures
+78.0,Biology,87.0,31.0,4.0,Reading
+78.0,Chemistry,62.0,34.0,4.0,Visual
+78.0,Mathematics,86.0,14.0,5.0,Practice-Visual
+78.0,Physics,79.0,34.0,5.0,Visual-Reading
+78.0,Science,62.0,26.0,5.0,Reading-Practical
+78.0,Economics,86.0,51.0,1.0,Practical
+78.0,Computer Science,81.0,23.0,5.0,Reading
+78.0,Chemistry,65.0,20.0,4.0,Practical-Practice
+78.0,Economics,81.0,43.0,2.0,Reading
+78.0,Chemistry,90.0,31.0,5.0,Lectures-Practice
+78.0,Biology,72.0,17.0,5.0,Practice
+78.0,Biology,85.0,34.0,3.0,Practical-Practice
+,Geography,96.0,40.0,3.0,Lectures-Reading
+79.0,Economics,70.0,37.0,2.0,Visual
+79.0,Economics,64.0,27.0,2.0,Practical
+79.0,English,78.0,20.0,1.0,Practice-Practical
+79.0,Biology,74.0,47.0,3.0,Practical
+79.0,Economics,59.0,52.0,5.0,Practice-Reading
+79.0,English,85.0,30.0,4.0,Lectures-Practical
+79.0,Mathematics,68.0,48.0,5.0,Practice
+79.0,Science,66.0,23.0,5.0,Practical
+79.0,Mathematics,58.0,33.0,5.0,Practical-Visual
+79.0,History,80.0,33.0,4.0,Reading
+79.0,Economics,89.0,33.0,4.0,Lectures-Practical
+79.0,Geography,68.0,35.0,3.0,Practical
+79.0,English,67.0,22.0,4.0,Reading
+79.0,History,77.0,36.0,1.0,Lectures
+79.0,Chemistry,75.0,29.0,5.0,Visual-Practical
+79.0,Mathematics,77.0,31.0,5.0,Practical
+79.0,English,70.0,18.0,3.0,Lectures
+79.0,Biology,80.0,16.0,4.0,Visual
+79.0,Mathematics,75.0,48.0,4.0,Reading
+80.0,History,69.0,32.0,2.0,Practice
+80.0,Biology,81.0,7.0,3.0,Practice
+80.0,English,64.0,24.0,2.0,Reading
+80.0,Economics,85.0,19.0,5.0,Practice-Lectures
+80.0,Mathematics,81.0,30.0,5.0,Practical
+80.0,Geography,60.0,36.0,5.0,Practice-Lectures
+80.0,Biology,84.0,29.0,2.0,Lectures
+80.0,Physics,72.0,21.0,5.0,Practice-Reading
+80.0,English,73.0,31.0,2.0,Visual
+80.0,English,65.0,18.0,2.0,Practice-Lectures
+80.0,History,70.0,39.0,4.0,Practical
+80.0,Biology,78.0,28.0,4.0,Practice-Practical
+80.0,Geography,73.0,12.0,4.0,Practice
+80.0,Economics,72.0,47.0,4.0,Lectures
+80.0,Biology,87.0,19.0,3.0,Practice
+80.0,Geography,72.0,35.0,2.0,Reading-Practical
+80.0,Physics,51.0,28.0,5.0,Reading
+80.0,Science,56.0,37.0,5.0,Practice
+80.0,Biology,75.0,39.0,1.0,Visual-Practice
+80.0,Biology,70.0,35.0,2.0,Practical
+81.0,History,95.0,12.0,2.0,Practical
+81.0,Geography,69.0,31.0,5.0,Reading
+81.0,Biology,78.0,45.0,1.0,Reading
+81.0,Mathematics,81.0,34.0,5.0,Reading
+81.0,Economics,67.0,12.0,2.0,Practical
+81.0,Economics,77.0,12.0,1.0,Practice
+81.0,Chemistry,95.0,28.0,5.0,Reading-Lectures
+81.0,Mathematics,73.0,42.0,5.0,Practical-Visual
+81.0,Economics,70.0,38.0,1.0,Visual
+81.0,Chemistry,81.0,31.0,4.0,Reading
+81.0,Geography,71.0,39.0,3.0,Practice-Visual
+81.0,Science,88.0,28.0,4.0,Lectures
+81.0,Mathematics,80.0,54.0,5.0,Practical-Lectures
+81.0,Computer Science,67.0,39.0,5.0,Lectures
+81.0,Mathematics,65.0,25.0,4.0,Lectures
+81.0,History,63.0,31.0,1.0,Lectures-Practice
+81.0,Physics,74.0,35.0,5.0,Visual-Practice
+81.0,Geography,70.0,28.0,3.0,Lectures-Practice
+81.0,Computer Science,81.0,32.0,5.0,Practice-Practical
+81.0,Biology,80.0,12.0,2.0,Visual
+82.0,History,83.0,38.0,3.0,Visual-Lectures
+82.0,History,68.0,33.0,5.0,Practice-Reading
+82.0,Economics,59.0,39.0,3.0,Visual
+82.0,Physics,70.0,30.0,5.0,Practical-Visual
+82.0,Computer Science,75.0,38.0,5.0,Reading
+82.0,English,87.0,31.0,5.0,Practical
+82.0,Mathematics,87.0,33.0,5.0,Visual-Lectures
+82.0,Mathematics,71.0,41.0,5.0,Lectures-Practice
+82.0,Physics,85.0,37.0,5.0,Reading
+82.0,Science,86.0,43.0,5.0,Lectures-Practical
+,Mathematics,72.0,42.0,5.0,Reading
+82.0,Computer Science,80.0,50.0,4.0,Visual-Practical
+82.0,Physics,65.0,39.0,5.0,Visual
+82.0,Chemistry,76.0,36.0,5.0,Lectures-Reading
+82.0,Science,76.0,27.0,4.0,Reading
+82.0,Economics,70.0,44.0,4.0,Practical-Lectures
+82.0,Science,88.0,35.0,5.0,Practical
+82.0,Computer Science,73.0,34.0,5.0,Reading
+82.0,Economics,71.0,30.0,3.0,Lectures-Practical
+82.0,Science,64.0,29.0,5.0,Lectures
+83.0,History,56.0,26.0,1.0,Visual-Practice
+83.0,English,66.0,14.0,1.0,Lectures-Practice
+83.0,Computer Science,81.0,21.0,5.0,Practical-Practice
+83.0,Geography,83.0,32.0,3.0,Reading-Lectures
+83.0,Chemistry,69.0,32.0,5.0,Visual
+83.0,English,56.0,26.0,3.0,Visual-Practice
+83.0,Mathematics,84.0,38.0,5.0,Visual-Reading
+83.0,Geography,69.0,35.0,3.0,Visual
+83.0,Computer Science,75.0,32.0,4.0,Lectures
+83.0,English,70.0,36.0,3.0,Lectures-Reading
+83.0,Mathematics,90.0,33.0,5.0,Visual
+83.0,Computer Science,79.0,26.0,4.0,Visual
+83.0,Mathematics,83.0,37.0,5.0,Visual-Practical
+83.0,Mathematics,76.0,23.0,4.0,Practical-Reading
+83.0,English,79.0,39.0,5.0,Reading
+83.0,Economics,83.0,7.0,3.0,Visual-Lectures
+83.0,History,91.0,30.0,3.0,Lectures
+83.0,Biology,66.0,20.0,4.0,Lectures-Visual
+83.0,Economics,64.0,24.0,5.0,Lectures
+83.0,History,69.0,36.0,3.0,Practice-Visual
+84.0,Computer Science,64.0,30.0,5.0,Reading-Practical
+84.0,Computer Science,74.0,44.0,5.0,Reading-Visual
+84.0,Science,67.0,38.0,5.0,Practical-Practice
+84.0,Physics,74.0,47.0,5.0,Practice-Practical
+84.0,Physics,72.0,30.0,4.0,Reading
+84.0,Geography,85.0,29.0,1.0,Visual-Lectures
+84.0,Science,67.0,14.0,5.0,Reading
+84.0,English,73.0,25.0,4.0,Practical-Visual
+84.0,Biology,58.0,27.0,4.0,Visual-Practical
+84.0,Biology,80.0,43.0,2.0,Lectures
+84.0,Economics,57.0,27.0,5.0,Practical-Lectures
+84.0,Economics,75.08080301129235,26.0,1.0,Reading-Visual
+84.0,Science,72.0,57.0,5.0,Practical
+84.0,Chemistry,93.0,21.0,4.0,Lectures
+84.0,Mathematics,101.0,50.0,5.0,Reading-Lectures
+84.0,Economics,84.0,35.0,3.0,Practical-Visual
+84.0,Computer Science,73.0,20.0,4.0,Visual-Lectures
+84.0,Physics,61.0,30.0,5.0,Lectures
+84.0,English,80.0,40.0,3.0,Lectures
+84.0,Physics,80.0,26.0,5.0,Lectures
+85.0,Economics,82.0,32.0,1.0,Visual
+85.0,Mathematics,74.0,42.0,5.0,Lectures-Reading
+85.0,Biology,64.0,31.0,3.0,Practical
+85.0,English,75.0,22.0,2.0,Lectures
+85.0,Mathematics,74.0,25.0,5.0,Practice
+85.0,Science,77.0,20.0,4.0,Lectures-Reading
+85.0,Science,86.0,26.0,4.0,Practice
+85.0,History,83.0,19.0,3.0,Lectures
+85.0,History,74.0,40.0,4.0,Visual
+85.0,Science,70.0,25.0,5.0,Practice-Practical
+85.0,Biology,89.0,16.0,1.0,Reading-Practice
+85.0,Computer Science,94.0,48.0,5.0,Visual
+85.0,Economics,87.0,35.0,5.0,Practice
+85.0,Computer Science,84.0,14.0,5.0,Practical-Visual
+85.0,History,82.0,23.0,3.0,Reading-Lectures
+85.0,Physics,74.0,24.0,5.0,Visual-Practical
+85.0,Biology,69.0,41.0,1.0,Practical
+85.0,Geography,78.0,41.0,1.0,Practice-Practical
+85.0,English,77.0,27.0,1.0,Practical
+85.0,Economics,80.0,30.0,2.0,Practical
+86.0,History,81.0,31.0,3.0,Reading-Visual
+86.0,Chemistry,60.0,40.0,5.0,Reading-Practice
+86.0,Biology,69.0,27.0,4.0,Practical
+86.0,Science,78.0,25.0,4.0,Practical
+86.0,History,73.0,49.0,3.0,Practice-Practical
+86.0,Science,80.0,33.0,5.0,Reading
+86.0,Chemistry,77.0,35.0,5.0,Practice
+86.0,Physics,85.0,26.0,4.0,Visual-Lectures
+86.0,English,76.0,25.0,2.0,Visual
+86.0,Computer Science,79.0,24.0,5.0,Practical
+86.0,Geography,73.0,33.0,3.0,Lectures-Practical
+86.0,Mathematics,87.0,26.0,5.0,Reading-Practical
+86.0,Economics,68.0,31.0,5.0,Lectures
+86.0,Geography,77.0,41.0,1.0,Practice-Lectures
+86.0,Economics,70.0,30.0,3.0,Reading
+86.0,Biology,71.0,37.0,1.0,Reading-Lectures
+86.0,Geography,56.0,35.0,5.0,Practical-Practice
+86.0,Chemistry,67.0,26.0,5.0,Visual
+86.0,Biology,61.0,37.0,4.0,Visual-Practice
+86.0,Biology,64.0,38.0,3.0,Practical-Lectures
+87.0,Geography,81.0,34.0,3.0,Practical
+87.0,Physics,69.0,34.0,4.0,Practical-Reading
+87.0,Mathematics,72.0,39.0,5.0,Practice
+87.0,Chemistry,96.0,16.0,5.0,Visual-Lectures
+87.0,Economics,88.0,10.0,2.0,Visual
+87.0,Computer Science,72.0,32.0,5.0,Practice
+87.0,Economics,86.0,20.0,4.0,Lectures-Reading
+87.0,Chemistry,86.0,35.0,5.0,Practice-Reading
+87.0,Biology,90.0,30.0,5.0,Practice
+87.0,Chemistry,83.0,29.0,5.0,Practice
+87.0,Computer Science,65.0,27.0,5.0,Practice
+87.0,Biology,63.0,47.0,4.0,Practical
+87.0,History,66.0,29.0,2.0,Reading
+87.0,Science,62.0,34.0,5.0,Reading-Practice
+87.0,Computer Science,69.0,38.0,5.0,Reading-Practice
+87.0,English,81.0,20.0,2.0,Practical-Lectures
+87.0,History,101.0,24.0,3.0,Visual
+87.0,Geography,53.0,49.0,5.0,Reading
+87.0,English,70.0,22.0,2.0,Reading-Visual
+87.0,Physics,57.0,34.0,4.0,Practical
+88.0,Science,81.0,29.0,5.0,Reading
+88.0,Economics,82.0,35.0,1.0,Reading-Practical
+88.0,Biology,85.0,36.0,4.0,Practice-Practical
+88.0,Economics,77.0,28.0,2.0,Visual-Lectures
+88.0,Computer Science,77.0,29.0,5.0,Reading
+88.0,History,88.0,43.0,4.0,Reading
+88.0,Mathematics,73.0,36.0,4.0,Lectures-Practical
+88.0,Biology,55.0,25.0,5.0,Practice-Reading
+88.0,Economics,65.0,34.0,1.0,Reading
+88.0,English,63.0,25.0,4.0,Practical
+88.0,Economics,83.0,16.0,4.0,Practical-Lectures
+88.0,Economics,81.0,45.0,2.0,Lectures
+88.0,Physics,72.0,43.0,5.0,Visual
+88.0,Science,84.0,28.0,5.0,Practice-Visual
+88.0,Biology,76.0,31.0,4.0,Visual-Reading
+88.0,Mathematics,84.0,27.0,5.0,Practice-Visual
+88.0,Mathematics,64.0,27.0,5.0,Visual
+88.0,Physics,62.0,28.0,5.0,Practical
+88.0,Biology,62.0,21.0,1.0,Practice
+88.0,Computer Science,66.0,17.0,5.0,Reading
+89.0,Mathematics,77.0,29.0,5.0,Reading
+89.0,Economics,100.0,21.0,2.0,Practical
+89.0,English,80.0,52.0,2.0,Practice-Practical
+89.0,Geography,69.0,26.0,3.0,Visual-Lectures
+89.0,Physics,86.0,39.0,5.0,Visual-Practice
+89.0,Geography,76.0,32.0,4.0,Practical-Visual
+89.0,Biology,78.0,37.0,3.0,Visual-Practical
+89.0,Chemistry,68.0,25.0,5.0,Practice-Practical
+89.0,Chemistry,75.0,15.0,5.0,Visual-Practical
+89.0,Computer Science,86.0,26.0,5.0,Reading-Practical
+89.0,Geography,79.0,30.0,3.0,Practical-Reading
+89.0,Computer Science,70.0,41.0,5.0,Lectures-Visual
+89.0,English,55.0,30.0,1.0,Visual-Practical
+89.0,Science,77.0,36.0,4.0,Visual
+89.0,Physics,81.0,12.0,4.0,Reading-Visual
+89.0,Biology,69.0,29.0,5.0,Practice-Visual
+89.0,Economics,57.0,26.0,4.0,Visual
+89.0,Science,79.0,44.0,4.0,Practical
+89.0,Economics,66.0,36.0,1.0,Visual-Reading
+89.0,Science,70.0,14.0,5.0,Reading
+90.0,Computer Science,81.0,29.0,5.0,Practical-Visual
+90.0,Mathematics,63.0,52.0,5.0,Practical
+90.0,Economics,84.0,39.0,2.0,Practical
+90.0,Biology,55.0,14.0,3.0,Reading-Practice
+90.0,Geography,73.0,26.0,3.0,Practical
+90.0,Economics,75.0,25.0,3.0,Lectures-Reading
+90.0,Mathematics,74.0,30.0,5.0,Lectures-Visual
+90.0,Science,46.0,30.0,5.0,Reading
+90.0,Chemistry,88.0,30.0,5.0,Visual-Practical
+90.0,Economics,84.0,41.0,3.0,Practice-Lectures
+90.0,Chemistry,88.0,18.0,5.0,Lectures
+90.0,Science,71.0,43.0,5.0,Visual-Practice
+90.0,Geography,89.0,25.0,5.0,Practice-Practical
+90.0,History,78.0,22.0,4.0,Reading
+90.0,Geography,58.0,34.0,2.0,Practice-Reading
+90.0,Physics,71.0,31.0,5.0,Reading
+90.0,Mathematics,60.0,31.0,5.0,Reading
+90.0,Science,63.0,17.0,5.0,Practical
+90.0,Geography,80.0,29.0,4.0,Lectures-Reading
+90.0,Science,81.0,39.0,4.0,Reading
+91.0,Biology,88.0,53.0,3.0,Practice-Reading
+91.0,Physics,74.0,23.0,4.0,Visual-Practice
+91.0,Chemistry,88.0,40.0,5.0,Reading
+91.0,Chemistry,60.0,46.0,5.0,Lectures-Practical
+91.0,Economics,88.0,31.0,2.0,Practical
+91.0,History,66.0,22.0,5.0,Practice-Visual
+91.0,Mathematics,75.0,25.0,5.0,Reading
+91.0,Geography,89.0,18.0,5.0,Visual-Practical
+91.0,History,71.0,27.0,1.0,Reading-Lectures
+91.0,Economics,59.0,28.0,3.0,Lectures
+91.0,Economics,81.0,32.0,1.0,Reading
+91.0,History,80.0,31.0,3.0,Practice-Visual
+91.0,Chemistry,82.0,29.0,5.0,Visual-Lectures
+91.0,Geography,69.0,19.0,3.0,Practice
+91.0,Mathematics,60.0,31.0,5.0,Practice
+91.0,Mathematics,82.0,23.0,4.0,Lectures-Practice
+91.0,Geography,62.0,39.0,3.0,Lectures
+91.0,Science,97.0,39.0,4.0,Reading-Practical
+91.0,Computer Science,86.0,18.0,5.0,Practical
+91.0,Biology,70.0,50.0,3.0,Visual-Practical
+92.0,History,76.0,20.0,5.0,Reading
+92.0,Chemistry,68.0,40.0,4.0,Lectures
+92.0,Mathematics,71.0,31.0,4.0,Practice
+92.0,History,53.0,23.0,3.0,Practical-Reading
+92.0,Biology,78.0,44.0,5.0,Practical
+92.0,Computer Science,76.0,25.0,5.0,Reading
+92.0,Physics,63.0,21.0,5.0,Lectures
+92.0,Science,72.0,36.0,5.0,Practice
+92.0,Science,76.0,22.0,5.0,Practice-Visual
+92.0,Mathematics,78.0,21.0,4.0,Reading
+92.0,History,76.0,34.0,4.0,Practical
+92.0,Biology,68.0,41.0,5.0,Practical-Lectures
+92.0,Science,73.0,23.0,5.0,Practice
+92.0,Biology,62.0,38.0,1.0,Practice
+92.0,Physics,73.0,34.0,5.0,Visual
+92.0,Biology,76.0,36.0,3.0,Practice
+92.0,Economics,80.0,26.0,4.0,Practical-Lectures
+92.0,Physics,76.0,33.0,5.0,Visual
+92.0,Chemistry,83.0,39.0,5.0,Reading-Lectures
+92.0,Physics,71.0,37.0,5.0,Practice-Reading
+93.0,Biology,76.0,16.0,4.0,Lectures-Practical
+93.0,Computer Science,68.0,35.0,4.0,Visual-Lectures
+93.0,Computer Science,91.0,40.0,5.0,Practice-Visual
+93.0,History,78.0,41.0,1.0,Visual-Lectures
+93.0,Science,73.0,42.0,5.0,Lectures-Visual
+93.0,Computer Science,71.0,14.0,5.0,Reading-Practical
+93.0,History,60.0,29.0,3.0,Reading-Visual
+93.0,Geography,97.0,34.0,5.0,Practice
+93.0,Mathematics,77.0,5.0,5.0,Reading-Visual
+93.0,Science,69.0,27.0,4.0,Visual-Reading
+93.0,Biology,66.0,46.0,1.0,Visual-Reading
+93.0,Biology,90.0,22.0,2.0,Practice
+93.0,Economics,74.0,14.0,1.0,Practical-Practice
+93.0,Physics,75.0,27.0,5.0,Practice-Reading
+93.0,Science,66.0,28.0,5.0,Practical
+93.0,Computer Science,62.0,10.0,5.0,Practice
+93.0,Chemistry,77.0,14.0,5.0,Practice
+93.0,History,69.0,42.0,1.0,Reading-Practice
+93.0,English,81.0,44.0,4.0,Lectures-Visual
+93.0,Mathematics,66.0,34.0,5.0,Lectures-Visual
+94.0,Biology,86.0,29.0,2.0,Visual-Practice
+94.0,Mathematics,70.0,2.0,4.0,Reading
+94.0,Chemistry,74.0,48.0,5.0,Reading
+94.0,Biology,77.0,44.0,2.0,Reading
+94.0,Physics,93.0,12.0,5.0,Practice
+94.0,Mathematics,98.0,34.0,5.0,Reading
+94.0,Science,82.0,28.0,4.0,Lectures
+94.0,Geography,76.0,32.0,4.0,Practice-Lectures
+94.0,Economics,70.0,42.0,2.0,Practice
+94.0,Physics,66.0,18.0,5.0,Practice-Reading
+94.0,Chemistry,57.0,44.0,4.0,Practice-Visual
+94.0,History,65.0,21.0,1.0,Lectures
+94.0,Mathematics,68.0,25.0,5.0,Lectures-Practice
+94.0,Physics,80.0,28.0,4.0,Visual
+94.0,Biology,67.0,8.0,2.0,Reading-Visual
+94.0,Science,60.0,34.0,4.0,Practice-Practical
+94.0,History,75.0,26.0,3.0,Lectures
+94.0,Computer Science,84.0,23.0,5.0,Lectures-Practice
+94.0,Economics,73.0,30.0,2.0,Practice-Lectures
+94.0,History,73.0,25.0,2.0,Practical
+95.0,English,51.0,17.0,5.0,Reading
+95.0,History,80.0,55.0,5.0,Visual
+95.0,Geography,72.0,20.0,1.0,Lectures-Practical
+95.0,History,67.0,28.0,4.0,Practice
+95.0,Geography,75.0,15.0,3.0,Practical-Visual
+95.0,English,83.0,21.0,1.0,Practical-Lectures
+95.0,Biology,70.0,26.0,2.0,Visual-Practice
+95.0,Mathematics,79.0,35.0,4.0,Visual-Reading
+95.0,Physics,80.0,33.0,5.0,Visual-Practice
+95.0,Biology,63.0,47.0,4.0,Practical
+95.0,Science,84.0,24.0,5.0,Practical
+95.0,Geography,82.0,15.0,4.0,Reading
+95.0,Geography,77.0,31.0,4.0,Visual
+,Biology,59.0,10.0,3.0,Practice
+95.0,Biology,74.0,30.0,2.0,Practical-Practice
+95.0,Physics,72.0,32.0,4.0,Reading-Practice
+95.0,History,86.0,22.0,5.0,Lectures
+95.0,Chemistry,69.0,32.0,4.0,Visual
+95.0,Economics,67.0,19.0,1.0,Practice-Practical
+95.0,Science,59.0,45.0,5.0,Lectures
+96.0,Biology,61.0,42.0,5.0,Visual
+96.0,Biology,76.0,36.0,4.0,Lectures
+96.0,Physics,72.0,26.0,5.0,Lectures-Practical
+96.0,History,65.0,40.0,1.0,Reading-Visual
+96.0,Biology,83.0,35.0,5.0,Practice
+96.0,Chemistry,81.0,14.0,5.0,Visual
+96.0,Economics,64.0,31.0,1.0,Practical-Visual
+96.0,Computer Science,77.0,30.0,5.0,Practice-Visual
+96.0,Computer Science,80.0,28.0,5.0,Reading
+96.0,History,75.0,15.0,3.0,Lectures
+96.0,English,75.0,37.0,1.0,Practice
+96.0,Geography,76.0,51.0,4.0,Practice-Practical
+96.0,Geography,88.0,20.0,5.0,Lectures-Reading
+96.0,Economics,79.0,20.0,4.0,Reading-Practical
+96.0,Biology,81.0,34.0,2.0,Reading-Practice
+96.0,English,85.0,34.0,4.0,Practical
+96.0,Biology,84.0,34.0,1.0,Practical-Lectures
+96.0,Biology,80.0,16.0,2.0,Practical
+96.0,Mathematics,56.0,31.0,5.0,Practice
+96.0,Science,86.0,25.0,5.0,Practice
+97.0,Chemistry,78.0,22.0,4.0,Practice-Visual
+97.0,History,91.0,33.0,2.0,Practical-Reading
+97.0,Chemistry,67.0,28.0,5.0,Practical-Lectures
+97.0,English,81.0,40.0,5.0,Lectures-Practical
+97.0,Geography,81.0,26.0,5.0,Reading
+97.0,Economics,79.0,33.0,5.0,Practice
+97.0,Physics,71.0,29.0,5.0,Practice
+97.0,Mathematics,84.0,25.0,4.0,Lectures
+97.0,English,77.0,37.0,2.0,Practical-Lectures
+97.0,Chemistry,67.0,44.0,5.0,Lectures
+97.0,Physics,81.0,27.0,5.0,Reading-Visual
+97.0,Science,62.0,42.0,4.0,Reading
+97.0,Physics,70.0,31.0,5.0,Visual
+97.0,Biology,73.0,31.0,3.0,Practical
+97.0,Chemistry,80.0,25.0,5.0,Lectures-Practice
+97.0,Physics,74.0,13.0,4.0,Practical-Visual
+97.0,English,79.0,30.0,4.0,Visual-Practical
+97.0,Science,72.0,25.0,5.0,Reading-Practical
+97.0,Physics,75.0,39.0,5.0,Visual-Practice
+97.0,Computer Science,86.0,8.0,5.0,Lectures-Visual
+98.0,Mathematics,69.0,22.0,5.0,Visual
+98.0,Chemistry,65.0,36.0,5.0,Lectures
+98.0,Science,71.0,28.0,4.0,Lectures
+98.0,Science,78.0,26.0,4.0,Practice-Practical
+98.0,English,85.0,27.0,4.0,Practice-Practical
+98.0,Geography,79.0,41.0,1.0,Lectures
+98.0,Chemistry,62.0,28.0,5.0,Reading
+98.0,Geography,95.0,21.0,1.0,Practice
+98.0,Geography,70.0,42.0,4.0,Visual
+98.0,Biology,66.0,45.0,1.0,Practice
+98.0,English,85.0,34.0,2.0,Lectures-Practice
+98.0,Science,76.0,29.909250438706444,5.0,Visual-Practical
+98.0,English,76.0,30.0,5.0,Practical
+98.0,Geography,76.0,48.0,5.0,Lectures-Practice
+98.0,History,64.0,38.0,5.0,Practice-Lectures
+98.0,Computer Science,72.0,17.0,4.0,Visual
+98.0,Biology,65.0,43.0,1.0,Practice
+98.0,Geography,76.0,27.0,4.0,Reading
+98.0,Biology,91.0,31.0,3.0,Practical-Lectures
+98.0,English,82.0,19.0,2.0,Practical-Lectures
+99.0,Physics,75.0,7.0,5.0,Practical-Practice
+99.0,Geography,67.0,18.0,5.0,Lectures
+99.0,Mathematics,87.0,34.0,4.0,Lectures-Reading
+99.0,Mathematics,61.0,42.0,5.0,Practical-Reading
+99.0,History,88.0,27.0,2.0,Visual-Practical
+99.0,History,79.0,37.0,3.0,Visual
+99.0,Science,66.0,22.0,5.0,Reading
+99.0,Physics,73.0,35.0,4.0,Reading
+99.0,Mathematics,68.0,35.0,5.0,Practice
+99.0,Geography,89.0,22.0,1.0,Practical
+99.0,Science,69.0,40.0,5.0,Lectures-Practice
+99.0,Economics,63.0,32.0,3.0,Reading
+99.0,Chemistry,65.0,32.0,4.0,Lectures-Practical
+99.0,Science,77.0,25.0,4.0,Practical
+99.0,English,74.0,27.0,5.0,Practical-Practice
+99.0,Science,73.0,10.0,5.0,Reading-Practical
+99.0,Chemistry,71.0,29.0,5.0,Lectures-Practical
+99.0,Mathematics,68.0,39.0,5.0,Practical-Reading
+99.0,Economics,61.0,43.0,3.0,Reading
+99.0,English,95.0,12.0,2.0,Practice
+100.0,History,62.0,23.0,3.0,Practice
+100.0,Mathematics,70.0,21.0,5.0,Reading
+100.0,Economics,88.0,28.0,5.0,Practical-Lectures
+100.0,Mathematics,73.0,49.0,5.0,Visual
+100.0,Geography,63.0,26.0,4.0,Practice-Practical
+100.0,History,70.0,39.0,2.0,Practice-Lectures
+100.0,Chemistry,67.0,16.0,5.0,Reading-Practical
+100.0,Physics,91.0,32.0,4.0,Practice-Practical
+100.0,Geography,85.0,24.0,5.0,Practice
+100.0,English,75.0,50.0,1.0,Practical
+100.0,Mathematics,70.0,39.0,5.0,Practice-Lectures
+100.0,Chemistry,82.0,20.0,4.0,Practical-Visual
+100.0,Chemistry,84.0,3.0,5.0,Visual-Practice
+100.0,Computer Science,60.0,24.0,5.0,Practical
+100.0,Economics,76.0,36.0,5.0,Practical-Lectures
+100.0,Science,83.0,16.0,5.0,Practical-Reading
+100.0,Geography,73.0,30.0,2.0,Lectures-Reading
+100.0,Physics,63.0,33.0,4.0,Lectures-Visual
+100.0,Physics,75.0,43.0,5.0,Lectures-Practical
+100.0,History,70.0,19.0,3.0,Visual
+101.0,Science,68.0,34.0,4.0,Lectures
+101.0,Mathematics,75.0,26.0,5.0,Practice
+101.0,Biology,54.0,24.0,3.0,Practical-Reading
+101.0,English,57.0,25.0,1.0,Lectures-Practical
+101.0,English,57.0,47.0,4.0,Visual-Reading
+101.0,Geography,73.0,27.0,3.0,Lectures
+101.0,History,80.0,11.0,1.0,Reading
+101.0,History,67.0,14.0,4.0,Reading
+101.0,History,72.0,26.0,3.0,Visual
+101.0,Science,83.0,21.0,4.0,Practical
+101.0,Computer Science,71.0,26.0,5.0,Reading-Lectures
+101.0,Computer Science,67.0,21.0,4.0,Reading-Practice
+101.0,Mathematics,74.0,31.0,5.0,Reading-Practice
+101.0,Chemistry,89.0,30.0,5.0,Practical-Visual
+101.0,English,69.0,16.0,4.0,Practice
+101.0,Biology,71.0,25.0,1.0,Practical-Reading
+101.0,Chemistry,58.0,26.0,4.0,Reading-Visual
+101.0,History,64.0,12.0,2.0,Practical-Visual
+101.0,Chemistry,79.0,27.0,4.0,Reading-Lectures
+101.0,Science,65.0,29.0,5.0,Reading-Lectures
+102.0,Chemistry,67.0,39.0,4.0,Visual-Practical
+102.0,Economics,80.0,29.909250438706444,4.0,Visual-Lectures
+102.0,English,84.0,35.0,1.0,Reading-Practical
+102.0,Economics,64.0,34.0,2.0,Practice-Reading
+102.0,Science,74.0,35.0,4.0,Visual
+102.0,Mathematics,68.0,39.0,4.0,Practical
+102.0,Biology,75.08080301129235,37.0,1.0,Practical
+102.0,Chemistry,68.0,24.0,4.0,Practice-Lectures
+102.0,Physics,78.0,34.0,5.0,Practical
+102.0,Mathematics,67.0,36.0,5.0,Lectures
+102.0,Mathematics,80.0,35.0,4.0,Visual
+102.0,Computer Science,80.0,18.0,5.0,Practical
+102.0,Biology,95.0,54.0,1.0,Visual-Practical
+102.0,Physics,81.0,31.0,4.0,Lectures-Visual
+102.0,Economics,71.0,18.0,1.0,Visual-Reading
+102.0,Computer Science,63.0,22.0,5.0,Practical-Practice
+102.0,Geography,62.0,29.0,5.0,Visual-Reading
+102.0,Computer Science,93.0,33.0,5.0,Practice-Reading
+102.0,Computer Science,80.0,23.0,5.0,Practical-Visual
+102.0,Physics,95.0,37.0,4.0,Practical
+103.0,Science,68.0,32.0,4.0,Practice-Lectures
+103.0,Mathematics,65.0,30.0,5.0,Lectures
+103.0,Geography,81.0,34.0,5.0,Practical
+103.0,Geography,93.0,24.0,1.0,Practical
+103.0,History,80.0,28.0,3.0,Visual
+103.0,Science,67.0,32.0,5.0,Visual
+103.0,Geography,83.0,39.0,3.0,Visual-Lectures
+103.0,Geography,60.0,19.0,5.0,Practical-Reading
+103.0,Biology,99.0,24.0,1.0,Lectures-Visual
+103.0,English,63.0,30.0,2.0,Reading-Visual
+103.0,English,78.0,23.0,2.0,Visual
+103.0,Physics,75.0,30.0,5.0,Practice-Reading
+103.0,Physics,77.0,35.0,5.0,Visual-Reading
+103.0,Biology,69.0,40.0,2.0,Practice
+103.0,Biology,80.0,32.0,1.0,Reading-Lectures
+103.0,Biology,73.0,35.0,5.0,Lectures
+103.0,Economics,62.0,13.0,2.0,Visual
+103.0,Chemistry,74.0,52.0,4.0,Practice-Visual
+103.0,History,86.0,39.0,5.0,Visual
+103.0,Economics,86.0,31.0,3.0,Visual
+104.0,Computer Science,67.0,38.0,5.0,Lectures-Practice
+104.0,Chemistry,65.0,13.0,5.0,Practice
+104.0,Physics,73.0,25.0,5.0,Practical-Reading
+104.0,Economics,76.0,27.0,5.0,Lectures-Practical
+104.0,English,61.0,22.0,2.0,Reading
+104.0,Chemistry,82.0,33.0,5.0,Lectures
+104.0,English,67.0,24.0,2.0,Visual-Practical
+104.0,Computer Science,79.0,46.0,5.0,Practice-Visual
+104.0,Biology,90.0,13.0,1.0,Reading
+104.0,Computer Science,67.0,13.0,5.0,Reading
+104.0,Computer Science,69.0,53.0,5.0,Lectures
+104.0,Computer Science,68.0,33.0,5.0,Lectures
+104.0,Science,71.0,25.0,5.0,Lectures
+104.0,Economics,83.0,34.0,4.0,Visual
+104.0,Geography,64.0,40.0,2.0,Reading
+104.0,History,62.0,25.0,1.0,Reading
+104.0,Mathematics,77.0,44.0,4.0,Lectures
+104.0,Biology,65.0,45.0,5.0,Practice-Practical
+104.0,Economics,82.0,23.0,2.0,Reading
+104.0,Biology,78.0,10.0,3.0,Lectures
+105.0,Economics,70.0,28.0,3.0,Visual-Practical
+105.0,Biology,77.0,29.0,3.0,Practical-Lectures
+105.0,Science,85.0,24.0,5.0,Practice-Reading
+105.0,Geography,63.0,39.0,5.0,Practice-Lectures
+105.0,Chemistry,78.0,39.0,5.0,Lectures-Practice
+105.0,Geography,82.0,18.0,2.0,Visual
+105.0,Geography,98.0,10.0,5.0,Visual
+105.0,Mathematics,70.0,28.0,5.0,Visual
+105.0,History,81.0,22.0,5.0,Practical
+105.0,Physics,73.0,29.909250438706444,5.0,Practice-Visual
+105.0,Geography,62.0,26.0,1.0,Practical
+105.0,Biology,74.0,20.0,2.0,Practice-Visual
+105.0,Science,75.0,40.0,5.0,Lectures
+105.0,History,79.0,39.0,4.0,Visual
+105.0,Computer Science,76.0,27.0,5.0,Practice-Visual
+105.0,Science,75.0,28.0,4.0,Visual-Practice
+105.0,Economics,76.0,16.0,5.0,Practical
+105.0,Chemistry,78.0,22.0,4.0,Reading-Practice
+105.0,History,61.0,48.0,5.0,Reading-Practical
+105.0,Mathematics,73.0,38.0,4.0,Practice
+106.0,Science,66.0,24.0,5.0,Visual-Practical
+106.0,History,67.0,34.0,2.0,Practical-Lectures
+106.0,Physics,70.0,17.0,5.0,Visual-Practical
+106.0,Geography,81.0,28.0,1.0,Reading
+106.0,Mathematics,85.0,37.0,5.0,Practice-Visual
+106.0,Computer Science,80.0,43.0,5.0,Lectures
+106.0,Biology,72.0,23.0,4.0,Lectures-Visual
+106.0,Biology,62.0,31.0,4.0,Practice
+106.0,Physics,86.0,30.0,5.0,Visual
+106.0,Computer Science,74.0,32.0,5.0,Reading-Visual
+106.0,Computer Science,86.0,34.0,5.0,Reading
+106.0,Physics,56.0,21.0,4.0,Reading-Visual
+106.0,Chemistry,91.0,34.0,5.0,Reading
+106.0,Chemistry,74.0,34.0,5.0,Practice
+106.0,Science,72.0,32.0,5.0,Reading
+106.0,Economics,45.0,30.0,4.0,Reading-Practice
+106.0,Biology,77.0,27.0,1.0,Lectures-Visual
+106.0,Physics,72.0,37.0,5.0,Reading-Lectures
+106.0,Science,77.0,38.0,5.0,Reading
+106.0,Computer Science,74.0,24.0,4.0,Practical
+107.0,Mathematics,78.0,17.0,5.0,Practical-Visual
+107.0,Economics,67.0,46.0,2.0,Reading
+107.0,Computer Science,71.0,42.0,5.0,Lectures-Visual
+107.0,English,72.0,31.0,1.0,Lectures-Reading
+107.0,Science,75.0,16.0,5.0,Practice
+107.0,Physics,75.0,34.0,4.0,Practical
+107.0,Economics,81.0,14.0,1.0,Reading-Practice
+107.0,Biology,64.0,44.0,2.0,Visual-Practice
+107.0,Physics,65.0,26.0,5.0,Lectures
+107.0,Economics,64.0,43.0,5.0,Visual-Reading
+107.0,History,92.0,23.0,1.0,Lectures-Reading
+107.0,Computer Science,72.0,41.0,4.0,Practical
+107.0,Geography,95.0,29.0,4.0,Practical
+107.0,Geography,96.0,10.0,4.0,Lectures-Visual
+107.0,English,79.0,39.0,3.0,Practice-Practical
+107.0,Chemistry,68.0,15.0,5.0,Practice
+107.0,Mathematics,78.0,24.0,5.0,Reading-Practical
+107.0,Geography,77.0,31.0,1.0,Visual
+107.0,Physics,66.0,36.0,5.0,Reading
+107.0,Computer Science,75.0,31.0,5.0,Practical
+108.0,Biology,83.0,29.0,1.0,Practice-Visual
+108.0,Biology,70.0,27.0,4.0,Practice
+108.0,Mathematics,80.0,34.0,5.0,Practical
+108.0,Science,73.0,19.0,5.0,Reading
+108.0,Economics,83.0,35.0,2.0,Reading
+108.0,Biology,88.0,39.0,2.0,Lectures
+108.0,Economics,71.0,31.0,4.0,Reading
+108.0,History,70.0,38.0,5.0,Practical
+108.0,Geography,93.0,21.0,4.0,Visual-Practice
+108.0,History,80.0,26.0,3.0,Reading
+108.0,Physics,81.0,32.0,4.0,Practical
+108.0,Computer Science,67.0,13.0,4.0,Lectures-Reading
+108.0,Mathematics,65.0,20.0,5.0,Reading-Lectures
+108.0,History,80.0,20.0,1.0,Practical-Practice
+108.0,English,75.0,21.0,1.0,Lectures-Practice
+108.0,Biology,67.0,26.0,4.0,Visual
+108.0,Geography,79.0,33.0,2.0,Lectures
+108.0,Chemistry,87.0,41.0,5.0,Practice-Lectures
+108.0,Biology,74.0,12.0,4.0,Lectures
+108.0,Science,69.0,32.0,5.0,Practice-Practical
+109.0,Computer Science,86.0,23.0,5.0,Visual-Practical
+109.0,History,79.0,31.0,1.0,Visual
+109.0,Physics,68.0,37.0,5.0,Practice
+109.0,Geography,78.0,34.0,1.0,Practical
+109.0,Geography,58.0,41.0,4.0,Practice
+109.0,Chemistry,72.0,41.0,5.0,Visual
+109.0,Chemistry,84.0,26.0,5.0,Lectures
+109.0,Economics,77.0,20.0,2.0,Lectures-Practical
+109.0,History,76.0,1.0,3.0,Practical
+109.0,Biology,81.0,34.0,2.0,Practice
+109.0,Physics,83.0,25.0,5.0,Lectures-Visual
+109.0,Physics,67.0,36.0,5.0,Practice
+109.0,Science,78.0,33.0,5.0,Lectures
+109.0,Biology,63.0,14.0,1.0,Practical-Practice
+109.0,Biology,70.0,37.0,2.0,Reading-Practice
+109.0,English,72.0,35.0,3.0,Practical
+109.0,Physics,78.0,46.0,4.0,Reading-Lectures
+109.0,Economics,51.0,25.0,1.0,Visual
+109.0,Chemistry,86.0,52.0,5.0,Lectures-Practical
+109.0,Physics,89.0,40.0,5.0,Visual-Lectures
+110.0,Physics,57.0,27.0,5.0,Practice
+110.0,Geography,85.0,36.0,1.0,Practice
+110.0,Chemistry,73.0,17.0,5.0,Practical-Visual
+110.0,Geography,69.0,25.0,1.0,Reading
+110.0,Computer Science,91.0,48.0,5.0,Reading-Practical
+110.0,History,63.0,17.0,2.0,Practice
+110.0,Mathematics,65.0,25.0,5.0,Visual-Reading
+110.0,Economics,75.0,15.0,3.0,Lectures-Practical
+110.0,Economics,61.0,24.0,3.0,Visual
+110.0,Economics,92.0,13.0,3.0,Visual-Practice
+110.0,Chemistry,83.0,31.0,5.0,Practical-Lectures
+110.0,Chemistry,70.0,24.0,4.0,Practical
+110.0,Computer Science,72.0,24.0,5.0,Practical-Practice
+110.0,Chemistry,55.0,30.0,5.0,Lectures-Practice
+110.0,Mathematics,64.0,21.0,4.0,Practical-Reading
+110.0,English,89.0,30.0,2.0,Visual
+110.0,Biology,70.0,20.0,4.0,Practical-Lectures
+110.0,Geography,70.0,25.0,3.0,Lectures-Practical
+110.0,History,71.0,32.0,2.0,Lectures-Practice
+110.0,History,78.0,30.0,3.0,Reading-Practice
+111.0,Biology,78.0,37.0,4.0,Practical-Lectures
+111.0,Mathematics,72.0,34.0,4.0,Reading-Lectures
+111.0,Economics,79.0,37.0,5.0,Visual-Practice
+111.0,Computer Science,54.0,11.0,5.0,Visual
+111.0,Science,69.0,26.0,5.0,Practice-Visual
+111.0,Economics,81.0,20.0,2.0,Visual-Practice
+111.0,Biology,61.0,35.0,4.0,Visual
+111.0,Chemistry,85.0,37.0,5.0,Practice-Reading
+111.0,Computer Science,69.0,21.0,4.0,Visual-Practice
+111.0,History,77.0,34.0,1.0,Lectures
+111.0,English,77.0,21.0,3.0,Reading
+111.0,English,66.0,24.0,2.0,Practical
+111.0,Biology,77.0,30.0,2.0,Lectures-Reading
+111.0,Geography,73.0,34.0,3.0,Practical-Practice
+111.0,History,74.0,33.0,4.0,Practical-Practice
+111.0,Computer Science,96.0,29.0,5.0,Practice
+111.0,Geography,80.0,17.0,1.0,Reading-Lectures
+111.0,History,74.0,5.0,1.0,Practical
+111.0,Computer Science,76.0,30.0,4.0,Lectures-Visual
+111.0,English,96.0,16.0,5.0,Practical-Lectures
+112.0,Chemistry,74.0,37.0,4.0,Practical-Practice
+112.0,Science,79.0,34.0,4.0,Lectures-Visual
+112.0,Geography,52.0,20.0,5.0,Practical-Lectures
+112.0,Physics,66.0,20.0,4.0,Lectures
+112.0,Computer Science,80.0,22.0,5.0,Practical
+112.0,History,82.0,37.0,4.0,Lectures
+112.0,English,77.0,29.0,3.0,Practical
+112.0,Geography,68.0,15.0,1.0,Reading
+112.0,Geography,63.0,31.0,1.0,Practical-Lectures
+112.0,Geography,71.0,24.0,2.0,Reading-Visual
+112.0,Biology,67.0,31.0,2.0,Practical-Visual
+112.0,Chemistry,83.0,29.0,5.0,Lectures-Reading
+112.0,Mathematics,75.0,45.0,5.0,Practical
+112.0,Computer Science,88.0,25.0,5.0,Practice
+112.0,Economics,83.0,32.0,5.0,Reading
+112.0,Geography,73.0,14.0,3.0,Practical
+112.0,Economics,89.0,33.0,1.0,Practice-Lectures
+112.0,Economics,89.0,30.0,5.0,Practice-Reading
+112.0,Biology,94.0,18.0,1.0,Practice
+112.0,Science,80.0,31.0,5.0,Reading
+113.0,Chemistry,74.0,24.0,5.0,Reading
+113.0,Mathematics,88.0,48.0,5.0,Lectures
+113.0,History,77.0,15.0,1.0,Practice-Reading
+113.0,History,73.0,31.0,2.0,Visual
+113.0,Geography,76.0,37.0,3.0,Practice
+113.0,Biology,75.0,51.0,3.0,Reading
+113.0,Geography,73.0,41.0,4.0,Practice
+113.0,Computer Science,84.0,37.0,5.0,Practice
+113.0,Economics,48.0,35.0,2.0,Practical
+113.0,Computer Science,69.0,47.0,4.0,Lectures
+113.0,Geography,61.0,40.0,1.0,Visual
+113.0,Economics,64.0,14.0,5.0,Lectures
+113.0,Science,91.0,25.0,4.0,Practical-Reading
+113.0,Science,70.0,31.0,5.0,Practice
+113.0,Chemistry,74.0,53.0,5.0,Lectures-Practical
+113.0,Economics,72.0,41.0,5.0,Lectures
+113.0,Geography,70.0,29.0,3.8680190333082893,Lectures
+113.0,Physics,75.0,37.0,5.0,Reading-Practical
+113.0,Economics,88.0,45.0,5.0,Visual-Lectures
+113.0,Economics,92.0,25.0,3.0,Practice-Practical
+114.0,Physics,76.0,43.0,4.0,Reading-Practical
+114.0,Geography,74.0,36.0,1.0,Practice-Visual
+114.0,Biology,84.0,49.0,5.0,Visual
+114.0,Physics,88.0,22.0,5.0,Visual-Reading
+114.0,Economics,66.0,37.0,2.0,Lectures-Reading
+114.0,Computer Science,79.0,12.0,5.0,Practice
+114.0,English,79.0,22.0,2.0,Practice
+114.0,Computer Science,75.0,19.0,5.0,Practice-Visual
+114.0,Science,76.0,23.0,5.0,Visual
+114.0,Biology,87.0,35.0,2.0,Visual
+114.0,History,76.0,34.0,5.0,Practical
+114.0,Biology,79.0,37.0,1.0,Reading-Practical
+114.0,Physics,87.0,25.0,5.0,Practice
+114.0,Geography,70.0,42.0,5.0,Reading
+114.0,Geography,72.0,33.0,4.0,Visual-Lectures
+114.0,Geography,62.0,29.909250438706444,5.0,Lectures
+114.0,Chemistry,74.0,34.0,5.0,Visual
+114.0,Biology,74.0,24.0,2.0,Lectures
+114.0,Chemistry,86.0,31.0,5.0,Practice
+114.0,Computer Science,82.0,29.909250438706444,5.0,Reading
+115.0,Economics,74.0,50.0,3.0,Visual
+115.0,Mathematics,66.0,27.0,5.0,Practical
+115.0,Mathematics,59.0,12.0,5.0,Reading
+115.0,Mathematics,88.0,48.0,5.0,Practice
+115.0,Mathematics,75.0,23.0,5.0,Reading
+115.0,Physics,68.0,21.0,5.0,Reading-Lectures
+115.0,English,76.0,17.0,2.0,Visual-Practical
+115.0,Geography,75.0,25.0,2.0,Visual
+115.0,Physics,75.08080301129235,20.0,4.0,Practical-Lectures
+115.0,Computer Science,45.0,34.0,5.0,Reading-Visual
+115.0,Geography,81.0,27.0,4.0,Practice
+115.0,English,70.0,24.0,2.0,Reading-Practical
+115.0,Mathematics,67.0,21.0,4.0,Reading
+115.0,English,80.0,42.0,2.0,Practical-Reading
+115.0,Computer Science,84.0,10.0,5.0,Practical-Lectures
+115.0,History,71.0,28.0,2.0,Visual-Practice
+115.0,Physics,73.0,34.0,5.0,Practice-Visual
+115.0,Science,78.0,19.0,5.0,Lectures
+115.0,History,76.0,27.0,4.0,Reading
+115.0,Physics,74.0,36.0,4.0,Visual
+116.0,Physics,65.0,22.0,4.0,Visual
+116.0,Economics,81.0,34.0,2.0,Visual
+116.0,Chemistry,77.0,22.0,5.0,Lectures
+116.0,Physics,80.0,39.0,5.0,Practical-Lectures
+116.0,Economics,75.0,11.0,2.0,Practical
+116.0,Computer Science,54.0,48.0,4.0,Visual
+116.0,History,64.0,17.0,5.0,Lectures-Practical
+116.0,Science,74.0,40.0,5.0,Visual-Practice
+116.0,Economics,76.0,23.0,4.0,Reading-Lectures
+116.0,Science,62.0,51.0,4.0,Practical
+116.0,Computer Science,73.0,45.0,4.0,Reading
+116.0,Physics,73.0,39.0,5.0,Practical-Lectures
+116.0,Geography,76.0,23.0,4.0,Practical-Practice
+116.0,Economics,72.0,25.0,5.0,Lectures
+116.0,Chemistry,96.0,33.0,5.0,Practice-Reading
+116.0,Geography,64.0,38.0,1.0,Practical
+116.0,Science,72.0,38.0,5.0,Reading
+116.0,Economics,73.0,21.0,1.0,Reading
+116.0,Economics,89.0,39.0,2.0,Lectures-Practice
+116.0,Geography,90.0,17.0,4.0,Practical
+117.0,Computer Science,62.0,31.0,4.0,Lectures-Visual
+117.0,Physics,80.0,26.0,5.0,Practical
+117.0,Economics,109.0,27.0,3.0,Lectures-Practice
+117.0,English,82.0,43.0,3.0,Lectures-Practice
+117.0,History,88.0,21.0,2.0,Lectures
+117.0,Economics,81.0,14.0,2.0,Visual-Practice
+117.0,Computer Science,88.0,29.0,5.0,Visual-Practice
+117.0,Biology,72.0,22.0,2.0,Reading-Visual
+117.0,Physics,66.0,25.0,4.0,Practice
+117.0,Computer Science,49.0,30.0,5.0,Reading
+117.0,Biology,87.0,32.0,4.0,Practical-Lectures
+117.0,History,83.0,29.0,3.0,Practice-Visual
+117.0,Physics,67.0,26.0,4.0,Visual
+117.0,Computer Science,83.0,15.0,4.0,Practice
+117.0,Computer Science,84.0,31.0,5.0,Lectures
+117.0,Physics,67.0,36.0,4.0,Visual-Reading
+117.0,Mathematics,67.0,33.0,5.0,Practice
+117.0,Computer Science,64.0,35.0,5.0,Practical
+117.0,Science,77.0,40.0,5.0,Visual
+117.0,Physics,78.0,24.0,5.0,Practical-Practice
+118.0,English,78.0,43.0,4.0,Practice
+118.0,Mathematics,71.0,16.0,5.0,Reading-Visual
+118.0,Physics,61.0,27.0,4.0,Reading
+118.0,Chemistry,85.0,39.0,5.0,Visual
+118.0,Mathematics,77.0,16.0,4.0,Practical
+118.0,Biology,82.0,34.0,5.0,Reading-Practical
+118.0,English,70.0,23.0,2.0,Practice
+118.0,History,74.0,23.0,1.0,Visual-Practical
+118.0,History,81.0,34.0,1.0,Visual-Practice
+118.0,English,70.0,19.0,1.0,Practice
+118.0,English,83.0,41.0,4.0,Practical
+118.0,Physics,88.0,28.0,5.0,Lectures-Reading
+118.0,Economics,87.0,47.0,3.0,Practical-Lectures
+118.0,Mathematics,79.0,37.0,5.0,Practice
+118.0,History,71.0,30.0,4.0,Reading
+118.0,English,90.0,25.0,1.0,Practical
+118.0,Science,66.0,39.0,5.0,Visual
+118.0,History,66.0,22.0,2.0,Practice-Reading
+118.0,Computer Science,56.0,38.0,4.0,Practical-Practice
+118.0,Computer Science,87.0,26.0,5.0,Lectures
+119.0,Mathematics,84.0,45.0,5.0,Practice
+119.0,Mathematics,62.0,24.0,4.0,Practical
+119.0,Computer Science,70.0,30.0,5.0,Practice
+119.0,Computer Science,79.0,31.0,5.0,Lectures-Reading
+119.0,Mathematics,82.0,35.0,4.0,Reading
+119.0,Mathematics,97.0,27.0,5.0,Lectures-Practical
+119.0,History,83.0,28.0,3.0,Reading
+119.0,Physics,70.0,17.0,4.0,Practice
+119.0,Mathematics,82.0,37.0,4.0,Lectures
+119.0,Computer Science,86.0,41.0,5.0,Visual-Lectures
+119.0,Mathematics,61.0,21.0,4.0,Visual-Practical
+119.0,Chemistry,70.0,20.0,5.0,Practice-Visual
+119.0,Geography,85.0,20.0,4.0,Practical-Lectures
+119.0,English,74.0,27.0,5.0,Visual
+119.0,Biology,71.0,6.0,1.0,Practical-Lectures
+119.0,History,90.0,17.0,4.0,Reading-Lectures
+119.0,Biology,86.0,22.0,5.0,Lectures
+119.0,Geography,84.0,29.0,2.0,Visual-Reading
+119.0,Physics,86.0,37.0,5.0,Reading
+119.0,Geography,87.0,24.0,3.0,Visual-Practice
+120.0,English,71.0,17.0,5.0,Practical
+120.0,Science,86.0,38.0,5.0,Visual
+120.0,English,54.0,46.0,2.0,Visual-Practice
+120.0,History,71.0,27.0,4.0,Practice
+120.0,Physics,77.0,36.0,5.0,Reading-Practical
+120.0,Chemistry,63.0,35.0,5.0,Lectures-Visual
+120.0,Mathematics,82.0,26.0,5.0,Reading
+120.0,Geography,79.0,26.0,2.0,Practical-Practice
+120.0,Economics,78.0,1.0,5.0,Practice
+120.0,Physics,80.0,38.0,5.0,Practical
+120.0,Computer Science,86.0,24.0,5.0,Practical-Visual
+120.0,Economics,98.0,38.0,4.0,Reading
+120.0,Physics,74.0,28.0,4.0,Lectures-Practice
+120.0,Economics,69.0,22.0,5.0,Visual-Reading
+120.0,History,71.0,31.0,3.0,Reading-Visual
+120.0,English,77.0,30.0,2.0,Reading
+120.0,Physics,45.0,21.0,5.0,Lectures
+120.0,Computer Science,65.0,36.0,5.0,Practical
+120.0,Chemistry,78.0,26.0,5.0,Practice
+120.0,Economics,70.0,28.0,5.0,Practical
+121.0,History,73.0,31.0,2.0,Visual-Lectures
+121.0,Chemistry,76.0,28.0,4.0,Lectures
+121.0,Chemistry,88.0,28.0,5.0,Visual-Lectures
+121.0,Biology,83.0,45.0,2.0,Practice
+121.0,Geography,74.0,34.0,3.0,Lectures-Visual
+121.0,Geography,79.0,31.0,5.0,Reading
+121.0,Computer Science,60.0,32.0,5.0,Reading-Lectures
+121.0,Science,64.0,30.0,5.0,Visual
+121.0,Economics,64.0,33.0,3.0,Lectures-Reading
+121.0,Economics,66.0,34.0,5.0,Lectures-Reading
+121.0,English,86.0,17.0,1.0,Practical-Visual
+121.0,Geography,82.0,34.0,5.0,Reading
+121.0,Economics,68.0,34.0,5.0,Lectures
+121.0,Physics,62.0,43.0,5.0,Practical-Practice
+121.0,Chemistry,87.0,27.0,4.0,Visual
+121.0,Science,73.0,35.0,5.0,Practice
+121.0,Economics,70.0,18.0,5.0,Practice
+121.0,Biology,83.0,28.0,5.0,Visual-Practical
+121.0,Economics,94.0,30.0,5.0,Practical-Practice
+121.0,Chemistry,78.0,18.0,5.0,Practical
+122.0,Geography,69.0,34.0,4.0,Practice-Reading
+122.0,Mathematics,87.0,43.0,4.0,Visual-Practical
+122.0,Computer Science,79.0,25.0,5.0,Lectures-Practical
+122.0,Geography,95.0,36.0,3.0,Practice
+122.0,Biology,72.0,11.0,5.0,Visual
+122.0,English,82.0,48.0,2.0,Practical
+122.0,Science,83.0,48.0,5.0,Visual
+122.0,Geography,80.0,48.0,3.0,Lectures
+122.0,History,86.0,49.0,4.0,Practical-Reading
+122.0,History,89.0,31.0,2.0,Lectures
+122.0,Geography,64.0,25.0,4.0,Reading-Practice
+122.0,Mathematics,78.0,26.0,5.0,Practice-Visual
+122.0,Geography,73.0,28.0,2.0,Visual-Practical
+122.0,Biology,70.0,24.0,1.0,Visual-Practice
+122.0,Chemistry,75.0,9.0,5.0,Lectures-Visual
+122.0,Science,76.0,30.0,4.0,Practical-Lectures
+122.0,Mathematics,80.0,55.0,5.0,Reading-Practice
+122.0,Mathematics,80.0,21.0,5.0,Visual-Practical
+122.0,Biology,70.0,39.0,1.0,Lectures-Practice
+122.0,Computer Science,94.0,37.0,5.0,Visual
+123.0,Science,72.0,21.0,4.0,Visual
+123.0,English,91.0,29.0,4.0,Practice
+123.0,Chemistry,79.0,30.0,5.0,Practical
+123.0,Mathematics,78.0,33.0,5.0,Practice-Visual
+123.0,Geography,69.0,24.0,5.0,Practice
+123.0,History,65.0,27.0,2.0,Reading
+123.0,History,75.0,36.0,5.0,Lectures
+123.0,Physics,74.0,37.0,3.8680190333082893,Reading-Practical
+123.0,Economics,81.0,32.0,1.0,Reading
+123.0,Physics,95.0,33.0,5.0,Practical
+123.0,Science,65.0,14.0,5.0,Lectures
+123.0,Physics,82.0,28.0,5.0,Practical
+123.0,Mathematics,57.0,37.0,4.0,Lectures-Practice
+123.0,Biology,78.0,32.0,2.0,Lectures
+123.0,English,64.0,28.0,5.0,Lectures
+123.0,Economics,83.0,23.0,3.0,Reading
+123.0,Mathematics,84.0,21.0,5.0,Reading-Practice
+123.0,Computer Science,69.0,19.0,4.0,Visual-Reading
+123.0,Mathematics,84.0,16.0,5.0,Lectures-Visual
+123.0,Computer Science,85.0,21.0,4.0,Visual-Practice
+124.0,Geography,75.0,39.0,2.0,Lectures
+124.0,Physics,81.0,36.0,4.0,Practical
+124.0,Chemistry,63.0,34.0,5.0,Practical-Lectures
+124.0,Science,81.0,24.0,5.0,Reading
+124.0,Physics,85.0,46.0,5.0,Practical-Lectures
+124.0,Computer Science,47.0,10.0,5.0,Lectures
+124.0,Science,76.0,36.0,4.0,Reading-Practical
+124.0,Biology,67.0,32.0,5.0,Reading
+124.0,Science,82.0,38.0,5.0,Practice-Visual
+124.0,Economics,74.0,17.0,4.0,Visual
+124.0,History,65.0,15.0,3.0,Practical-Lectures
+124.0,Chemistry,58.0,31.0,5.0,Practice-Lectures
+124.0,Biology,67.0,25.0,3.0,Visual-Lectures
+124.0,Biology,67.0,29.0,1.0,Visual
+124.0,English,70.0,54.0,1.0,Lectures
+124.0,Science,75.0,57.0,5.0,Practical-Visual
+124.0,Chemistry,73.0,40.0,5.0,Reading-Practical
+124.0,Biology,66.0,27.0,3.0,Lectures-Practical
+124.0,History,69.0,33.0,3.0,Lectures
+124.0,Mathematics,76.0,33.0,5.0,Visual-Lectures
+125.0,History,73.0,33.0,4.0,Lectures
+125.0,Physics,72.0,32.0,4.0,Lectures-Reading
+125.0,Economics,88.0,27.0,1.0,Lectures
+125.0,Mathematics,86.0,19.0,5.0,Practical-Lectures
+125.0,Computer Science,70.0,24.0,5.0,Visual
+125.0,History,56.0,29.0,2.0,Lectures-Practical
+125.0,Computer Science,82.0,37.0,4.0,Practice-Practical
+125.0,Science,81.0,37.0,5.0,Visual
+125.0,History,66.0,38.0,5.0,Practice
+125.0,Economics,77.0,52.0,3.0,Practical
+125.0,Chemistry,72.0,34.0,5.0,Practical
+125.0,Mathematics,74.0,36.0,4.0,Visual
+125.0,Mathematics,76.0,45.0,5.0,Visual-Lectures
+125.0,Mathematics,74.0,31.0,5.0,Visual-Reading
+125.0,Mathematics,81.0,28.0,4.0,Reading
+125.0,Biology,70.0,26.0,4.0,Reading-Practice
+125.0,Biology,71.0,38.0,2.0,Visual
+125.0,Geography,70.0,28.0,3.0,Reading
+125.0,Chemistry,69.0,31.0,5.0,Practical
+125.0,Biology,69.0,6.0,1.0,Practical
+126.0,Chemistry,84.0,24.0,4.0,Lectures-Practice
+126.0,Chemistry,75.0,26.0,5.0,Practice-Reading
+126.0,Physics,71.0,20.0,4.0,Lectures
+126.0,History,82.0,39.0,4.0,Visual
+126.0,Physics,69.0,25.0,5.0,Reading-Visual
+126.0,Chemistry,80.0,16.0,5.0,Lectures-Reading
+126.0,Chemistry,88.0,28.0,4.0,Practice-Practical
+126.0,Chemistry,76.0,44.0,5.0,Practice-Lectures
+126.0,Chemistry,76.0,46.0,5.0,Reading-Practical
+126.0,Physics,59.0,34.0,5.0,Practical
+126.0,Physics,75.0,34.0,4.0,Lectures-Practical
+126.0,Mathematics,83.0,33.0,5.0,Lectures-Practice
+126.0,Science,83.0,37.0,4.0,Reading-Practical
+126.0,Science,91.0,38.0,5.0,Lectures
+126.0,English,75.0,20.0,1.0,Practice
+126.0,Computer Science,61.0,47.0,4.0,Practice-Reading
+126.0,Biology,80.0,34.0,4.0,Reading-Practical
+126.0,Chemistry,74.0,20.0,5.0,Visual
+126.0,Mathematics,78.0,25.0,4.0,Lectures-Practical
+126.0,Chemistry,87.0,7.0,5.0,Lectures-Visual
+127.0,Chemistry,70.0,31.0,4.0,Practical-Lectures
+127.0,Biology,67.0,39.0,3.0,Lectures
+127.0,Economics,73.0,23.0,4.0,Practice
+127.0,Geography,82.0,41.0,3.0,Lectures
+127.0,Biology,92.0,40.0,1.0,Lectures-Practice
+127.0,Physics,57.0,35.0,5.0,Practical-Reading
+127.0,History,79.0,24.0,5.0,Reading-Practice
+127.0,History,74.0,40.0,2.0,Practice-Visual
+127.0,History,90.0,45.0,4.0,Reading
+127.0,Mathematics,77.0,49.0,5.0,Practical
+127.0,Computer Science,74.0,34.0,4.0,Practical
+127.0,Mathematics,70.0,37.0,5.0,Reading-Practical
+127.0,Mathematics,67.0,34.0,4.0,Practice-Practical
+127.0,English,73.0,47.0,2.0,Practical
+127.0,Economics,76.0,25.0,4.0,Visual-Lectures
+127.0,Chemistry,89.0,2.0,5.0,Practice-Lectures
+127.0,Mathematics,62.0,34.0,5.0,Practice
+127.0,Physics,72.0,23.0,5.0,Visual-Reading
+127.0,Mathematics,80.0,20.0,5.0,Lectures
+127.0,Economics,69.0,16.0,4.0,Practice-Practical
+128.0,Chemistry,63.0,28.0,4.0,Practice
+128.0,Computer Science,94.0,35.0,5.0,Visual-Lectures
+128.0,Biology,76.0,25.0,4.0,Visual-Lectures
+128.0,Computer Science,59.0,40.0,4.0,Practical
+128.0,English,92.0,44.0,2.0,Practice
+128.0,English,89.0,39.0,5.0,Lectures
+128.0,Economics,71.0,29.0,5.0,Lectures
+128.0,Geography,66.0,31.0,1.0,Reading
+128.0,Physics,73.0,30.0,5.0,Visual
+128.0,Economics,80.0,36.0,1.0,Visual-Practice
+128.0,Economics,57.0,22.0,5.0,Practice
+128.0,Computer Science,78.0,28.0,5.0,Practical-Practice
+128.0,Economics,78.0,46.0,1.0,Lectures-Practice
+128.0,Computer Science,93.0,28.0,5.0,Reading
+128.0,Chemistry,80.0,23.0,5.0,Lectures
+128.0,Chemistry,71.0,37.0,4.0,Reading
+128.0,Computer Science,71.0,31.0,4.0,Lectures-Reading
+128.0,Physics,80.0,37.0,5.0,Practice-Lectures
+128.0,History,75.0,35.0,3.0,Visual
+128.0,Geography,69.0,25.0,4.0,Practice
+129.0,Geography,71.0,19.0,1.0,Lectures-Visual
+129.0,Physics,80.0,21.0,4.0,Reading
+129.0,Biology,83.0,37.0,1.0,Reading
+129.0,Physics,78.0,37.0,4.0,Visual-Practice
+129.0,Science,68.0,20.0,4.0,Reading
+129.0,History,82.0,27.0,1.0,Practice-Lectures
+129.0,English,84.0,39.0,2.0,Lectures
+129.0,Chemistry,90.0,33.0,5.0,Reading
+129.0,Physics,82.0,31.0,4.0,Practice
+129.0,History,86.0,44.0,2.0,Practice
+129.0,Mathematics,76.0,18.0,5.0,Practice
+129.0,History,83.0,40.0,2.0,Visual
+129.0,Science,76.0,33.0,5.0,Practical
+129.0,Geography,79.0,2.0,5.0,Visual
+129.0,English,78.0,9.0,5.0,Practice
+129.0,Biology,88.0,46.0,3.0,Reading-Practical
+129.0,Science,68.0,18.0,5.0,Reading-Practice
+129.0,Computer Science,62.0,40.0,4.0,Practice-Practical
+129.0,Biology,76.0,39.0,2.0,Lectures
+129.0,Chemistry,60.0,29.0,5.0,Visual-Practical
+130.0,History,59.0,6.0,5.0,Practice-Lectures
+130.0,Physics,74.0,26.0,5.0,Practical
+130.0,Science,64.0,11.0,4.0,Lectures
+130.0,Mathematics,78.0,41.0,5.0,Practice
+130.0,Chemistry,69.0,36.0,4.0,Practice-Reading
+130.0,Economics,67.0,28.0,1.0,Visual-Practice
+130.0,Geography,82.0,37.0,2.0,Visual-Lectures
+130.0,Mathematics,70.0,9.0,5.0,Visual-Lectures
+130.0,English,75.0,25.0,5.0,Practical-Visual
+130.0,Mathematics,77.0,37.0,5.0,Practical
+130.0,Computer Science,77.0,38.0,4.0,Lectures
+130.0,Chemistry,86.0,18.0,5.0,Practical
+130.0,History,82.0,23.0,4.0,Visual
+130.0,Economics,85.0,34.0,1.0,Practice-Practical
+130.0,Physics,74.0,34.0,4.0,Practical-Reading
+130.0,Geography,66.0,34.0,3.0,Practice
+130.0,History,62.0,12.0,3.0,Reading-Visual
+130.0,Computer Science,68.0,13.0,5.0,Lectures-Practical
+130.0,Physics,69.0,35.0,4.0,Visual-Practical
+130.0,Computer Science,84.0,28.0,5.0,Practice
+131.0,Physics,72.0,19.0,5.0,Lectures-Visual
+131.0,Science,81.0,23.0,5.0,Lectures
+131.0,History,74.0,45.0,2.0,Lectures
+131.0,Geography,89.0,21.0,2.0,Visual-Reading
+131.0,Biology,69.0,42.0,2.0,Visual
+131.0,Science,85.0,31.0,5.0,Reading-Lectures
+131.0,Physics,75.08080301129235,34.0,5.0,Visual
+131.0,Science,74.0,28.0,4.0,Practice-Reading
+131.0,Economics,68.0,31.0,4.0,Practical
+131.0,Geography,65.0,44.0,2.0,Practice
+131.0,Computer Science,74.0,24.0,5.0,Lectures
+131.0,History,69.0,35.0,1.0,Reading-Practical
+131.0,English,69.0,21.0,2.0,Reading-Practice
+131.0,History,58.0,28.0,1.0,Visual
+131.0,Economics,103.0,13.0,1.0,Reading
+131.0,History,81.0,35.0,1.0,Practical-Lectures
+131.0,Biology,101.0,45.0,2.0,Visual
+131.0,Computer Science,83.0,28.0,5.0,Reading
+131.0,Geography,74.0,15.0,2.0,Reading
+131.0,Biology,65.0,38.0,1.0,Lectures-Practice
+132.0,English,82.0,34.0,2.0,Practical
+132.0,Physics,74.0,46.0,5.0,Practical
+132.0,Geography,78.0,16.0,1.0,Practice-Practical
+132.0,Physics,79.0,36.0,5.0,Practical-Practice
+132.0,Computer Science,73.0,19.0,4.0,Reading
+132.0,English,103.0,34.0,3.0,Practical-Practice
+132.0,Computer Science,73.0,34.0,5.0,Lectures-Reading
+132.0,English,101.0,21.0,5.0,Lectures-Practice
+132.0,History,74.0,27.0,1.0,Reading-Lectures
+132.0,English,74.0,25.0,5.0,Lectures-Practical
+132.0,Science,86.0,27.0,5.0,Practical-Practice
+132.0,English,70.0,41.0,4.0,Practice-Lectures
+132.0,Biology,84.0,37.0,1.0,Practical
+132.0,Mathematics,63.0,29.0,5.0,Visual
+132.0,Physics,62.0,36.0,5.0,Lectures-Reading
+132.0,Computer Science,75.0,28.0,5.0,Visual
+132.0,Computer Science,86.0,31.0,5.0,Visual
+132.0,English,49.0,31.0,5.0,Practical-Practice
+132.0,Mathematics,75.0,20.0,5.0,Lectures
+132.0,Economics,71.0,26.0,3.0,Visual
+133.0,Computer Science,80.0,34.0,4.0,Practical
+133.0,Biology,80.0,6.0,3.0,Lectures
+133.0,Economics,94.0,36.0,4.0,Practice
+133.0,Mathematics,64.0,28.0,5.0,Reading-Lectures
+133.0,Chemistry,76.0,28.0,5.0,Visual
+133.0,Computer Science,84.0,42.0,5.0,Practice-Lectures
+133.0,Physics,80.0,18.0,5.0,Reading-Practical
+133.0,Mathematics,73.0,8.0,4.0,Practice-Lectures
+133.0,Computer Science,49.0,44.0,5.0,Lectures
+133.0,Chemistry,73.0,45.0,5.0,Visual-Lectures
+133.0,Geography,74.0,40.0,1.0,Practical
+133.0,Biology,82.0,41.0,5.0,Visual
+133.0,Science,61.0,31.0,5.0,Practical
+133.0,Science,63.0,32.0,5.0,Reading
+133.0,Mathematics,78.0,32.0,5.0,Practical-Reading
+133.0,Geography,85.0,47.0,3.0,Lectures-Practical
+133.0,Economics,84.0,32.0,5.0,Practice
+133.0,History,87.0,8.0,1.0,Visual-Practice
+133.0,Economics,83.0,36.0,4.0,Reading
+133.0,Computer Science,74.0,27.0,5.0,Lectures
+134.0,Physics,60.0,32.0,4.0,Practice
+134.0,Physics,86.0,33.0,4.0,Lectures-Practical
+134.0,Science,65.0,32.0,5.0,Practice-Lectures
+134.0,English,74.0,34.0,1.0,Practical
+134.0,Biology,82.0,31.0,1.0,Practice-Lectures
+134.0,Computer Science,73.0,19.0,4.0,Practice
+134.0,Biology,65.0,26.0,4.0,Visual-Reading
+134.0,History,79.0,28.0,4.0,Practical
+134.0,Economics,77.0,34.0,3.0,Visual-Practice
+134.0,Physics,89.0,25.0,5.0,Reading
+134.0,Science,81.0,31.0,5.0,Reading
+134.0,Economics,80.0,20.0,1.0,Practice
+134.0,English,79.0,40.0,2.0,Practice-Reading
+134.0,History,71.0,21.0,4.0,Reading
+134.0,Economics,77.0,33.0,3.0,Practical
+134.0,English,71.0,27.0,4.0,Lectures-Practical
+134.0,History,87.0,20.0,3.0,Visual
+134.0,Economics,86.0,29.0,3.0,Visual
+134.0,Computer Science,69.0,36.0,4.0,Lectures
+134.0,Physics,76.0,21.0,4.0,Practice
+135.0,History,81.0,22.0,3.0,Practice-Practical
+135.0,Science,96.0,45.0,4.0,Lectures-Reading
+135.0,Chemistry,65.0,42.0,5.0,Lectures
+135.0,Computer Science,74.0,35.0,4.0,Lectures
+135.0,History,70.0,41.0,4.0,Practice
+135.0,Computer Science,80.0,18.0,5.0,Practice-Lectures
+135.0,Geography,57.0,46.0,5.0,Practical-Reading
+135.0,Mathematics,74.0,20.0,5.0,Practical
+135.0,Science,69.0,24.0,5.0,Practical
+135.0,Physics,78.0,25.0,5.0,Practice
+135.0,Mathematics,70.0,34.0,5.0,Lectures-Reading
+135.0,Economics,89.0,27.0,2.0,Practical
+135.0,Economics,68.0,23.0,1.0,Lectures
+135.0,Economics,73.0,49.0,1.0,Practical-Visual
+135.0,History,65.0,32.0,1.0,Practice-Reading
+135.0,Biology,91.0,35.0,3.0,Practice-Practical
+135.0,English,87.0,41.0,2.0,Reading-Practical
+135.0,English,81.0,26.0,3.0,Reading
+135.0,Biology,48.0,15.0,5.0,Visual
+135.0,Science,84.0,37.0,5.0,Practical
+136.0,English,77.0,46.0,5.0,Reading-Practice
+136.0,Mathematics,60.0,22.0,5.0,Lectures
+136.0,Science,73.0,39.0,5.0,Lectures
+136.0,History,68.0,37.0,4.0,Lectures-Visual
+136.0,Chemistry,76.0,24.0,5.0,Practical-Reading
+136.0,Physics,70.0,27.0,5.0,Visual
+136.0,Mathematics,86.0,20.0,4.0,Practice
+136.0,Computer Science,77.0,34.0,5.0,Visual
+136.0,English,82.0,23.0,3.0,Practice-Lectures
+136.0,Chemistry,54.0,28.0,4.0,Practice
+136.0,Computer Science,76.0,21.0,5.0,Practice
+136.0,History,81.0,37.0,4.0,Practical
+136.0,Biology,73.0,41.0,3.0,Lectures
+136.0,English,88.0,29.0,1.0,Practical
+136.0,Chemistry,67.0,30.0,5.0,Lectures-Visual
+136.0,English,80.0,26.0,4.0,Practice
+136.0,History,75.0,36.0,1.0,Practice
+136.0,Biology,71.0,38.0,1.0,Lectures-Reading
+136.0,Geography,76.0,9.0,1.0,Visual
+136.0,History,74.0,32.0,4.0,Reading
+137.0,Physics,75.0,26.0,5.0,Lectures
+137.0,Chemistry,83.0,28.0,5.0,Practical
+137.0,Physics,77.0,36.0,5.0,Practice-Reading
+137.0,History,80.0,28.0,3.0,Reading-Visual
+137.0,Economics,78.0,23.0,5.0,Lectures
+137.0,Mathematics,81.0,37.0,5.0,Practice
+137.0,Biology,80.0,19.0,4.0,Lectures-Practice
+137.0,English,64.0,20.0,4.0,Lectures-Practice
+137.0,English,71.0,36.0,2.0,Practice
+137.0,Computer Science,52.0,18.0,4.0,Practice
+137.0,Chemistry,59.0,14.0,5.0,Reading-Practice
+137.0,Science,73.0,33.0,5.0,Visual-Lectures
+137.0,History,79.0,20.0,4.0,Visual
+137.0,Physics,72.0,41.0,5.0,Practical
+137.0,Mathematics,75.0,20.0,5.0,Practical-Reading
+137.0,Biology,67.0,35.0,1.0,Practical-Reading
+137.0,Science,79.0,27.0,4.0,Practice-Lectures
+137.0,Mathematics,79.0,19.0,5.0,Practical
+137.0,Mathematics,74.0,29.0,5.0,Reading-Practical
+137.0,Physics,80.0,24.0,4.0,Practical-Practice
+138.0,Physics,96.0,18.0,4.0,Lectures-Visual
+138.0,Chemistry,83.0,18.0,5.0,Practical-Reading
+138.0,Computer Science,62.0,14.0,5.0,Reading-Visual
+138.0,English,77.0,30.0,5.0,Practice
+138.0,Computer Science,78.0,19.0,5.0,Practical-Reading
+138.0,English,94.0,23.0,2.0,Practice-Lectures
+138.0,Physics,63.0,39.0,5.0,Reading-Visual
+138.0,Economics,92.0,22.0,2.0,Visual-Reading
+138.0,English,77.0,29.0,5.0,Practice
+138.0,Science,79.0,17.0,5.0,Visual-Practical
+138.0,Biology,80.0,33.0,4.0,Visual
+138.0,Biology,65.0,36.0,1.0,Visual
+138.0,Physics,97.0,35.0,4.0,Practical
+138.0,English,76.0,29.0,1.0,Practical-Visual
+138.0,Economics,54.0,41.0,3.0,Practical-Reading
+138.0,Science,84.0,31.0,5.0,Practical
+138.0,Physics,82.0,54.0,5.0,Reading
+138.0,Physics,64.0,23.0,5.0,Practice
+138.0,Computer Science,71.0,38.0,5.0,Practical
+138.0,Biology,88.0,36.0,4.0,Practice-Visual
+139.0,History,63.0,22.0,5.0,Visual
+139.0,Geography,78.0,32.0,1.0,Practice
+139.0,Physics,72.0,44.0,5.0,Practical-Visual
+139.0,Chemistry,76.0,24.0,5.0,Practice-Lectures
+,English,77.0,42.0,2.0,Visual-Practice
+139.0,Computer Science,74.0,13.0,4.0,Practice
+139.0,Science,52.0,36.0,4.0,Visual-Practice
+139.0,History,82.0,30.0,2.0,Reading
+139.0,History,78.0,36.0,2.0,Practical-Visual
+139.0,Chemistry,59.0,28.0,4.0,Visual-Practice
+139.0,Mathematics,76.0,24.0,4.0,Practice
+139.0,Mathematics,89.0,34.0,4.0,Lectures-Practical
+139.0,Mathematics,68.0,38.0,5.0,Visual
+139.0,Science,75.0,30.0,5.0,Visual
+139.0,Chemistry,93.0,37.0,5.0,Visual-Lectures
+139.0,Geography,80.0,14.0,3.0,Visual
+139.0,English,74.0,22.0,3.0,Visual
+139.0,Physics,72.0,24.0,5.0,Lectures
+139.0,Physics,86.0,26.0,5.0,Practice-Practical
+139.0,Mathematics,88.0,7.0,5.0,Practice
+140.0,Science,75.0,43.0,4.0,Reading-Practical
+140.0,Economics,79.0,33.0,3.0,Lectures-Practice
+140.0,Physics,58.0,11.0,4.0,Practical
+140.0,Physics,91.0,31.0,5.0,Practice-Visual
+140.0,Geography,75.0,52.0,5.0,Reading-Lectures
+140.0,Mathematics,92.0,38.0,5.0,Visual-Reading
+140.0,Computer Science,70.0,29.0,5.0,Lectures-Visual
+140.0,Science,64.0,40.0,5.0,Visual-Lectures
+140.0,Science,74.0,13.0,5.0,Reading
+140.0,Economics,76.0,32.0,5.0,Visual
+140.0,Mathematics,75.0,35.0,5.0,Practice
+140.0,Chemistry,79.0,51.0,4.0,Practical-Visual
+140.0,History,76.0,36.0,5.0,Practice-Practical
+140.0,Physics,69.0,16.0,5.0,Practice
+140.0,Mathematics,76.0,20.0,5.0,Practice-Visual
+140.0,Geography,64.0,31.0,5.0,Lectures-Practice
+140.0,English,72.0,10.0,3.0,Visual-Reading
+140.0,History,86.0,13.0,3.0,Visual-Lectures
+140.0,Biology,46.0,35.0,4.0,Visual
+140.0,Computer Science,77.0,24.0,4.0,Lectures-Reading
+141.0,Science,80.0,30.0,4.0,Visual-Practical
+141.0,History,78.0,41.0,3.0,Lectures-Visual
+141.0,Economics,96.0,42.0,3.0,Practical
+141.0,Biology,98.0,13.0,5.0,Practice
+141.0,Physics,70.0,40.0,5.0,Reading
+141.0,Mathematics,73.0,25.0,4.0,Visual-Lectures
+141.0,Mathematics,86.0,30.0,5.0,Practical-Reading
+141.0,Physics,68.0,45.0,1.0,Reading
+141.0,English,73.0,18.0,4.0,Lectures
+141.0,Physics,89.0,41.0,4.0,Reading-Lectures
+141.0,English,61.0,28.0,4.0,Practice
+141.0,History,88.0,42.0,3.0,Visual-Lectures
+141.0,Science,79.0,33.0,4.0,Visual-Lectures
+141.0,English,91.0,29.0,2.0,Reading
+141.0,Science,82.0,31.0,5.0,Reading-Practice
+141.0,Computer Science,69.0,41.0,4.0,Practice-Lectures
+141.0,Chemistry,87.0,34.0,4.0,Practice-Lectures
+141.0,Physics,64.0,35.0,5.0,Practice-Visual
+141.0,Science,90.0,36.0,5.0,Reading
+141.0,Geography,70.0,46.0,2.0,Reading
+142.0,English,86.0,27.0,3.0,Practical
+142.0,Science,57.0,30.0,5.0,Visual
+142.0,Geography,76.0,33.0,1.0,Lectures-Practice
+142.0,Biology,68.0,15.0,4.0,Practice-Practical
+142.0,Chemistry,70.0,39.0,5.0,Lectures-Visual
+142.0,Economics,77.0,33.0,4.0,Visual-Practical
+142.0,Physics,76.0,36.0,4.0,Practice-Visual
+142.0,Economics,88.0,22.0,4.0,Practical-Visual
+142.0,Physics,79.0,31.0,5.0,Practical
+142.0,Biology,64.0,31.0,2.0,Lectures
+142.0,Chemistry,80.0,35.0,5.0,Practice
+142.0,Science,87.0,25.0,5.0,Visual-Practice
+142.0,Mathematics,54.0,33.0,4.0,Practical-Practice
+142.0,Computer Science,72.0,38.0,4.0,Reading
+142.0,History,73.0,36.0,4.0,Visual-Lectures
+142.0,Physics,61.0,24.0,5.0,Visual
+142.0,Physics,82.0,36.0,4.0,Practical-Practice
+142.0,Biology,75.0,23.0,4.0,Visual-Practical
+142.0,Science,61.0,29.0,5.0,Practice
+142.0,Physics,85.0,34.0,5.0,Reading-Visual
+143.0,Mathematics,73.0,29.0,5.0,Reading
+143.0,Chemistry,89.0,43.0,4.0,Practical
+143.0,Biology,64.0,14.0,4.0,Lectures-Practice
+143.0,Geography,87.0,22.0,3.0,Practice
+143.0,Physics,83.0,36.0,4.0,Visual
+143.0,Geography,76.0,44.0,1.0,Visual
+143.0,Economics,71.0,44.0,5.0,Practice-Visual
+143.0,Science,90.0,35.0,4.0,Practical
+143.0,Physics,78.0,19.0,5.0,Lectures
+143.0,Economics,82.0,37.0,3.0,Lectures
+143.0,Economics,77.0,26.0,2.0,Lectures
+143.0,Physics,71.0,35.0,5.0,Practice-Practical
+143.0,Physics,86.0,19.0,5.0,Practical
+143.0,Science,71.0,30.0,4.0,Lectures-Visual
+143.0,Biology,74.0,47.0,1.0,Practice-Practical
+143.0,Geography,67.0,23.0,5.0,Lectures-Practice
+143.0,Science,75.0,26.0,5.0,Practice
+143.0,Science,81.0,29.0,5.0,Practice
+143.0,Physics,84.0,23.0,4.0,Practical
+143.0,English,65.0,24.0,3.0,Visual
+144.0,History,67.0,24.0,3.0,Reading
+144.0,English,84.0,41.0,1.0,Practice-Practical
+144.0,History,86.0,28.0,4.0,Practical-Lectures
+144.0,Science,61.0,36.0,4.0,Practical
+144.0,English,77.0,31.0,5.0,Practical-Visual
+144.0,History,66.0,10.0,5.0,Visual
+144.0,Biology,83.0,23.0,1.0,Visual-Lectures
+144.0,Mathematics,78.0,25.0,5.0,Visual-Lectures
+144.0,Physics,76.0,43.0,5.0,Reading-Visual
+144.0,Science,83.0,40.0,5.0,Practical-Lectures
+144.0,Computer Science,69.0,24.0,4.0,Lectures
+,Computer Science,84.0,40.0,5.0,Lectures-Practice
+144.0,Mathematics,57.0,42.0,5.0,Practice
+144.0,History,80.0,44.0,5.0,Lectures
+144.0,Physics,87.0,24.0,5.0,Practice
+144.0,English,89.0,21.0,1.0,Practice
+144.0,Computer Science,75.0,17.0,5.0,Reading-Lectures
+144.0,Science,73.0,36.0,5.0,Practical
+144.0,Mathematics,80.0,37.0,5.0,Visual
+144.0,Economics,75.0,14.0,3.0,Practice-Visual
+145.0,Physics,76.0,31.0,5.0,Practice
+145.0,Biology,59.0,29.0,1.0,Visual-Lectures
+145.0,Geography,74.0,22.0,1.0,Reading-Practical
+145.0,Computer Science,77.0,40.0,5.0,Reading-Lectures
+145.0,Computer Science,65.0,14.0,5.0,Reading-Practice
+145.0,Physics,75.0,41.0,4.0,Practice
+145.0,History,69.0,42.0,3.0,Visual
+145.0,Physics,72.0,41.0,5.0,Reading-Practical
+145.0,Computer Science,78.0,20.0,4.0,Practical
+145.0,Chemistry,84.0,15.0,5.0,Practice-Reading
+145.0,Physics,74.0,49.0,5.0,Practical
+145.0,Economics,72.0,36.0,3.0,Lectures-Visual
+145.0,History,76.0,36.0,3.0,Practical-Visual
+145.0,Biology,72.0,38.0,2.0,Practice
+145.0,History,72.0,4.0,5.0,Practice-Practical
+145.0,Computer Science,62.0,31.0,5.0,Practical-Practice
+145.0,Computer Science,71.0,29.0,5.0,Practice
+145.0,Mathematics,88.0,41.0,5.0,Visual
+145.0,Mathematics,70.0,19.0,4.0,Lectures-Practical
+145.0,Science,61.0,24.0,5.0,Visual-Practice
+146.0,History,75.0,39.0,5.0,Reading-Lectures
+146.0,Chemistry,85.0,35.0,5.0,Practical-Practice
+146.0,English,90.0,36.0,1.0,Practical
+146.0,Chemistry,81.0,21.0,5.0,Practice
+146.0,Biology,96.0,34.0,3.0,Reading-Lectures
+146.0,Biology,93.0,34.0,3.0,Visual
+146.0,Chemistry,78.0,29.0,5.0,Reading-Visual
+146.0,English,67.0,15.0,2.0,Reading
+146.0,Economics,80.0,38.0,3.0,Practical
+146.0,Biology,63.0,34.0,4.0,Practical
+146.0,Computer Science,83.0,7.0,5.0,Reading
+146.0,Biology,88.0,28.0,1.0,Practical
+146.0,Mathematics,65.0,25.0,5.0,Visual
+146.0,Physics,47.0,10.0,5.0,Visual
+146.0,Geography,74.0,33.0,1.0,Lectures
+146.0,Geography,69.0,34.0,1.0,Visual-Lectures
+146.0,Physics,65.0,33.0,5.0,Lectures
+146.0,History,59.0,49.0,1.0,Practice-Visual
+146.0,Science,61.0,3.0,5.0,Visual-Reading
+146.0,Economics,79.0,25.0,1.0,Reading
+147.0,Biology,71.0,26.0,2.0,Visual-Lectures
+147.0,Physics,75.0,41.0,5.0,Reading-Visual
+147.0,Mathematics,63.0,22.0,5.0,Visual-Practical
+147.0,Computer Science,76.0,13.0,5.0,Lectures-Practical
+147.0,Geography,65.0,37.0,2.0,Practice-Lectures
+147.0,Computer Science,84.0,29.0,5.0,Reading-Practice
+147.0,Economics,77.0,45.0,5.0,Visual
+147.0,Biology,78.0,34.0,1.0,Practice-Practical
+147.0,Geography,63.0,19.0,1.0,Reading-Practical
+147.0,History,73.0,36.0,2.0,Practical-Lectures
+147.0,Economics,71.0,29.0,1.0,Practice-Lectures
+147.0,Physics,71.0,23.0,5.0,Practical-Practice
+147.0,Chemistry,65.0,41.0,5.0,Reading-Practical
+147.0,Geography,68.0,36.0,4.0,Visual-Reading
+147.0,History,74.0,22.0,1.0,Reading-Practical
+147.0,Chemistry,83.0,31.0,5.0,Reading-Practical
+147.0,Chemistry,74.0,36.0,5.0,Reading-Practice
+147.0,Mathematics,57.0,50.0,5.0,Reading
+147.0,Biology,83.0,27.0,2.0,Practical
+147.0,History,90.0,29.0,2.0,Lectures-Practice
+148.0,Mathematics,88.0,32.0,5.0,Visual
+148.0,Mathematics,83.0,22.0,5.0,Reading
+148.0,Economics,81.0,38.0,1.0,Practical-Lectures
+148.0,Geography,77.0,33.0,5.0,Visual
+148.0,Computer Science,67.0,23.0,4.0,Practice-Lectures
+148.0,Chemistry,69.0,22.0,5.0,Practical
+148.0,English,91.0,35.0,4.0,Reading-Practice
+148.0,Mathematics,78.0,38.0,4.0,Lectures-Practical
+148.0,Mathematics,79.0,33.0,5.0,Visual-Lectures
+148.0,Biology,69.0,23.0,1.0,Practical
+148.0,Science,70.0,12.0,4.0,Visual
+148.0,Mathematics,79.0,14.0,4.0,Practical
+148.0,Physics,61.0,32.0,5.0,Practice
+148.0,Science,84.0,15.0,5.0,Practical
+148.0,Science,66.0,36.0,4.0,Practice-Visual
+148.0,Computer Science,89.0,18.0,5.0,Visual
+148.0,Economics,81.0,21.0,2.0,Reading-Lectures
+148.0,Geography,77.0,36.0,3.0,Reading
+148.0,Chemistry,88.0,19.0,5.0,Lectures
+148.0,Physics,73.0,17.0,4.0,Lectures
+149.0,Science,75.0,18.0,5.0,Reading
+149.0,Economics,71.0,49.0,3.0,Lectures-Reading
+149.0,Mathematics,79.0,37.0,4.0,Practice
+149.0,Science,69.0,19.0,5.0,Practical
+149.0,Mathematics,94.0,29.0,5.0,Practical
+149.0,Computer Science,76.0,25.0,4.0,Visual
+149.0,Science,75.0,12.0,4.0,Lectures-Reading
+149.0,Computer Science,80.0,31.0,5.0,Lectures-Practical
+149.0,History,57.0,27.0,5.0,Reading
+149.0,Computer Science,53.0,27.0,4.0,Reading
+149.0,Geography,92.0,31.0,3.0,Lectures
+149.0,Computer Science,66.0,29.0,5.0,Practical
+149.0,Chemistry,87.0,38.0,5.0,Practice-Practical
+149.0,Physics,63.0,21.0,5.0,Lectures-Reading
+149.0,History,76.0,21.0,5.0,Practice
+149.0,Geography,71.0,31.0,3.0,Lectures-Practice
+149.0,Geography,67.0,39.0,4.0,Practice-Lectures
+149.0,Physics,74.0,40.0,4.0,Visual-Practical
+149.0,Science,81.0,18.0,5.0,Visual-Practice
+149.0,Physics,79.0,24.0,5.0,Reading-Practice
+150.0,History,80.0,28.0,5.0,Reading-Visual
+150.0,Computer Science,72.0,39.0,5.0,Practice-Visual
+150.0,Physics,70.0,35.0,5.0,Visual
+150.0,Chemistry,83.0,43.0,5.0,Practical-Visual
+150.0,Chemistry,88.0,32.0,5.0,Lectures-Practice
+150.0,Geography,75.0,23.0,5.0,Practical
+150.0,Computer Science,77.0,30.0,5.0,Practice-Lectures
+150.0,Mathematics,70.0,35.0,5.0,Practical
+150.0,History,73.0,30.0,2.0,Practice
+150.0,Mathematics,87.0,14.0,4.0,Visual
+150.0,History,71.0,17.0,5.0,Practical-Reading
+150.0,Science,79.0,24.0,5.0,Reading-Visual
+150.0,Mathematics,75.0,31.0,5.0,Reading-Lectures
+150.0,English,73.0,20.0,4.0,Visual-Practice
+150.0,Geography,73.0,33.0,2.0,Lectures-Visual
+150.0,Biology,51.0,35.0,5.0,Lectures
+150.0,Physics,84.0,29.0,4.0,Practical
+150.0,Physics,69.0,14.0,4.0,Reading
+150.0,Mathematics,77.0,15.0,5.0,Visual-Practical
+150.0,Biology,52.0,18.0,1.0,Visual
+151.0,Chemistry,69.0,29.0,4.0,Lectures
+151.0,Economics,91.0,31.0,2.0,Lectures-Visual
+151.0,Chemistry,58.0,16.0,4.0,Practice
+151.0,Biology,90.0,55.0,5.0,Practical-Practice
+151.0,Mathematics,79.0,23.0,4.0,Reading
+151.0,Physics,58.0,41.0,5.0,Reading-Practical
+151.0,Science,64.0,31.0,4.0,Lectures
+151.0,Economics,71.0,31.0,2.0,Practice
+151.0,Geography,71.0,29.0,1.0,Practical-Lectures
+151.0,English,90.0,24.0,4.0,Visual-Practical
+151.0,Geography,81.0,24.0,4.0,Practical-Visual
+151.0,Science,70.0,37.0,5.0,Lectures
+151.0,Economics,65.0,32.0,5.0,Practical-Reading
+151.0,Computer Science,73.0,50.0,5.0,Reading
+151.0,Geography,81.0,44.0,4.0,Practice-Lectures
+151.0,History,101.0,32.0,3.0,Practice-Reading
+151.0,Chemistry,84.0,37.0,5.0,Practical-Practice
+151.0,Physics,67.0,1.0,5.0,Visual
+151.0,History,83.0,32.0,5.0,Practical-Visual
+151.0,Science,76.0,26.0,5.0,Lectures
+152.0,English,66.0,11.0,4.0,Lectures
+152.0,Biology,64.0,28.0,3.0,Visual
+152.0,Geography,59.0,33.0,5.0,Visual-Lectures
+152.0,History,77.0,23.0,5.0,Practical
+152.0,Economics,74.0,52.0,3.0,Visual-Lectures
+152.0,Geography,63.0,35.0,4.0,Practice-Practical
+152.0,History,85.0,35.0,3.0,Lectures
+152.0,Computer Science,77.0,26.0,4.0,Practical-Reading
+152.0,Chemistry,67.0,43.0,5.0,Practice
+152.0,Geography,75.0,36.0,2.0,Reading
+152.0,Economics,71.0,31.0,3.0,Practical-Practice
+152.0,English,69.0,22.0,3.0,Practical-Practice
+152.0,History,75.0,11.0,1.0,Visual-Practical
+152.0,Economics,84.0,20.0,1.0,Lectures
+152.0,Mathematics,50.0,8.0,5.0,Visual
+152.0,Biology,81.0,38.0,3.0,Reading
+152.0,English,79.0,15.0,1.0,Visual-Reading
+152.0,Physics,77.0,48.0,5.0,Lectures
+152.0,Chemistry,57.0,21.0,4.0,Visual-Reading
+152.0,Computer Science,68.0,31.0,5.0,Lectures
+153.0,Computer Science,71.0,35.0,5.0,Reading-Practice
+153.0,History,73.0,26.0,5.0,Practice-Visual
+153.0,Physics,75.0,17.0,4.0,Practice-Visual
+153.0,Biology,69.0,49.0,5.0,Reading-Practice
+153.0,Mathematics,71.0,19.0,5.0,Practical
+153.0,Economics,85.0,30.0,2.0,Practice
+153.0,Chemistry,81.0,24.0,5.0,Reading-Practice
+153.0,Computer Science,75.0,30.0,5.0,Lectures-Reading
+153.0,Science,69.0,29.0,5.0,Practical
+153.0,History,60.0,17.0,5.0,Visual-Lectures
+153.0,Computer Science,75.0,24.0,5.0,Practical-Lectures
+153.0,Chemistry,76.0,31.0,5.0,Practice
+153.0,Science,72.0,21.0,5.0,Reading
+153.0,Computer Science,83.0,50.0,4.0,Practice-Lectures
+153.0,Geography,71.0,34.0,4.0,Practice-Visual
+153.0,Mathematics,63.0,34.0,5.0,Practical-Reading
+153.0,Computer Science,91.0,36.0,5.0,Practice-Practical
+153.0,English,71.0,19.0,4.0,Lectures
+153.0,Mathematics,74.0,33.0,5.0,Visual
+153.0,Geography,73.0,34.0,2.0,Visual-Lectures
+154.0,English,73.0,29.0,2.0,Visual
+154.0,Science,80.0,34.0,5.0,Visual-Practical
+154.0,Computer Science,83.0,33.0,5.0,Visual-Practical
+154.0,History,65.0,45.0,2.0,Practical
+154.0,Geography,66.0,41.0,5.0,Practice
+154.0,Economics,91.0,36.0,1.0,Practice
+154.0,Biology,87.0,18.0,3.0,Visual-Practical
+154.0,Mathematics,78.0,25.0,4.0,Practice
+154.0,Physics,68.0,39.0,5.0,Reading-Practical
+154.0,Biology,63.0,21.0,1.0,Reading-Practice
+154.0,Economics,67.0,18.0,5.0,Visual
+154.0,Science,69.0,42.0,5.0,Practice-Practical
+154.0,English,81.0,38.0,4.0,Reading-Practice
+154.0,Science,68.0,28.0,5.0,Practice-Reading
+154.0,Computer Science,81.0,36.0,5.0,Reading-Practice
+154.0,Science,79.0,43.0,4.0,Practical-Visual
+154.0,History,82.0,41.0,1.0,Visual
+154.0,Mathematics,84.0,34.0,4.0,Practical-Visual
+154.0,Computer Science,85.0,28.0,5.0,Practical
+154.0,Computer Science,78.0,35.0,5.0,Practice
+155.0,Economics,74.0,16.0,1.0,Lectures-Practice
+155.0,Biology,81.0,5.0,3.0,Practice
+155.0,English,76.0,45.0,3.0,Practice
+155.0,Biology,73.0,27.0,2.0,Lectures-Reading
+155.0,Mathematics,70.0,27.0,4.0,Lectures
+155.0,Chemistry,66.0,41.0,5.0,Visual-Practice
+155.0,Geography,77.0,31.0,4.0,Lectures
+155.0,Physics,86.0,34.0,5.0,Reading-Lectures
+155.0,Science,71.0,36.0,5.0,Practical-Practice
+155.0,Computer Science,57.0,30.0,5.0,Practical
+155.0,Mathematics,69.0,40.0,5.0,Practice-Lectures
+155.0,English,66.0,44.0,3.0,Visual
+155.0,Computer Science,69.0,24.0,5.0,Practical
+155.0,Biology,97.0,26.0,4.0,Practical
+155.0,History,72.0,30.0,2.0,Reading
+155.0,Physics,78.0,36.0,5.0,Visual-Practical
+155.0,History,59.0,31.0,5.0,Practical
+155.0,Geography,82.0,43.0,5.0,Lectures-Practice
+155.0,Physics,93.0,24.0,4.0,Practice
+155.0,English,80.0,32.0,2.0,Practical
+156.0,Economics,75.0,18.0,2.0,Practice-Reading
+156.0,Geography,83.0,44.0,5.0,Lectures
+156.0,English,71.0,54.0,4.0,Lectures
+156.0,History,60.0,47.0,1.0,Practical
+156.0,History,77.0,34.0,4.0,Reading
+156.0,Physics,77.0,40.0,5.0,Visual-Lectures
+156.0,Computer Science,79.0,45.0,4.0,Visual
+156.0,Chemistry,84.0,39.0,4.0,Practical-Lectures
+156.0,Economics,74.0,32.0,3.0,Visual
+156.0,English,75.08080301129235,33.0,3.0,Reading
+156.0,Mathematics,66.0,21.0,4.0,Practice
+156.0,Biology,70.0,38.0,3.0,Reading-Practice
+156.0,Chemistry,81.0,30.0,5.0,Practice
+156.0,English,78.0,34.0,4.0,Practice-Visual
+156.0,Geography,66.0,36.0,3.0,Visual
+156.0,Biology,58.0,29.0,4.0,Lectures-Practice
+156.0,Geography,73.0,34.0,1.0,Reading-Visual
+156.0,Chemistry,98.0,41.0,5.0,Visual-Reading
+156.0,Economics,71.0,21.0,1.0,Reading
+156.0,English,75.0,26.0,1.0,Practice-Lectures
+157.0,Geography,84.0,36.0,4.0,Reading-Practical
+157.0,Science,69.0,19.0,5.0,Practice
+157.0,English,77.0,38.0,5.0,Lectures-Reading
+157.0,History,61.0,31.0,4.0,Lectures-Practice
+157.0,Physics,70.0,39.0,5.0,Lectures-Reading
+157.0,Geography,72.0,34.0,5.0,Visual
+157.0,Chemistry,73.0,34.0,4.0,Lectures
+157.0,Science,74.0,29.0,4.0,Practical-Visual
+157.0,Chemistry,85.0,43.0,4.0,Visual
+157.0,Computer Science,78.0,30.0,5.0,Lectures-Reading
+157.0,History,66.0,38.0,4.0,Practice
+157.0,Physics,63.0,46.0,5.0,Visual-Lectures
+157.0,Physics,66.0,26.0,5.0,Practice
+157.0,Economics,63.0,38.0,4.0,Reading-Visual
+157.0,Chemistry,76.0,32.0,5.0,Lectures-Practice
+157.0,Chemistry,77.0,35.0,5.0,Practice
+157.0,Economics,79.0,41.0,3.0,Practical
+157.0,Biology,59.0,41.0,1.0,Lectures-Reading
+157.0,English,80.0,24.0,1.0,Practice-Lectures
+157.0,Computer Science,69.0,23.0,5.0,Visual
+158.0,Geography,58.0,31.0,2.0,Visual-Practice
+158.0,Mathematics,85.0,36.0,5.0,Lectures-Reading
+158.0,Mathematics,70.0,39.0,5.0,Practical-Visual
+158.0,Geography,59.0,17.0,5.0,Reading
+158.0,English,65.0,10.0,4.0,Practice-Lectures
+158.0,Geography,77.0,36.0,4.0,Practice-Visual
+158.0,Economics,77.0,41.0,1.0,Practical
+158.0,Computer Science,84.0,17.0,5.0,Lectures-Visual
+158.0,Science,78.0,20.0,5.0,Reading-Practical
+158.0,Biology,86.0,26.0,2.0,Practical
+158.0,Chemistry,71.0,27.0,5.0,Reading-Practical
+158.0,Chemistry,73.0,30.0,5.0,Practical-Reading
+158.0,Biology,94.0,33.0,2.0,Practice
+158.0,Physics,84.0,2.0,4.0,Visual-Reading
+158.0,History,61.0,32.0,3.0,Practice
+158.0,Computer Science,74.0,46.0,5.0,Visual-Reading
+158.0,History,72.0,36.0,1.0,Lectures-Practice
+158.0,Physics,76.0,27.0,5.0,Practice-Lectures
+158.0,Biology,78.0,37.0,2.0,Lectures
+158.0,Science,79.0,29.0,4.0,Lectures-Reading
+159.0,Geography,64.0,27.0,5.0,Reading-Practical
+159.0,Physics,75.0,43.0,5.0,Practical-Lectures
+159.0,Biology,98.0,25.0,3.0,Lectures-Practical
+159.0,Economics,68.0,24.0,5.0,Practice
+159.0,Computer Science,66.0,23.0,5.0,Lectures
+159.0,Geography,77.0,44.0,4.0,Visual-Reading
+159.0,History,61.0,36.0,2.0,Practice-Practical
+159.0,Biology,76.0,38.0,4.0,Practical
+159.0,Biology,68.0,42.0,5.0,Visual-Lectures
+159.0,Computer Science,60.0,29.0,4.0,Visual-Lectures
+159.0,Science,60.0,40.0,5.0,Practice
+159.0,Biology,79.0,50.0,4.0,Practical
+159.0,Chemistry,65.0,21.0,4.0,Reading
+159.0,Physics,68.0,9.0,4.0,Practice
+159.0,Economics,73.0,39.0,4.0,Reading-Lectures
+159.0,Economics,63.0,41.0,2.0,Reading-Visual
+159.0,History,58.0,43.0,3.0,Practical-Reading
+159.0,Computer Science,72.0,38.0,4.0,Lectures
+159.0,Biology,65.0,45.0,5.0,Visual-Lectures
+159.0,Computer Science,62.0,43.0,5.0,Visual
+160.0,Chemistry,76.0,35.0,4.0,Reading
+160.0,Mathematics,64.0,38.0,5.0,Reading
+160.0,Science,65.0,37.0,5.0,Lectures-Practical
+160.0,Chemistry,77.0,26.0,5.0,Practice-Reading
+160.0,Science,85.0,30.0,4.0,Practice
+160.0,History,64.0,13.0,3.0,Reading-Practical
+160.0,History,89.0,33.0,5.0,Practice-Visual
+160.0,Computer Science,66.0,25.0,4.0,Lectures
+160.0,Biology,94.0,41.0,1.0,Practice
+160.0,History,78.0,23.0,3.0,Practical
+160.0,Chemistry,72.0,17.0,5.0,Reading
+160.0,Computer Science,68.0,40.0,4.0,Practical-Practice
+160.0,Chemistry,72.0,41.0,5.0,Lectures
+160.0,Science,77.0,45.0,5.0,Practical
+160.0,Economics,82.0,20.0,5.0,Visual
+160.0,Mathematics,82.0,30.0,5.0,Practical-Visual
+160.0,Science,86.0,28.0,4.0,Reading-Visual
+160.0,History,56.0,18.0,5.0,Practical-Lectures
+160.0,English,77.0,44.0,5.0,Reading
+160.0,Geography,71.0,55.0,2.0,Reading
+161.0,Economics,75.0,26.0,1.0,Lectures
+161.0,Computer Science,70.0,23.0,5.0,Practice
+161.0,Physics,103.0,34.0,4.0,Lectures-Reading
+161.0,Mathematics,71.0,32.0,5.0,Practice
+161.0,Mathematics,77.0,36.0,5.0,Visual
+161.0,English,68.0,29.0,2.0,Practice-Reading
+161.0,Geography,73.0,33.0,4.0,Lectures
+161.0,Mathematics,89.0,39.0,4.0,Reading
+161.0,English,87.0,35.0,3.0,Lectures-Visual
+161.0,Geography,72.0,25.0,1.0,Lectures
+161.0,English,85.0,42.0,5.0,Reading-Lectures
+161.0,Geography,64.0,32.0,2.0,Practical-Practice
+161.0,English,93.0,34.0,4.0,Practical
+161.0,Economics,73.0,32.0,5.0,Lectures-Reading
+161.0,History,75.0,30.0,5.0,Lectures
+161.0,Computer Science,75.0,26.0,5.0,Visual-Reading
+161.0,Science,76.0,27.0,5.0,Practical-Practice
+161.0,Physics,67.0,35.0,5.0,Reading
+161.0,Biology,68.0,24.0,4.0,Lectures-Reading
+161.0,Geography,87.0,28.0,4.0,Reading-Practice
+162.0,Science,88.0,33.0,5.0,Lectures
+162.0,Physics,72.0,25.0,5.0,Practical
+162.0,Physics,83.0,27.0,5.0,Reading-Lectures
+162.0,Chemistry,59.0,27.0,5.0,Practice-Reading
+162.0,Mathematics,73.0,44.0,4.0,Lectures
+162.0,Mathematics,67.0,15.0,4.0,Reading
+162.0,Computer Science,71.0,32.0,5.0,Lectures
+162.0,Science,65.0,37.0,4.0,Reading-Practical
+162.0,Science,65.0,32.0,5.0,Practical
+162.0,Computer Science,71.0,42.0,5.0,Practice-Visual
+162.0,Economics,63.0,27.0,4.0,Lectures
+162.0,Mathematics,101.0,30.0,4.0,Reading-Practice
+162.0,History,64.0,34.0,4.0,Practical-Visual
+162.0,Chemistry,69.0,14.0,5.0,Practice-Lectures
+162.0,Economics,80.0,28.0,5.0,Practice
+162.0,History,74.0,45.0,2.0,Practical
+162.0,Chemistry,75.0,24.0,5.0,Visual
+162.0,Geography,75.0,29.0,3.0,Lectures-Visual
+162.0,Computer Science,71.0,14.0,5.0,Practical
+162.0,Computer Science,97.0,23.0,5.0,Practical
+163.0,Physics,79.0,34.0,4.0,Reading-Lectures
+163.0,English,67.0,34.0,2.0,Practice-Visual
+163.0,Chemistry,88.0,40.0,5.0,Visual-Practical
+163.0,Economics,87.0,40.0,3.0,Practice
+163.0,Biology,60.0,21.0,1.0,Lectures
+163.0,Physics,84.0,38.0,5.0,Practice-Reading
+163.0,Physics,78.0,23.0,5.0,Practical
+163.0,Economics,78.0,28.0,5.0,Lectures-Practice
+163.0,Science,85.0,33.0,5.0,Reading-Practical
+163.0,Economics,81.0,32.0,4.0,Lectures-Practice
+163.0,Geography,76.0,33.0,3.0,Practice-Lectures
+163.0,Geography,80.0,57.0,4.0,Lectures-Practice
+163.0,Physics,69.0,23.0,5.0,Reading
+163.0,Economics,77.0,28.0,2.0,Practical
+163.0,Physics,82.0,38.0,4.0,Practical
+163.0,Computer Science,78.0,18.0,5.0,Visual
+163.0,Mathematics,66.0,24.0,5.0,Lectures-Practice
+163.0,Physics,72.0,29.0,5.0,Visual
+163.0,English,72.0,28.0,1.0,Reading
+163.0,Physics,92.0,21.0,4.0,Practical
+164.0,Physics,87.0,20.0,5.0,Practical-Practice
+164.0,Economics,69.0,49.0,1.0,Practical-Lectures
+164.0,Economics,63.0,29.0,3.0,Practice-Reading
+164.0,Biology,79.0,45.0,5.0,Visual-Reading
+164.0,Biology,82.0,41.0,2.0,Practical-Visual
+164.0,Mathematics,71.0,33.0,5.0,Reading-Practical
+164.0,Computer Science,75.0,29.0,5.0,Lectures-Visual
+164.0,Physics,65.0,26.0,5.0,Lectures
+164.0,Science,82.0,24.0,4.0,Visual-Reading
+164.0,Biology,86.0,25.0,5.0,Lectures
+164.0,Science,85.0,44.0,5.0,Practice-Lectures
+164.0,Physics,73.0,45.0,5.0,Practical
+164.0,Economics,74.0,17.0,3.0,Practice
+164.0,Chemistry,70.0,27.0,5.0,Practical
+164.0,Chemistry,87.0,34.0,5.0,Practice
+164.0,Mathematics,70.0,13.0,5.0,Practical-Visual
+164.0,Economics,72.0,30.0,1.0,Practice
+164.0,Geography,93.0,38.0,4.0,Practice-Lectures
+164.0,Geography,81.0,48.0,1.0,Practice-Practical
+164.0,English,63.0,29.0,4.0,Practical-Lectures
+165.0,Geography,66.0,28.0,5.0,Practice
+165.0,Computer Science,69.0,32.0,4.0,Visual
+165.0,Economics,78.0,40.0,4.0,Lectures-Reading
+165.0,Science,67.0,11.0,5.0,Practical
+165.0,Computer Science,72.0,42.0,5.0,Visual-Reading
+165.0,Computer Science,100.0,20.0,5.0,Reading
+165.0,Mathematics,80.0,33.0,5.0,Practical
+165.0,Geography,82.0,33.0,3.0,Reading-Lectures
+165.0,Geography,80.0,39.0,4.0,Practical
+165.0,Physics,62.0,18.0,4.0,Practice
+165.0,Physics,77.0,21.0,4.0,Lectures-Practical
+165.0,History,78.0,25.0,2.0,Reading-Lectures
+165.0,Computer Science,87.0,35.0,5.0,Practice
+165.0,Chemistry,83.0,37.0,5.0,Reading
+165.0,Geography,84.0,9.0,3.0,Practical
+165.0,Biology,67.0,31.0,5.0,Practical
+165.0,History,61.0,18.0,5.0,Visual-Practical
+165.0,English,65.0,42.0,3.0,Practice-Practical
+165.0,Biology,86.0,18.0,4.0,Practice-Practical
+165.0,Geography,84.0,38.0,2.0,Lectures
+166.0,Computer Science,64.0,46.0,4.0,Reading
+166.0,Chemistry,64.0,43.0,5.0,Practice
+166.0,Biology,60.0,28.0,5.0,Practice
+166.0,Physics,84.0,32.0,5.0,Lectures-Visual
+166.0,Chemistry,63.0,27.0,4.0,Reading
+166.0,English,62.0,29.0,3.0,Practice
+166.0,Biology,77.0,39.0,3.0,Lectures
+166.0,Chemistry,77.0,30.0,5.0,Practice
+166.0,Physics,77.0,39.0,5.0,Practical
+166.0,Mathematics,79.0,41.0,5.0,Visual
+166.0,Biology,86.0,34.0,2.0,Practice-Lectures
+166.0,Geography,76.0,29.0,1.0,Visual
+166.0,Economics,93.0,21.0,4.0,Reading
+166.0,Physics,80.0,33.0,5.0,Lectures-Visual
+166.0,Economics,75.0,36.0,3.0,Practice-Visual
+166.0,Biology,93.0,30.0,3.0,Practical
+166.0,Science,68.0,28.0,5.0,Practice
+166.0,Physics,88.0,15.0,5.0,Practice
+166.0,Geography,67.0,28.0,1.0,Practice-Lectures
+166.0,Geography,69.0,46.0,1.0,Practical-Lectures
+167.0,History,63.0,29.0,5.0,Lectures
+167.0,Computer Science,88.0,47.0,5.0,Practical
+167.0,Geography,80.0,28.0,2.0,Visual-Practical
+167.0,English,71.0,49.0,1.0,Reading
+167.0,Geography,72.0,37.0,4.0,Practice-Practical
+167.0,Chemistry,85.0,34.0,5.0,Practical
+167.0,English,93.0,18.0,1.0,Practical-Practice
+167.0,Computer Science,77.0,40.0,5.0,Lectures-Visual
+167.0,Biology,76.0,35.0,4.0,Practice
+167.0,Economics,89.0,45.0,5.0,Lectures
+167.0,History,79.0,21.0,1.0,Visual-Practice
+167.0,Mathematics,91.0,32.0,5.0,Practice
+167.0,Economics,90.0,43.0,1.0,Practice
+167.0,Mathematics,68.0,16.0,4.0,Practical
+167.0,English,76.0,37.0,2.0,Practice
+167.0,Chemistry,67.0,23.0,4.0,Visual-Practice
+167.0,Mathematics,74.0,20.0,5.0,Visual
+167.0,English,87.0,35.0,1.0,Visual
+167.0,Economics,68.0,49.0,3.0,Visual-Lectures
+167.0,English,72.0,26.0,3.0,Practical
+168.0,History,68.0,36.0,2.0,Practice-Lectures
+168.0,English,77.0,44.0,4.0,Lectures-Visual
+168.0,Mathematics,68.0,38.0,5.0,Practical
+168.0,Physics,67.0,22.0,5.0,Practical-Lectures
+168.0,Chemistry,64.0,28.0,4.0,Reading
+168.0,History,90.0,28.0,1.0,Practice
+168.0,Mathematics,72.0,34.0,5.0,Practical-Lectures
+168.0,Mathematics,89.0,29.0,5.0,Visual-Practice
+168.0,Geography,62.0,49.0,1.0,Visual-Reading
+168.0,History,74.0,47.0,1.0,Lectures-Practical
+168.0,Economics,54.0,27.0,3.0,Practice-Lectures
+168.0,Biology,72.0,26.0,2.0,Practice-Visual
+168.0,Science,80.0,41.0,5.0,Visual-Practical
+168.0,Physics,63.0,48.0,5.0,Practice-Practical
+168.0,Mathematics,83.0,48.0,5.0,Practical
+168.0,Chemistry,89.0,24.0,4.0,Visual
+168.0,Economics,75.0,34.0,2.0,Reading-Lectures
+168.0,English,69.0,12.0,3.0,Visual
+168.0,Physics,58.0,37.0,5.0,Practice-Visual
+168.0,Economics,63.0,14.0,4.0,Lectures-Reading
+169.0,Economics,83.0,28.0,5.0,Practice
+169.0,Mathematics,60.0,41.0,5.0,Practical
+169.0,Science,69.0,48.0,4.0,Practice-Reading
+169.0,Physics,69.0,19.0,5.0,Lectures
+169.0,History,75.0,32.0,3.0,Lectures
+169.0,Science,87.0,24.0,5.0,Reading
+169.0,Mathematics,76.0,36.0,5.0,Practice-Lectures
+169.0,Physics,70.0,34.0,4.0,Lectures
+169.0,Mathematics,92.0,33.0,5.0,Reading-Lectures
+169.0,History,69.0,43.0,1.0,Practical
+169.0,Chemistry,91.0,21.0,5.0,Visual-Lectures
+169.0,History,72.0,32.0,1.0,Visual
+169.0,Biology,71.0,25.0,2.0,Reading-Lectures
+169.0,Science,88.0,36.0,5.0,Practical
+169.0,Physics,78.0,30.0,4.0,Visual
+169.0,Economics,67.0,38.0,5.0,Lectures-Visual
+169.0,English,74.0,25.0,5.0,Practical-Reading
+169.0,Computer Science,63.0,20.0,5.0,Reading-Visual
+169.0,Geography,59.0,41.0,3.0,Visual-Lectures
+169.0,Computer Science,76.0,43.0,5.0,Practical-Lectures
+170.0,Science,63.0,45.0,4.0,Practice-Reading
+170.0,Chemistry,80.0,44.0,5.0,Lectures-Practical
+170.0,Chemistry,76.0,30.0,5.0,Visual-Practical
+170.0,Physics,71.0,24.0,5.0,Lectures
+170.0,Mathematics,72.0,6.0,4.0,Visual-Lectures
+170.0,Economics,76.0,29.0,2.0,Lectures-Practice
+170.0,Chemistry,68.0,26.0,4.0,Reading-Visual
+170.0,History,61.0,24.0,3.0,Visual
+170.0,History,67.0,39.0,2.0,Visual
+170.0,Science,79.0,27.0,4.0,Practice
+170.0,Physics,71.0,18.0,5.0,Reading-Lectures
+170.0,History,77.0,26.0,3.0,Lectures-Reading
+170.0,Computer Science,90.0,14.0,5.0,Practical-Visual
+170.0,Economics,98.0,26.0,1.0,Reading-Visual
+170.0,Biology,83.0,16.0,3.0,Reading
+170.0,History,75.0,36.0,1.0,Practice
+170.0,Economics,96.0,22.0,5.0,Visual
+170.0,Biology,65.0,22.0,2.0,Reading-Practical
+170.0,Science,73.0,17.0,5.0,Practice-Reading
+170.0,Chemistry,76.0,47.0,4.0,Visual
+171.0,English,76.0,30.0,2.0,Visual-Practice
+171.0,English,91.0,28.0,4.0,Visual-Reading
+171.0,English,80.0,22.0,4.0,Lectures
+171.0,Geography,68.0,11.0,3.0,Reading-Practice
+171.0,Chemistry,77.0,21.0,5.0,Reading
+171.0,Mathematics,89.0,20.0,5.0,Reading
+171.0,Science,72.0,30.0,5.0,Practical
+171.0,Biology,78.0,25.0,3.8680190333082893,Visual
+171.0,Biology,64.0,32.0,4.0,Visual
+171.0,Mathematics,56.0,13.0,5.0,Practice
+171.0,Geography,74.0,34.0,1.0,Reading-Visual
+171.0,Mathematics,70.0,18.0,4.0,Visual
+171.0,Geography,85.0,19.0,1.0,Reading
+171.0,Physics,82.0,22.0,5.0,Practical
+171.0,Physics,75.08080301129235,21.0,5.0,Practical
+171.0,Physics,86.0,26.0,5.0,Visual-Lectures
+171.0,Science,73.0,30.0,4.0,Lectures
+171.0,Science,72.0,32.0,5.0,Visual-Lectures
+171.0,Physics,84.0,44.0,5.0,Practice
+171.0,Economics,59.0,33.0,3.0,Practice-Practical
+172.0,Geography,78.0,25.0,5.0,Reading
+172.0,English,78.0,27.0,4.0,Practice
+172.0,Mathematics,69.0,41.0,4.0,Lectures
+172.0,Physics,91.0,27.0,5.0,Reading-Lectures
+172.0,Computer Science,75.0,44.0,5.0,Lectures
+172.0,Physics,77.0,45.0,5.0,Lectures
+172.0,Physics,89.0,18.0,4.0,Lectures-Reading
+172.0,History,81.0,34.0,4.0,Lectures-Practical
+172.0,Physics,74.0,20.0,5.0,Lectures
+172.0,English,77.0,12.0,2.0,Reading
+172.0,Mathematics,73.0,30.0,5.0,Practical-Lectures
+172.0,Science,67.0,32.0,5.0,Lectures-Visual
+172.0,Computer Science,77.0,43.0,5.0,Reading-Practice
+172.0,Chemistry,81.0,24.0,5.0,Visual-Practice
+172.0,Biology,59.0,35.0,2.0,Practical
+172.0,Economics,78.0,51.0,2.0,Practical
+172.0,Mathematics,83.0,24.0,5.0,Lectures-Practical
+172.0,Chemistry,75.0,30.0,4.0,Reading
+172.0,English,79.0,22.0,5.0,Reading
+172.0,Mathematics,69.0,16.0,5.0,Practical
+173.0,Economics,74.0,16.0,2.0,Practical
+173.0,Biology,76.0,53.0,4.0,Lectures-Visual
+173.0,Mathematics,91.0,27.0,5.0,Practice
+173.0,Science,72.0,26.0,5.0,Lectures
+173.0,Physics,86.0,23.0,4.0,Reading-Lectures
+173.0,Geography,57.0,26.0,5.0,Practical-Reading
+173.0,Biology,81.0,38.0,5.0,Visual
+173.0,Science,69.0,47.0,4.0,Visual
+173.0,Mathematics,91.0,47.0,5.0,Practical
+173.0,Geography,61.0,23.0,4.0,Visual
+173.0,Economics,66.0,20.0,4.0,Visual-Practical
+173.0,Physics,50.0,35.0,5.0,Practical-Practice
+173.0,Mathematics,67.0,41.0,5.0,Lectures-Reading
+173.0,Geography,82.0,24.0,1.0,Reading-Visual
+173.0,Science,60.0,43.0,5.0,Practical-Reading
+173.0,Science,66.0,28.0,5.0,Lectures-Practical
+173.0,Computer Science,91.0,41.0,5.0,Practical-Lectures
+173.0,Chemistry,75.0,36.0,5.0,Practical-Practice
+173.0,English,65.0,27.0,2.0,Visual-Practice
+173.0,English,76.0,18.0,1.0,Reading
+174.0,Science,92.0,26.0,4.0,Practice
+174.0,Computer Science,71.0,36.0,5.0,Visual-Lectures
+174.0,Computer Science,83.0,24.0,4.0,Visual-Practical
+174.0,Economics,72.0,34.0,2.0,Reading-Practical
+174.0,Chemistry,87.0,51.0,4.0,Practical-Lectures
+174.0,English,83.0,14.0,3.0,Reading-Visual
+174.0,Biology,87.0,30.0,5.0,Lectures-Practical
+174.0,Chemistry,83.0,36.0,5.0,Practice-Lectures
+174.0,Physics,86.0,23.0,5.0,Practice
+174.0,Physics,72.0,28.0,4.0,Practical
+174.0,Computer Science,108.0,29.0,5.0,Visual-Lectures
+174.0,English,86.0,23.0,1.0,Lectures
+174.0,Geography,70.0,28.0,2.0,Visual
+174.0,Biology,72.0,20.0,3.0,Practice
+174.0,Chemistry,84.0,25.0,5.0,Visual
+174.0,Biology,66.0,22.0,2.0,Reading
+174.0,Economics,70.0,38.0,2.0,Practical
+174.0,Biology,58.0,22.0,4.0,Visual-Practical
+174.0,Biology,86.0,40.0,3.0,Visual-Reading
+174.0,Science,87.0,19.0,4.0,Practice
+175.0,Biology,82.0,39.0,1.0,Practical-Reading
+175.0,Chemistry,66.0,17.0,5.0,Lectures-Practical
+175.0,Mathematics,80.0,21.0,5.0,Practical-Reading
+175.0,Science,76.0,24.0,5.0,Lectures-Practice
+175.0,Science,74.0,45.0,5.0,Lectures-Visual
+175.0,Biology,86.0,29.0,5.0,Practical-Visual
+175.0,Chemistry,77.0,22.0,5.0,Visual
+175.0,Chemistry,82.0,24.0,5.0,Practice-Reading
+175.0,Geography,79.0,35.0,1.0,Lectures
+175.0,Science,80.0,13.0,5.0,Lectures-Practice
+175.0,Chemistry,81.0,14.0,5.0,Lectures
+175.0,Geography,78.0,21.0,3.0,Lectures-Practical
+175.0,English,70.0,19.0,1.0,Practical-Reading
+175.0,Biology,89.0,18.0,2.0,Reading
+175.0,Mathematics,66.0,23.0,5.0,Reading
+175.0,Chemistry,68.0,17.0,5.0,Reading-Practical
+175.0,Mathematics,87.0,25.0,4.0,Practical-Visual
+175.0,English,67.0,38.0,1.0,Reading-Visual
+175.0,History,74.0,22.0,3.0,Reading
+175.0,Chemistry,56.0,27.0,5.0,Practical-Reading
+176.0,Physics,71.0,36.0,5.0,Reading
+176.0,Mathematics,86.0,11.0,4.0,Practical-Practice
+176.0,History,81.0,23.0,4.0,Lectures-Practice
+176.0,Mathematics,65.0,26.0,5.0,Practical
+176.0,Science,94.0,1.0,5.0,Reading-Practical
+176.0,Science,77.0,32.0,5.0,Practice-Lectures
+176.0,Economics,85.0,28.0,1.0,Practical
+176.0,Physics,91.0,36.0,4.0,Visual-Reading
+176.0,English,74.0,14.0,5.0,Lectures-Visual
+176.0,Physics,66.0,36.0,4.0,Lectures-Practical
+176.0,History,89.0,32.0,4.0,Reading
+176.0,Economics,72.0,18.0,2.0,Reading
+176.0,Geography,70.0,28.0,1.0,Reading-Practical
+176.0,Economics,80.0,24.0,1.0,Practical-Practice
+176.0,Physics,68.0,34.0,5.0,Practice
+176.0,History,76.0,41.0,5.0,Practical-Practice
+176.0,Mathematics,65.0,22.0,5.0,Practical
+176.0,Chemistry,72.0,27.0,5.0,Visual-Lectures
+176.0,Computer Science,77.0,46.0,4.0,Reading-Visual
+176.0,Chemistry,79.0,32.0,5.0,Practice-Lectures
+177.0,History,88.0,42.0,3.0,Practice
+177.0,Physics,62.0,18.0,5.0,Reading-Visual
+177.0,Geography,79.0,7.0,2.0,Practice-Reading
+177.0,Mathematics,70.0,33.0,4.0,Visual
+177.0,Biology,66.0,52.0,2.0,Lectures
+177.0,Economics,56.0,18.0,3.0,Visual-Practical
+177.0,Chemistry,72.0,24.0,5.0,Lectures
+177.0,English,85.0,6.0,3.0,Practical-Visual
+177.0,Chemistry,68.0,1.0,5.0,Practice-Visual
+177.0,Chemistry,76.0,34.0,4.0,Lectures
+177.0,Science,86.0,39.0,5.0,Practice
+177.0,English,65.0,31.0,3.0,Practice-Lectures
+177.0,Science,91.0,20.0,4.0,Practice-Visual
+177.0,Physics,81.0,32.0,5.0,Practical
+177.0,Biology,55.0,40.0,3.0,Visual-Lectures
+177.0,Geography,73.0,31.0,1.0,Practical-Visual
+177.0,History,78.0,28.0,1.0,Visual-Practical
+177.0,Computer Science,73.0,27.0,5.0,Practical
+177.0,Geography,76.0,39.0,2.0,Practical
+177.0,Physics,86.0,34.0,5.0,Reading
+178.0,History,71.0,13.0,3.0,Practice
+178.0,History,64.0,8.0,1.0,Practical-Visual
+178.0,Science,92.0,32.0,4.0,Visual
+178.0,Biology,70.0,40.0,1.0,Practice-Practical
+178.0,English,57.0,43.0,3.0,Reading
+178.0,Geography,86.0,14.0,1.0,Reading-Lectures
+178.0,Chemistry,85.0,25.0,5.0,Practice
+178.0,Geography,71.0,36.0,1.0,Reading-Visual
+178.0,History,78.0,40.0,1.0,Visual
+178.0,Geography,81.0,18.0,1.0,Visual-Practical
+178.0,Computer Science,64.0,43.0,4.0,Practical
+178.0,Chemistry,78.0,29.0,4.0,Visual-Practice
+178.0,History,85.0,31.0,4.0,Practice-Practical
+178.0,Mathematics,82.0,53.0,5.0,Visual-Reading
+178.0,Economics,59.0,33.0,2.0,Lectures-Practical
+178.0,Chemistry,59.0,41.0,5.0,Visual-Practical
+178.0,Physics,84.0,35.0,5.0,Visual-Practice
+178.0,Biology,90.0,17.0,1.0,Practical
+178.0,Biology,80.0,28.0,1.0,Visual
+178.0,English,54.0,26.0,2.0,Visual-Practical
+179.0,Geography,75.08080301129235,29.0,1.0,Reading-Practice
+179.0,Mathematics,79.0,18.0,5.0,Reading-Practical
+179.0,Physics,74.0,27.0,5.0,Practical-Reading
+179.0,Physics,85.0,17.0,5.0,Reading
+179.0,Physics,81.0,44.0,5.0,Visual-Practice
+179.0,English,84.0,30.0,2.0,Practical-Reading
+179.0,Science,48.0,43.0,5.0,Practice-Practical
+179.0,Computer Science,57.0,21.0,4.0,Practice-Practical
+179.0,Computer Science,90.0,37.0,5.0,Reading-Practice
+179.0,Chemistry,70.0,29.909250438706444,5.0,Practical
+179.0,Chemistry,72.0,29.0,5.0,Practice
+179.0,Mathematics,78.0,35.0,5.0,Practical-Reading
+179.0,Chemistry,68.0,37.0,5.0,Practice
+179.0,Economics,69.0,24.0,4.0,Visual
+179.0,Physics,62.0,28.0,5.0,Practical
+179.0,Geography,76.0,9.0,2.0,Reading-Lectures
+179.0,Physics,79.0,13.0,5.0,Lectures-Visual
+179.0,Biology,65.0,18.0,4.0,Lectures
+179.0,Economics,57.0,31.0,5.0,Practice
+179.0,Computer Science,62.0,36.0,5.0,Practical
+180.0,Economics,66.0,17.0,4.0,Reading
+180.0,Science,82.0,21.0,4.0,Reading-Visual
+180.0,History,68.0,26.0,2.0,Practice
+180.0,Physics,82.0,39.0,5.0,Reading
+180.0,Computer Science,71.0,27.0,4.0,Reading
+180.0,Geography,79.0,24.0,2.0,Practical
+180.0,Economics,89.0,29.0,4.0,Visual
+180.0,Economics,90.0,31.0,4.0,Reading
+180.0,Mathematics,74.0,32.0,5.0,Visual-Reading
+180.0,Chemistry,85.0,35.0,5.0,Visual
+180.0,Science,78.0,17.0,5.0,Practical-Visual
+180.0,Physics,83.0,29.0,5.0,Reading-Lectures
+180.0,History,86.0,16.0,2.0,Reading
+180.0,Physics,69.0,34.0,5.0,Reading-Practice
+180.0,Computer Science,78.0,52.0,5.0,Visual
+180.0,History,85.0,35.0,5.0,Reading-Visual
+180.0,Chemistry,80.0,19.0,5.0,Practice
+180.0,Physics,70.0,26.0,5.0,Lectures-Practical
+180.0,English,86.0,16.0,4.0,Practical
+180.0,Geography,77.0,17.0,1.0,Lectures-Practical
+181.0,History,91.0,39.0,2.0,Practical-Lectures
+181.0,English,56.0,36.0,5.0,Reading
+181.0,Science,64.0,21.0,4.0,Reading-Visual
+181.0,Economics,90.0,25.0,4.0,Lectures-Practice
+181.0,Science,90.0,16.0,5.0,Practical-Practice
+181.0,History,53.0,27.0,2.0,Visual-Reading
+181.0,Geography,63.0,40.0,4.0,Practical-Visual
+181.0,Mathematics,78.0,37.0,5.0,Practice
+181.0,Science,67.0,30.0,5.0,Practical
+181.0,Biology,83.0,24.0,4.0,Practical
+181.0,Computer Science,82.0,18.0,5.0,Reading
+181.0,Science,70.0,31.0,5.0,Practical
+181.0,History,65.0,29.0,3.0,Reading
+181.0,Science,76.0,43.0,4.0,Practice-Practical
+181.0,Chemistry,91.0,45.0,4.0,Practical-Reading
+181.0,English,84.0,34.0,5.0,Visual-Practice
+181.0,Computer Science,91.0,23.0,5.0,Practice-Lectures
+181.0,English,53.0,16.0,4.0,Visual
+181.0,Geography,81.0,30.0,1.0,Reading
+181.0,Physics,86.0,43.0,4.0,Lectures-Practice
+182.0,Chemistry,74.0,27.0,4.0,Visual-Practical
+182.0,Chemistry,66.0,38.0,4.0,Practice-Practical
+182.0,English,68.0,24.0,2.0,Reading-Practical
+182.0,English,88.0,29.0,2.0,Practice
+182.0,Geography,73.0,40.0,3.0,Lectures
+182.0,English,67.0,29.0,3.0,Practice-Reading
+182.0,Computer Science,66.0,42.0,5.0,Visual
+182.0,Mathematics,77.0,27.0,4.0,Lectures-Reading
+182.0,Chemistry,79.0,34.0,5.0,Practice-Practical
+182.0,Geography,72.0,31.0,1.0,Reading-Practical
+182.0,Computer Science,66.0,32.0,4.0,Lectures
+182.0,Science,68.0,31.0,5.0,Practice
+182.0,Biology,76.0,45.0,3.0,Practical
+182.0,Mathematics,73.0,32.0,5.0,Reading-Practice
+182.0,Computer Science,72.0,37.0,5.0,Visual
+182.0,Geography,79.0,26.0,1.0,Lectures
+182.0,Science,63.0,22.0,5.0,Visual-Lectures
+182.0,Physics,67.0,43.0,5.0,Practice-Visual
+182.0,Chemistry,79.0,50.0,5.0,Lectures
+182.0,Science,67.0,40.0,4.0,Visual-Reading
+183.0,Economics,72.0,36.0,5.0,Practice-Practical
+183.0,English,72.0,31.0,3.0,Lectures
+183.0,Biology,89.0,25.0,4.0,Lectures-Practical
+183.0,Physics,75.0,37.0,5.0,Practical-Lectures
+183.0,Economics,78.0,25.0,5.0,Lectures-Visual
+183.0,Biology,78.0,26.0,4.0,Visual-Practical
+183.0,English,58.0,33.0,3.0,Practical-Practice
+183.0,History,78.0,28.0,5.0,Practice-Lectures
+183.0,Physics,87.0,29.0,5.0,Visual-Practical
+183.0,Physics,72.0,37.0,5.0,Reading
+183.0,Mathematics,70.0,43.0,5.0,Reading-Practice
+183.0,Mathematics,72.0,29.0,5.0,Visual
+183.0,Science,84.0,17.0,5.0,Visual
+183.0,Economics,71.0,25.0,2.0,Practical
+183.0,Science,82.0,25.0,4.0,Visual
+183.0,Mathematics,68.0,27.0,5.0,Lectures
+183.0,Biology,80.0,36.0,5.0,Practical
+183.0,Geography,73.0,35.0,3.0,Practical-Practice
+183.0,Computer Science,77.0,23.0,4.0,Practice-Practical
+183.0,Mathematics,90.0,18.0,5.0,Reading-Practical
+184.0,Economics,73.0,47.0,1.0,Practice-Practical
+184.0,Mathematics,89.0,26.0,4.0,Reading
+184.0,Chemistry,73.0,23.0,5.0,Visual-Practice
+184.0,History,71.0,37.0,4.0,Practical
+184.0,Economics,67.0,28.0,2.0,Practical
+184.0,History,77.0,16.0,4.0,Visual
+184.0,Physics,80.0,28.0,4.0,Practical-Visual
+184.0,English,79.0,48.0,3.0,Practice
+184.0,Science,84.0,40.0,5.0,Visual
+184.0,Computer Science,73.0,48.0,4.0,Visual
+184.0,Mathematics,70.0,28.0,5.0,Lectures-Practice
+184.0,Physics,72.0,42.0,5.0,Practice-Practical
+184.0,Physics,78.0,28.0,5.0,Practical
+184.0,English,72.0,31.0,1.0,Practical
+184.0,Geography,58.0,33.0,3.0,Practical
+184.0,Science,76.0,37.0,5.0,Visual-Reading
+184.0,History,85.0,43.0,3.0,Reading
+184.0,History,80.0,33.0,1.0,Visual-Practice
+184.0,Mathematics,69.0,37.0,5.0,Lectures-Visual
+184.0,Science,73.0,11.0,5.0,Practice-Practical
+185.0,Geography,75.0,26.0,2.0,Practice
+185.0,Geography,77.0,33.0,3.0,Lectures-Visual
+185.0,Economics,78.0,38.0,4.0,Practical-Visual
+185.0,Geography,53.0,22.0,3.0,Visual-Practice
+185.0,Economics,64.0,17.0,3.0,Practice-Practical
+185.0,Biology,81.0,21.0,1.0,Practical
+185.0,Science,83.0,41.0,5.0,Reading
+185.0,Economics,80.0,34.0,1.0,Lectures
+185.0,Mathematics,70.0,22.0,4.0,Visual-Lectures
+185.0,Geography,77.0,29.0,1.0,Reading-Lectures
+185.0,Science,94.0,14.0,5.0,Lectures-Practical
+185.0,History,73.0,46.0,2.0,Visual
+185.0,Geography,87.0,36.0,4.0,Practical
+185.0,History,85.0,37.0,2.0,Lectures-Practice
+185.0,History,77.0,38.0,1.0,Visual-Practice
+185.0,Science,64.0,34.0,4.0,Reading-Practical
+185.0,Biology,73.0,39.0,2.0,Lectures
+185.0,Chemistry,75.0,27.0,4.0,Practical-Visual
+185.0,History,68.0,10.0,4.0,Practice-Practical
+185.0,Economics,74.0,33.0,1.0,Lectures
+186.0,Geography,62.0,12.0,5.0,Reading-Lectures
+186.0,Science,68.0,25.0,5.0,Reading
+186.0,Computer Science,81.0,56.0,5.0,Visual
+186.0,Mathematics,57.0,34.0,5.0,Practical-Lectures
+186.0,Computer Science,62.0,25.0,4.0,Practice-Reading
+186.0,Computer Science,92.0,26.0,4.0,Lectures
+186.0,Mathematics,75.0,46.0,5.0,Practice-Visual
+186.0,Biology,88.0,12.0,3.0,Visual-Practical
+186.0,Mathematics,55.0,30.0,5.0,Practical-Visual
+186.0,Computer Science,71.0,17.0,5.0,Practice
+186.0,Physics,98.0,24.0,5.0,Lectures-Visual
+186.0,History,84.0,40.0,1.0,Reading-Practice
+186.0,Physics,92.0,41.0,5.0,Reading
+186.0,Chemistry,76.0,11.0,5.0,Visual
+186.0,Chemistry,75.0,26.0,4.0,Lectures-Practical
+186.0,History,81.0,21.0,3.0,Reading-Practice
+186.0,Geography,59.0,25.0,3.0,Reading
+186.0,Geography,65.0,24.0,2.0,Lectures
+186.0,Mathematics,78.0,24.0,5.0,Lectures
+186.0,English,75.0,27.0,4.0,Visual
+187.0,Economics,81.0,12.0,5.0,Visual
+187.0,History,86.0,35.0,1.0,Visual
+187.0,Biology,97.0,33.0,5.0,Practical
+187.0,History,68.0,26.0,1.0,Practical-Lectures
+187.0,Science,71.0,18.0,5.0,Visual
+187.0,Science,80.0,30.0,5.0,Practice
+187.0,Computer Science,74.0,17.0,4.0,Lectures-Practice
+187.0,Physics,72.0,23.0,4.0,Reading-Visual
+187.0,History,76.0,29.0,5.0,Visual
+187.0,Physics,88.0,17.0,5.0,Lectures-Reading
+187.0,Computer Science,84.0,23.0,5.0,Practice
+187.0,Computer Science,67.0,14.0,5.0,Practice
+187.0,Economics,104.0,34.0,3.0,Reading-Practice
+187.0,History,72.0,28.0,3.0,Lectures
+187.0,Physics,79.0,34.0,5.0,Visual-Practice
+187.0,Science,80.0,24.0,5.0,Reading-Lectures
+187.0,Science,79.0,14.0,5.0,Visual
+187.0,Geography,75.08080301129235,29.0,4.0,Lectures-Visual
+187.0,Mathematics,78.0,33.0,5.0,Reading-Practice
+187.0,Computer Science,60.0,21.0,5.0,Visual-Lectures
+188.0,Geography,71.0,32.0,5.0,Lectures
+188.0,Mathematics,86.0,6.0,5.0,Practice-Lectures
+188.0,Physics,77.0,14.0,5.0,Reading-Practical
+188.0,History,80.0,31.0,5.0,Practical-Lectures
+188.0,Mathematics,79.0,39.0,4.0,Visual-Practice
+188.0,English,90.0,42.0,4.0,Lectures-Practical
+188.0,Biology,74.0,36.0,4.0,Lectures-Practical
+188.0,Economics,72.0,38.0,4.0,Reading-Practical
+188.0,History,81.0,37.0,4.0,Reading
+188.0,English,74.0,29.0,5.0,Reading-Practice
+188.0,History,69.0,53.0,4.0,Practice-Reading
+188.0,Computer Science,56.0,27.0,5.0,Practical
+188.0,Chemistry,56.0,27.0,5.0,Practical
+188.0,Science,72.0,34.0,5.0,Practice-Practical
+188.0,English,74.0,9.0,2.0,Visual-Lectures
+188.0,Physics,76.0,9.0,5.0,Practical-Visual
+188.0,Economics,70.0,38.0,3.0,Practical-Visual
+188.0,Physics,70.0,27.0,5.0,Visual
+188.0,Science,73.0,31.0,4.0,Practice-Reading
+188.0,Science,62.0,42.0,5.0,Visual
+189.0,Mathematics,92.0,21.0,5.0,Practice-Practical
+189.0,Biology,68.0,46.0,4.0,Visual
+189.0,Science,74.0,37.0,5.0,Reading-Visual
+189.0,Chemistry,67.0,18.0,5.0,Practical
+189.0,Biology,67.0,43.0,4.0,Lectures-Visual
+189.0,Mathematics,91.0,23.0,4.0,Visual
+189.0,History,72.0,45.0,5.0,Reading
+189.0,English,58.0,30.0,4.0,Practical
+189.0,Science,63.0,45.0,5.0,Practical-Reading
+189.0,Mathematics,80.0,37.0,5.0,Reading-Visual
+189.0,Geography,88.0,41.0,5.0,Visual
+189.0,Mathematics,58.0,30.0,4.0,Lectures-Practice
+189.0,Economics,82.0,32.0,4.0,Reading
+189.0,History,62.0,42.0,1.0,Visual-Reading
+189.0,Science,80.0,37.0,5.0,Reading
+189.0,Computer Science,76.0,30.0,4.0,Lectures-Practice
+189.0,Biology,56.0,35.0,4.0,Practical
+189.0,Mathematics,76.0,26.0,4.0,Lectures-Practical
+189.0,English,85.0,22.0,1.0,Reading-Practice
+189.0,Mathematics,57.0,36.0,5.0,Practical
+190.0,History,71.0,30.0,4.0,Lectures-Practical
+190.0,Chemistry,78.0,35.0,5.0,Lectures
+190.0,Chemistry,71.0,44.0,5.0,Reading-Practical
+190.0,English,82.0,32.0,2.0,Lectures
+190.0,Economics,69.0,37.0,5.0,Practical-Lectures
+190.0,English,90.0,43.0,1.0,Lectures-Visual
+190.0,Biology,66.0,41.0,5.0,Visual-Practical
+190.0,Economics,41.0,33.0,3.0,Practice-Reading
+190.0,Computer Science,91.0,26.0,4.0,Lectures-Practice
+190.0,Geography,64.0,20.0,3.0,Practical
+190.0,Mathematics,68.0,47.0,4.0,Visual
+190.0,Computer Science,75.0,23.0,5.0,Lectures
+190.0,Mathematics,80.0,26.0,5.0,Practice
+190.0,English,76.0,40.0,2.0,Reading-Practical
+190.0,Computer Science,82.0,19.0,5.0,Visual-Practice
+190.0,Physics,95.0,26.0,4.0,Reading-Visual
+190.0,Chemistry,85.0,22.0,5.0,Lectures
+190.0,English,67.0,29.0,3.0,Practical-Lectures
+190.0,Computer Science,80.0,22.0,4.0,Reading
+190.0,History,91.0,23.0,4.0,Visual
+191.0,Geography,84.0,36.0,4.0,Lectures-Practical
+191.0,English,65.0,36.0,5.0,Reading
+191.0,Physics,79.0,23.0,4.0,Practical-Lectures
+191.0,Chemistry,79.0,43.0,5.0,Lectures
+191.0,Economics,95.0,41.0,3.0,Visual
+191.0,Science,81.0,38.0,5.0,Visual
+191.0,Economics,67.0,35.0,1.0,Lectures
+191.0,Mathematics,72.0,28.0,5.0,Practical
+191.0,Economics,66.0,32.0,1.0,Practice
+191.0,Biology,89.0,40.0,2.0,Practice
+191.0,Biology,78.0,37.0,2.0,Practice
+191.0,Physics,98.0,36.0,4.0,Reading-Practice
+191.0,Economics,62.0,27.0,2.0,Reading
+191.0,Economics,74.0,12.0,5.0,Lectures-Practice
+191.0,Economics,74.0,28.0,4.0,Practice-Lectures
+191.0,Geography,74.0,39.0,5.0,Reading-Visual
+191.0,Chemistry,82.0,29.0,5.0,Lectures-Visual
+191.0,Physics,61.0,29.0,4.0,Visual
+191.0,Mathematics,67.0,41.0,5.0,Practice
+191.0,Mathematics,64.0,36.0,5.0,Reading
+192.0,Mathematics,81.0,42.0,5.0,Lectures-Reading
+192.0,Physics,58.0,22.0,5.0,Visual
+192.0,Chemistry,69.0,37.0,4.0,Practice
+192.0,Mathematics,80.0,35.0,5.0,Lectures
+192.0,Biology,75.08080301129235,36.0,1.0,Lectures
+192.0,Computer Science,60.0,19.0,4.0,Practice-Visual
+192.0,History,62.0,32.0,1.0,Practical-Practice
+192.0,Science,70.0,24.0,5.0,Practical
+192.0,Science,90.0,42.0,5.0,Lectures-Visual
+192.0,Geography,87.0,35.0,5.0,Practical
+192.0,Economics,54.0,28.0,3.0,Reading
+192.0,Physics,71.0,14.0,4.0,Visual-Practice
+192.0,Biology,81.0,45.0,5.0,Reading
+192.0,Mathematics,68.0,29.0,4.0,Practice-Practical
+192.0,Chemistry,100.0,6.0,5.0,Practical
+192.0,Chemistry,80.0,35.0,4.0,Practice
+192.0,History,80.0,25.0,4.0,Reading-Practice
+192.0,Physics,70.0,22.0,5.0,Visual
+192.0,English,83.0,27.0,3.0,Visual
+192.0,History,95.0,15.0,2.0,Reading-Visual
+193.0,Mathematics,80.0,16.0,5.0,Practice-Lectures
+193.0,Economics,73.0,29.0,2.0,Reading
+193.0,Mathematics,80.0,51.0,4.0,Practice-Visual
+193.0,English,75.0,33.0,1.0,Reading-Practice
+193.0,English,67.0,41.0,3.0,Visual
+193.0,Geography,76.0,27.0,1.0,Practical
+193.0,History,67.0,17.0,5.0,Practical-Practice
+193.0,English,86.0,40.0,5.0,Practical-Visual
+193.0,Geography,81.0,24.0,2.0,Practical-Practice
+193.0,Computer Science,84.0,24.0,5.0,Lectures-Visual
+193.0,Biology,75.0,17.0,5.0,Practical-Practice
+193.0,Physics,74.0,36.0,4.0,Lectures
+193.0,Mathematics,81.0,23.0,4.0,Lectures-Practical
+193.0,Geography,83.0,43.0,2.0,Visual-Practice
+193.0,Science,79.0,29.0,5.0,Reading
+193.0,History,84.0,34.0,1.0,Visual
+193.0,History,55.0,35.0,1.0,Practice
+193.0,Economics,69.0,24.0,1.0,Practical
+193.0,Mathematics,78.0,31.0,5.0,Practical-Lectures
+193.0,Physics,80.0,31.0,5.0,Reading
+194.0,Chemistry,80.0,17.0,5.0,Reading
+194.0,English,71.0,49.0,4.0,Visual-Lectures
+194.0,Physics,66.0,35.0,5.0,Reading-Lectures
+194.0,Chemistry,75.0,34.0,5.0,Visual-Reading
+194.0,History,79.0,10.0,2.0,Reading-Practice
+194.0,Physics,64.0,20.0,5.0,Visual
+194.0,History,72.0,22.0,1.0,Reading-Lectures
+194.0,Biology,67.0,28.0,4.0,Practical
+194.0,Physics,58.0,33.0,5.0,Practice-Practical
+194.0,English,79.0,36.0,3.0,Reading
+194.0,History,73.0,32.0,2.0,Practical
+194.0,Science,70.0,34.0,5.0,Visual
+194.0,Economics,77.0,30.0,4.0,Practical-Visual
+194.0,English,71.0,29.0,3.0,Lectures-Practice
+194.0,Biology,70.0,35.0,4.0,Lectures
+194.0,Computer Science,82.0,15.0,5.0,Reading-Lectures
+194.0,Mathematics,73.0,19.0,5.0,Visual
+194.0,Chemistry,76.0,19.0,5.0,Visual
+194.0,Mathematics,77.0,43.0,5.0,Visual-Lectures
+194.0,Biology,68.0,28.0,2.0,Reading
+195.0,Mathematics,74.0,29.0,5.0,Lectures-Reading
+195.0,Computer Science,79.0,31.0,4.0,Reading
+195.0,Biology,70.0,27.0,5.0,Practical-Practice
+195.0,Computer Science,79.0,17.0,5.0,Practice
+195.0,Geography,80.0,33.0,3.0,Reading
+195.0,Physics,88.0,26.0,5.0,Practice-Lectures
+195.0,Geography,89.0,26.0,1.0,Visual-Lectures
+195.0,Biology,82.0,23.0,1.0,Visual
+195.0,Mathematics,79.0,47.0,5.0,Practical-Practice
+195.0,Science,66.0,19.0,5.0,Practice
+195.0,History,91.0,45.0,2.0,Visual-Practical
+195.0,Economics,79.0,30.0,3.0,Reading-Lectures
+195.0,Physics,83.0,62.0,5.0,Practice
+195.0,Computer Science,82.0,30.0,5.0,Visual
+195.0,Science,46.0,35.0,5.0,Practical
+195.0,English,68.0,41.0,4.0,Lectures-Practical
+195.0,Science,69.0,12.0,4.0,Visual
+195.0,Physics,72.0,31.0,4.0,Visual
+195.0,Computer Science,85.0,30.0,5.0,Visual-Reading
+195.0,Science,75.0,29.909250438706444,5.0,Practice-Visual
+196.0,History,74.0,24.0,4.0,Practical-Visual
+196.0,English,75.0,30.0,4.0,Practical-Visual
+196.0,Economics,72.0,33.0,4.0,Visual
+196.0,Biology,59.0,25.0,4.0,Reading-Practice
+196.0,English,89.0,32.0,2.0,Visual-Practical
+196.0,English,67.0,35.0,5.0,Lectures-Practical
+196.0,History,74.0,42.0,4.0,Lectures-Practical
+196.0,Mathematics,73.0,32.0,5.0,Practical-Reading
+196.0,Physics,80.0,19.0,5.0,Visual
+196.0,Biology,83.0,14.0,2.0,Visual
+196.0,Mathematics,69.0,36.0,4.0,Visual-Practice
+196.0,Science,102.0,34.0,5.0,Practice
+196.0,Biology,75.0,18.0,2.0,Lectures
+196.0,Chemistry,80.0,16.0,5.0,Lectures-Practice
+196.0,Economics,61.0,24.0,1.0,Lectures-Practical
+196.0,Physics,53.0,30.0,4.0,Lectures-Visual
+196.0,Chemistry,87.0,13.0,5.0,Practice
+196.0,Science,87.0,12.0,5.0,Lectures
+196.0,Physics,65.0,33.0,4.0,Visual-Practical
+196.0,Biology,84.0,27.0,3.0,Practice-Reading
+197.0,Geography,72.0,24.0,2.0,Practical-Visual
+197.0,Geography,67.0,33.0,2.0,Practical-Visual
+197.0,History,76.0,21.0,2.0,Reading
+197.0,Science,76.0,41.0,5.0,Lectures
+197.0,English,81.0,22.0,3.0,Practice
+197.0,Science,67.0,33.0,5.0,Lectures
+197.0,Geography,68.0,25.0,4.0,Practice
+197.0,Science,77.0,28.0,5.0,Practical-Lectures
+197.0,Geography,75.0,24.0,5.0,Reading-Practical
+197.0,English,78.0,24.0,5.0,Practice-Visual
+197.0,Economics,73.0,44.0,3.0,Lectures-Practice
+197.0,Physics,83.0,24.0,4.0,Visual-Reading
+197.0,Science,73.0,17.0,5.0,Visual-Lectures
+197.0,English,82.0,40.0,2.0,Reading-Visual
+197.0,Economics,78.0,27.0,2.0,Lectures
+197.0,Computer Science,69.0,41.0,4.0,Practical
+197.0,Mathematics,85.0,56.0,3.8680190333082893,Practical
+197.0,Science,73.0,35.0,5.0,Reading
+197.0,Biology,69.0,41.0,2.0,Practical
+197.0,English,66.0,35.0,4.0,Visual
+198.0,Chemistry,79.0,12.0,5.0,Lectures-Visual
+198.0,Economics,65.0,25.0,4.0,Visual
+198.0,Biology,67.0,16.0,1.0,Practical-Practice
+198.0,Mathematics,72.0,33.0,4.0,Practice
+198.0,Physics,79.0,23.0,4.0,Visual
+198.0,Mathematics,65.0,26.0,5.0,Lectures-Visual
+198.0,Science,75.0,29.0,5.0,Reading-Visual
+198.0,Physics,86.0,50.0,5.0,Reading-Practical
+198.0,Biology,76.0,19.0,4.0,Lectures
+198.0,History,59.0,26.0,3.0,Practice
+198.0,Economics,74.0,41.0,3.0,Visual
+198.0,English,86.0,17.0,3.0,Visual
+198.0,English,76.0,24.0,1.0,Practical
+198.0,Biology,75.0,42.0,2.0,Lectures
+198.0,English,81.0,19.0,4.0,Practice
+198.0,Mathematics,75.0,34.0,4.0,Reading-Practice
+198.0,Physics,65.0,29.909250438706444,4.0,Practical
+198.0,Biology,79.0,22.0,5.0,Lectures
+198.0,Mathematics,88.0,9.0,5.0,Practical
+198.0,Computer Science,84.0,41.0,5.0,Reading-Lectures
+199.0,Biology,88.0,38.0,3.0,Lectures-Reading
+199.0,Economics,81.0,42.0,3.0,Practice-Reading
+199.0,Geography,60.0,27.0,3.0,Practice
+199.0,Mathematics,71.0,27.0,5.0,Practice-Practical
+199.0,Computer Science,86.0,25.0,5.0,Practical-Lectures
+199.0,Economics,80.0,19.0,5.0,Practical
+199.0,English,70.0,21.0,1.0,Reading
+199.0,Science,69.0,45.0,4.0,Visual-Lectures
+199.0,Chemistry,84.0,16.0,5.0,Practice-Practical
+199.0,Science,68.0,54.0,5.0,Lectures-Visual
+199.0,Geography,80.0,25.0,5.0,Lectures-Reading
+199.0,Mathematics,73.0,23.0,4.0,Reading-Lectures
+199.0,Physics,77.0,30.0,4.0,Visual
+199.0,History,79.0,26.0,3.0,Practical
+199.0,Mathematics,57.0,15.0,4.0,Practice
+199.0,History,84.0,30.0,1.0,Reading
+199.0,History,81.0,49.0,5.0,Lectures
+199.0,English,72.0,42.0,5.0,Practical-Practice
+199.0,Biology,79.0,35.0,5.0,Lectures-Reading
+199.0,Chemistry,57.0,35.0,5.0,Practice-Lectures
+200.0,Chemistry,79.0,49.0,4.0,Practical-Reading
+200.0,Chemistry,75.0,45.0,5.0,Lectures-Reading
+200.0,Computer Science,53.0,29.0,4.0,Practice-Lectures
+200.0,Biology,82.0,34.0,1.0,Reading-Lectures
+200.0,Chemistry,92.0,10.0,4.0,Reading-Practical
+200.0,Economics,77.0,29.909250438706444,4.0,Practical
+200.0,Computer Science,73.0,53.0,5.0,Practice
+200.0,Geography,66.0,23.0,4.0,Practical
+200.0,Physics,78.0,45.0,5.0,Visual
+200.0,Physics,83.0,31.0,4.0,Visual
+200.0,Economics,58.0,26.0,5.0,Lectures
+200.0,English,68.0,24.0,1.0,Practice
+200.0,Mathematics,79.0,44.0,5.0,Practical-Visual
+200.0,Science,84.0,16.0,5.0,Practice
+200.0,Geography,68.0,31.0,2.0,Practical-Lectures
+200.0,Geography,64.0,30.0,2.0,Practical-Reading
+200.0,Physics,73.0,44.0,5.0,Lectures
+200.0,Science,89.0,29.0,5.0,Lectures
+200.0,History,64.0,16.0,5.0,Practical
+200.0,English,85.0,22.0,4.0,Practice
