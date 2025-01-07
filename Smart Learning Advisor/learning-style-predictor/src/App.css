@@ -1,0 +1,83 @@
+/* Center the text and set a base font size */
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Ensure the logo is properly sized and animated */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+/* Style the header with a background and center content */
+.App-header {
+  background-color: #007bff; /* Primary color for the header background */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white; /* White text for better contrast */
+}
+
+/* Style the links within the app */
+.App-link {
+  color: #61dafb;
+}
+
+/* Keyframes for logo animation */
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Style for the form container */
+.form-container {
+  background-color: #f9f9f9;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  margin-top: 20px;
+  width: 100%;
+  max-width: 600px;
+}
+
+/* Ensure labels and inputs are properly aligned and spaced */
+.form-control {
+  margin-bottom: 20px;
+}
+
+/* Button styling */
+.submit-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
+
+/* Prediction result styling */
+.prediction-result {
+  margin-top: 20px;
+  color: #333;
+  font-size: 18px;
+}
